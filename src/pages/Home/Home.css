@@ -1,0 +1,40 @@
+.home {
+  background: #0c1b2b;
+}
+
+.navbar__space {
+  padding: 65px;
+  background-color: transparent;
+}
+
+.latest__set__and__articles {
+  display: flex;
+  justify-content: center;
+  margin: 0.2vw 6vw;
+  margin-bottom: 2vw;
+  height: 330px;
+  overflow: hidden;
+}
+.latest_set_section {
+  width: 50%;
+  display: flex;
+}
+.article_section {
+  width: 50%;
+  display: flex;
+}
+
+.homeChart__container {
+  background: #08131f;
+  min-width: 86%;
+  max-width: 86%;
+  border-radius: 15px;
+  margin: 40px auto;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 650px){
+  .homeChart__container {
+    margin: 0px auto 20px auto;
+  }
+}

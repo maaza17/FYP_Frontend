@@ -1,0 +1,78 @@
+.modal {
+    display: block; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 10000; /* Sit on top */
+    padding-top: 80px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0, 0, 0, 0.7); /* Black w/ opacity */
+  }
+  
+  /* Modal Content */
+  .modal-content {
+    border-radius: 20px;
+    background-color: #0c1b2b;
+    color: white;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 90%;
+    min-height: 80vh;
+    max-height: 80vh;
+  }
+.listing__header{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100%;
+    max-width: 100%;
+    justify-content: center;
+    overflow-x: scroll;   
+    overflow-y: scroll;   
+}
+.listing__data{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100%;
+    max-width: 100%;
+    justify-content: center;
+    overflow-x: scroll;   
+    overflow-y: scroll;   
+    max-height: 68vh;
+}
+.oneHeading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    border: 1px solid rgb(70, 70, 70);
+    font-weight: 600;
+}
+.oneRow{
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100%;
+    max-width: 100%;
+    justify-content: center;
+    overflow-x: scroll;
+    min-height: 30px;
+}
+.oneBox{
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(70, 70, 70);
+}
+.listing__cross{
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0c1b2b;
+    cursor: pointer;
+}

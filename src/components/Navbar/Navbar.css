@@ -1,0 +1,57 @@
+* {
+  background: transparent;
+}
+
+.rest__navbar {
+  z-index: 5000 !important;
+  position: fixed;
+  /* background: linear-gradient( to right,#040f1a, #250707f8); */
+  background: linear-gradient(to right, black, rgba(0, 0, 0, 0.007)),
+    url(../../assets/images/herosection-dnd.jpg);
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.rest__navbar-container {
+  width: 86vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+}
+
+.rest__navbar-logo>img {
+  margin: 10px 0px;
+  height: 50px;
+  width: 85px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+}
+
+@media screen and (max-width:900px) {
+
+  .rest__navbar-logo>img {
+    min-height: 35px;
+    max-height: 35px;
+    min-width: 65px;
+    max-width: 65px;
+  }
+}
+
+@media screen and (max-width:550px) {
+  .rest__navbar-container {
+    width: 90vw;
+    margin: auto;
+  }
+
+  
+}

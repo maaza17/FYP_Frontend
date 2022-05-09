@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.market__OneBigBox {
+  /* font-family: "Century Gothic"; */
+  padding: 40px 0px 0px 0px;
+  margin-left: 5vw;
+
+  width: max-content;
+  /* color: gray; */
+  /* border-radius: 5px; */
+}
+.heads {
+  font-size: 15px;
+}
+.OneCat {
+  font-size: 15px;
+  margin-bottom: 5px;
+
+}
+
+.OneBox:hover {
+  border: 1px solid white;
+  border-radius: 25px;
+}
+
+.OneBox {
+  /* font-family: "Century Gothic"; */
+  cursor: pointer;
+  font-size: 15px;
+  padding: 4px;
+  display: flex;
+  /* margin-bottom: 5px; */
+}
+.OneBox > p,
+.OneBox > span {
+  font-size: 12px;
+  align-items: center;
+}
+.Box {
+  /* font-family: "Century Gothic"; */
+  padding-top: 1px;
+  padding-right: 3px;
+  color: #0c1b2b;
+  font-size: 12px;
+}
+.results__found {
+  display: flex;
+  justify-content: center;
+}
+.ResultText {
+  width: 85%;
+  /* font-family: "Century Gothic"; */
+  padding: 10px 10px;
+  color: white;
+}
+.market-page-title {
+  position: fixed;
+  z-index: 80!important;
+  margin: 0 0 0 4%;
+  color: white;
+  font-size: 25px;
+}

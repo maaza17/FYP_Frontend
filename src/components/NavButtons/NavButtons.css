@@ -1,0 +1,32 @@
+  .navbuttons__buttonContainer {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      min-width: 85%;
+      max-width: 95%;
+      padding: 20px 0 0 0;
+      margin: auto;
+  }
+
+  .navbuttons__menu_item {
+      min-width: 35%;
+      max-width: 35%;
+      white-space: nowrap;
+      min-height: fit-content;
+      max-height: fit-content;
+      text-align: center;
+      font-size:x-small;
+      overflow: hidden;
+      cursor: pointer;
+      outline: none;
+      border: 1px solid rgb(99, 99, 99);
+      text-decoration: none;
+      color: rgb(244, 247, 245);
+      text-align: center;
+      border-radius: 10px;
+      padding: 0.5rem 1rem;
+  }
+
+  .navbuttons__menu_item:hover {
+      background-color: #818c993a;
+  }

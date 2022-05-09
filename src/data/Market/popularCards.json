@@ -1,0 +1,57 @@
+[
+    {
+        "cardName": "11111111",
+        "setName": "111111",
+        "fourteenDaySalesVolume": "11111123",
+        "psaTenLatestPrice": 220.45,
+        "tenThirtyDayChange": 4.56,
+        "psaNineLatestPrice": 220.45,
+        "NineThirtyDayChange": 4.56,
+        "releaseYear": "2016",
+        "language": "English"
+    },
+    {
+        "cardName": "Charizard",
+        "setName": "Base Set",
+        "fourteenDaySalesVolume": "541",
+        "psaTenLatestPrice": 220.45,
+        "tenThirtyDayChange": 4.56,
+        "psaNineLatestPrice": 220.45,
+        "NineThirtyDayChange": -4.56,
+        "releaseYear": "1999",
+        "language": "Japanese"
+    },
+    {
+        "cardName": "Blastoise",
+        "setName": "Base Set",
+        "fourteenDaySalesVolume": "190",
+        "psaTenLatestPrice": 220.45,
+        "tenThirtyDayChange": 4.56,
+        "psaNineLatestPrice": 220.45,
+        "NineThirtyDayChange": 4.56,
+        "releaseYear": "1999",
+        "language": "English"
+    },
+    {
+        "cardName": "Eevee",
+        "setName": "Unbroken Boons",
+        "fourteenDaySalesVolume": "190",
+        "psaTenLatestPrice": 220.45,
+        "tenThirtyDayChange": 4.56,
+        "psaNineLatestPrice": 220.45,
+        "NineThirtyDayChange": 4.56,
+        "releaseYear": "2004",
+        "language": "English"
+    },
+    {
+        "cardName": "Alakazam",
+        "setName": "Pokemon Aquapolis",
+        "fourteenDaySalesVolume": "186",
+        "psaTenLatestPrice": 220.45,
+        "tenThirtyDayChange": 4.56,
+        "psaNineLatestPrice": 220.45,
+        "NineThirtyDayChange": 4.56,
+        "releaseYear": "2003",
+        "language": "Japanese"
+    }
+]

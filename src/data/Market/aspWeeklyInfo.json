@@ -1,0 +1,22 @@
+[
+    {
+        "week": "09/11/2021",
+        "averagePrice": 188,
+        "percentageChange": 0.35
+    },
+    {
+        "week": "09/04/2021",
+        "averagePrice": 123,
+        "percentageChange": -0.67
+    },
+    {
+        "week": "08/28/2021",
+        "averagePrice": 123,
+        "percentageChange": 0.44
+    },
+    {
+        "week": "08/21/2021",
+        "averagePrice": 123,
+        "percentageChange": 0.44
+    }
+]

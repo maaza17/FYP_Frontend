@@ -1,0 +1,154 @@
+.record__high {
+  padding: 0px 10px 0px 10px;
+}
+
+.rehi__box {
+  background-color: rgb(15, 15, 15);
+  padding: 15px;
+  border-radius: 15px;
+  /* height: 500px; */
+  color: white;
+  /* position: relative; */
+  margin: 20px 0px;
+}
+
+.rehi__heading__area {
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid rgba(70, 69, 69, 0.933);
+}
+
+.rehi__heading {
+  color: #fff;
+  display: flex;
+  width: 30%;
+  height: 60px;
+  align-items: center;
+  padding-left: 10px;
+  align-items: center;
+  border-right: 4px solid #70AD47;
+}
+
+.rehi__dropdown {
+  width: 25%;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.rehi__description {
+  text-align: right;
+  width: 45%;
+  color: #fff;
+}
+
+.rehi__table__box {
+  background-color: rgb(15, 15, 15);
+  /* height: 350px; */
+  /* display: flex; */
+}
+
+.rehi__info__box {
+  justify-content: center;
+  text-align: center;
+  color: white;
+  width: 100%;
+  align-items: center;
+}
+
+.rehi__info__box__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 0.1px solid rgba(240, 238, 238, 0.432);
+}
+
+.rehi__cn,
+.rehi__sn{
+  padding: 10px 10px;
+  width: 100%;
+}
+.rehi__sd,
+.rehi__g,
+.rehi__sp,
+.rehi__wlow,
+.rehi__pch,
+.rehi__l {
+  padding: 10px 10px;
+  width: 50%;
+}
+
+.rehi__data {
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+}
+
+.rehi__data__row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  text-align: center;
+  height: 55px;
+  justify-content: center;
+  border-bottom: 1px dashed rgba(240, 238, 238, 0.432);
+}
+
+.rehi__data__cn {
+  color: #ffd966;
+  width: 100%;
+  padding: 7px 10px;
+}
+.rehi__data__sn {
+  width: 100%;
+  padding: 7px 10px;
+}
+.rehi__data__sd {
+  width: 50%;
+  padding: 7px 10px;
+}
+.rehi__data__g {
+  color: #8faadc;
+  width: 50%;
+  padding: 7px 10px;
+}
+.rehi__data__sp {
+  color: #ed7d31;
+  width: 50%;
+  padding: 7px 10px;
+}
+
+.rehi__data__wlow {
+  width: 50%;
+  padding: 7px 10px;
+}
+
+.rehi__data__pch {
+  color: #92d050;
+  width: 50%;
+  padding: 7px 10px;
+}
+.rehi__data__pch__n {
+  color: #c00000;
+  width: 50%;
+  padding: 7px 10px;
+}
+
+.rehi__data__l {
+  width: 50%;
+  padding: 7px 10px;
+}
+
+.rehi__fl {
+  display: flex;
+  /* position: absolute; */
+  justify-content: flex-end;
+  margin: 20px !important;
+  /* padding: 20px 10px 10px 0px; */
+  cursor: pointer;
+}

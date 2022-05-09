@@ -1,0 +1,267 @@
+.MasterSetValue {
+    min-height: 90vh;
+}
+
+.MasterSetValue_NavSpace {
+    min-height: 80px;
+    max-height: 80px;
+}
+
+.MasterSetValue_Container {
+    width: 86%;
+    margin: 25px auto 50px auto;
+    color: white;
+}
+
+.MasterSetValue_Head {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.MasterSetValue_Head_Text {
+    margin-top: 20px;
+    font-size: medium;
+}
+.MasterSetValue_Set{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.MasterSetValue_Set_Head {
+    cursor: pointer;
+    width: 60%;
+    font-size: large;
+    margin: 40px 0;
+    background-color: #0c1b2b;
+    border-radius: 7px;
+    border: 1px solid white;
+    text-align: center;
+    padding: 0.5% 0;
+}
+
+.MasterSetValue_Set_Chart {
+    background: #08131f;
+    border-radius: 10px;
+    margin: 0px;
+    padding: 20px 0 0 0;
+    overflow: hidden;
+    width: 100%;
+    min-height: 45vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.MasterSetValue_Set_List_Container {
+    position: absolute;
+    background-color: #0c1b2b;
+    color: white;
+    padding: 5px;
+    min-height: 30vh;
+    max-height: 30vh;
+    border-radius: 10px;
+    max-width: 51%;
+    min-width: 51%;
+    margin: auto;
+    transform: translateY(3%);
+    z-index: 900 !important;
+    border: 1px solid white;
+}
+
+.MasterSetValue_Set_List {
+    min-height: 29vh;
+    max-height: 29vh;
+    overflow: scroll;
+}
+
+.MasterSetValue_Set_List_OneLine_Selected {
+    background-color: #0c1b2b;
+    border: 1px solid white;
+    font-size: 14px;
+    padding: 5px 5px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 0px 3px 3px 0;
+    cursor: pointer;
+}
+
+.MasterSetValue_Set_List_OneLine {
+    background-color: #1a3a5c;
+    font-size: 14px;
+    padding: 5px 5px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 0px 3px 3px 0;
+    cursor: pointer;
+}
+
+.MSV_correlation_header {
+    min-width: 100%;
+    max-width: 100%;
+    margin: 40px auto 20px auto;
+    padding: 8px 0;
+    font-size: 16px;
+    background: #333e50;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+
+.MSV_container {
+    display: flex;
+}
+
+.msv_left_box {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    justify-content: space-evenly;
+}
+
+.msv_right_box {
+    width: 70%;
+    display: flex;
+    overflow-x: hidden;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.msv_left_box_one {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.msv_left_csgrade {
+    width: 35%;
+    min-height: 38px;
+    max-height: 38px;
+    overflow: visible;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.msv_left_csgrade2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    min-height: 58px;
+    max-height: 58px;
+    overflow: visible;
+    margin: 20px 10px;
+}
+
+.msv_left_grade {
+    width: 23%;
+}
+
+.msv_left_average_correlation {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+
+.msv_left_avco {
+    width: 35%;
+    color: #92D050;
+}
+
+.msv_left_avco_values {
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    padding: 10px 0px;
+    background-color: #333F50;
+    border-radius: 10px;
+}
+
+.msv_left_avco_value {
+    width: 22%;
+}
+
+.msv_correlation_note_text {
+    text-align: center;
+    margin: 40px 0;
+    font-size: medium;
+}
+
+.msvcolorOrange {
+    color: #f58a38 !important;
+}
+
+.msvcolorGreen {
+    color: #92D050 !important;
+}
+
+.msvcolorBlue {
+    color: #809dbb !important;
+}
+
+.msvbackcolorTransparent {
+    background-color: transparent;
+}
+
+.msv_left_box_head {
+    min-width: 90%;
+    max-width: 90%;
+    min-height: 20px;
+    max-height: 20px;
+    margin: auto;
+    overflow: visible;
+    padding: 10px 5%;
+    font-size: 16px;
+    background: #333e50;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 600 !important;
+    text-align: center !important;
+}
+
+.msv_right_box_one {
+    min-width: 30%;
+    min-width: 30%;
+}
+
+.msv_right_box_one_year {
+    font-size: 16px;
+    background: #333e50;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center !important;
+    font-weight: 600 !important;
+    padding: 10px 0;
+}
+
+.msv_right_box_one_psa {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+    margin: 30px 0  60px 0;
+}
+
+.msv_right_box_one_value {
+    display: flex;
+    background: #333e50;
+    border-radius: 10px;
+    color: #fff;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}
+.MasterSetValue_Error_Message{
+    font-size: 15px;
+    min-width: 90%;
+    margin: 20vh auto;
+    text-align: center;
+    color: white;
+}

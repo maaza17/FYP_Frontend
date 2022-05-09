@@ -1,0 +1,290 @@
+.analysis {
+  /* height: 350px; */
+  width: 95%;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.sales__volume__distribution__container {
+  width: 100%;
+  background: #08131f;
+  border-radius: 10px;
+}
+
+.svd__heading {
+  /* display: flex; */
+  margin: 15px 50px;
+  padding: 5px;
+  text-align: center;
+  background: #333e50;
+  border-radius: 5px;
+  color: white;
+  font-size: 15px;
+}
+
+.svd__info__container {
+  display: flex;
+  margin: 10px;
+  padding: 1%;
+  height: 75%;
+  justify-content: center;
+  align-self: center;
+  width: 95%;
+}
+
+.svd__legend {
+  width: 50%;
+  padding: 10px;
+  margin: 5px 10px;
+}
+.svd__legend__company {
+  height: 33%;
+  display: flex;
+  margin: 0px 10%;
+  align-items: center;
+  font-size: 15px;
+  justify-content: space-between;
+}
+
+.svd__legend__psa__button {
+  background: #91df70;
+  border: 2px solid #bc8c00;
+  height: 40px;
+  width: 120px;
+  border-radius: 10px;
+  margin: 10px;
+  margin-left: 80px;
+}
+.svd__legend__bgs__button {
+  background: #a4c2f4;
+  border: 2px solid #bc8c00;
+  height: 40px;
+  width: 120px;
+  border-radius: 10px;
+  margin: 10px;
+  margin-left: 80px;
+}
+.svd__legend__cgc__button {
+  background: #e6b8af;
+  border: 2px solid #bc8c00;
+  height: 40px;
+  width: 120px;
+  border-radius: 10px;
+  margin: 10px;
+  margin-left: 80px;
+}
+.svd__legend__info {
+  margin: 10px;
+  font-weight: bold;
+  width: 40%;
+}
+
+.svd__legend__cards {
+  color: white;
+  text-align: right;
+  margin-right: 20px;
+}
+.svd__legend__total {
+  color: #a6a6a6;
+  text-align: right;
+  margin-right: 20px;
+}
+
+.svd__pie__chart {
+  width: 55%;
+  display: flex;
+  overflow: hidden;
+}
+
+.editors__note__container {
+  width: 25%;
+  background: #08131f;
+  border-radius: 10px;
+}
+
+.en__heading {
+  width: 40%;
+  padding: 5px;
+  margin: 15px;
+  text-align: center;
+  background: #333e50;
+  border-radius: 5px;
+  color: white;
+  font-size: 15px;
+}
+
+.en__conditions__container {
+  padding: 10px;
+  height: 75%;
+}
+
+.en__condition {
+  color: white;
+  height: 25%;
+  padding: 10px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.analysis_image_container {
+  display: inline-block;
+  position: relative;
+  
+}
+
+.analysis_image {
+  background-image: url("../../assets/doughnutChart.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #ccc;
+  background-size: cover;
+  width: 85vw;
+  margin: 20px 0px;
+  height: 20vw;
+  filter: blur(10px)
+}
+
+.analysis_image_text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: white;
+  font-size: 1.5vw;
+  font-weight: bold;
+  transform: translate(-50%, -50%);
+}
+
+@media screen and (max-width: 1100px) {
+  .svd__heading {
+    font-size: 1.3vw;
+  }
+  .svd__legend {
+    width: 40%;
+  }
+  .svd__pie__chart {
+    width: 60%;
+  }
+  .svd__legend__company {
+    margin: 0px 8%;
+  }
+  .svd__legend__psa__button,
+  .svd__legend__bgs__button,
+  .svd__legend__cgc__button {
+    margin-left: 20px;
+    width: 10vw;
+    height: 4vw;
+  }
+  .svd__legend__info {
+    width: 55%;
+  }
+  .svd__legend__cards {
+    font-size: 1.3vw;
+  }
+  .svd__legend__cards > span {
+    font-size: 1.3vw;
+    margin-left: 5px;
+  }
+  .svd__legend__total {
+    font-size: 1.3vw;
+  }
+}
+@media screen and (max-width: 960px) {
+  .analysis {
+    margin-top: 10px;
+    height: auto;
+  }
+  /* .svd__heading{
+    font-size: 1.8vw;
+  }
+  .svd__info__container{
+    display: block;
+  } */
+  /* .svd__legend{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+  } */
+  .svd__pie__chart {
+    width: 90%;
+    padding: 0px 0% 0px 0%;
+  }
+  .svd__legend__company {
+    margin: 0px;
+  }
+  .svd__legend__psa__button,
+  .svd__legend__bgs__button,
+  .svd__legend__cgc__button {
+    margin-left: 10px;
+    width: 10vw;
+    height: 3.5vw;
+    margin: 0px;
+  }
+  .svd__legend__info {
+    width: 55%;
+  }
+  .svd__legend__cards {
+    font-size: 1.3vw;
+    margin-right: 0px;
+  }
+  .svd__legend__cards > span {
+    font-size: 1.3vw;
+    margin-left: 5px;
+  }
+  .svd__legend__total {
+    font-size: 1.3vw;
+    margin-right: 0px;
+  }
+}
+@media screen and (max-width: 550px) {
+  .analysis {
+    margin-top: 10px;
+    height: auto;
+  }
+  .svd__heading {
+    font-size: 2.7vw;
+    margin: 10px 20px;
+  }
+  .svd__info__container {
+    display: block;
+  }
+  .svd__legend {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+  }
+  .svd__pie__chart {
+    width: 90%;
+    padding: 0px 0% 0px 5%;
+  }
+  .svd__legend__company {
+    margin: 0px;
+  }
+  .svd__legend__psa__button,
+  .svd__legend__bgs__button,
+  .svd__legend__cgc__button {
+    margin-left: 5px;
+    width: 5vw;
+    height: 3.5vw;
+    border: 1px solid #bc8c00;
+    margin: 0px;
+  }
+  .svd__legend__info {
+    width: 95%;
+  }
+  .svd__legend__cards {
+    font-size: 2vw;
+    margin-right: 0px;
+  }
+  .svd__legend__cards > span {
+    font-size: 2vw;
+    margin-left: 5px;
+  }
+  .svd__legend__total {
+    font-size: 2.5vw;
+    margin-right: 0px;
+  }
+}

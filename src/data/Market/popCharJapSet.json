@@ -1,0 +1,26 @@
+[
+    {
+        "characterName": "Pikachu",
+        "salesVolume": 156,
+        "rank": 543,
+        "thirtyDaysPercentage": 23
+    },
+    {
+        "characterName": "Pikachu",
+        "salesVolume": 56,
+        "rank": 543,
+        "thirtyDaysPercentage": 19
+    },
+    {
+        "characterName": "Pikachu",
+        "salesVolume": 46,
+        "rank": 543,
+        "thirtyDaysPercentage": 15
+    },
+    {
+        "characterName": "Pikachu",
+        "salesVolume": 32,
+        "rank": 543,
+        "thirtyDaysPercentage": 12
+    }
+]

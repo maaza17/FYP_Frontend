@@ -1,0 +1,5602 @@
+[
+    {
+      "Dates_time": "07-01-19",
+      "English_Daily_Average": "69.42033784",
+      "Japanese_Daily_Average": "97.00499325"
+    },
+    {
+      "Dates_time": "08-01-19",
+      "English_Daily_Average": "69.87496357",
+      "Japanese_Daily_Average": "100.3342261"
+    },
+    {
+      "Dates_time": "09-01-19",
+      "English_Daily_Average": "73.62194675",
+      "Japanese_Daily_Average": "98.37217507"
+    },
+    {
+      "Dates_time": "10-01-19",
+      "English_Daily_Average": "72.80707581",
+      "Japanese_Daily_Average": "92.07922907"
+    },
+    {
+      "Dates_time": "11-01-19",
+      "English_Daily_Average": "75.41404983",
+      "Japanese_Daily_Average": "88.11839036"
+    },
+    {
+      "Dates_time": "12-01-19",
+      "English_Daily_Average": "74.46539133",
+      "Japanese_Daily_Average": "95.07466366"
+    },
+    {
+      "Dates_time": "13-01-19",
+      "English_Daily_Average": "72.38392373",
+      "Japanese_Daily_Average": "75.79894657"
+    },
+    {
+      "Dates_time": "14-01-19",
+      "English_Daily_Average": "71.41793134",
+      "Japanese_Daily_Average": "71.21262763"
+    },
+    {
+      "Dates_time": "15-01-19",
+      "English_Daily_Average": "68.84513264",
+      "Japanese_Daily_Average": "72.39083069"
+    },
+    {
+      "Dates_time": "16-01-19",
+      "English_Daily_Average": "66.65759759",
+      "Japanese_Daily_Average": "71.50342592"
+    },
+    {
+      "Dates_time": "17-01-19",
+      "English_Daily_Average": "65.33874567",
+      "Japanese_Daily_Average": "73.61358696"
+    },
+    {
+      "Dates_time": "18-01-19",
+      "English_Daily_Average": "63.76041177",
+      "Japanese_Daily_Average": "77.45873817"
+    },
+    {
+      "Dates_time": "19-01-19",
+      "English_Daily_Average": "62.68735689",
+      "Japanese_Daily_Average": "54.57806928"
+    },
+    {
+      "Dates_time": "20-01-19",
+      "English_Daily_Average": "68.30355169",
+      "Japanese_Daily_Average": "56.02223128"
+    },
+    {
+      "Dates_time": "21-01-19",
+      "English_Daily_Average": "76.64562951",
+      "Japanese_Daily_Average": "63.59321088"
+    },
+    {
+      "Dates_time": "22-01-19",
+      "English_Daily_Average": "78.91871193",
+      "Japanese_Daily_Average": "61.11042176"
+    },
+    {
+      "Dates_time": "23-01-19",
+      "English_Daily_Average": "78.18420924",
+      "Japanese_Daily_Average": "62.02392316"
+    },
+    {
+      "Dates_time": "24-01-19",
+      "English_Daily_Average": "77.03891585",
+      "Japanese_Daily_Average": "60.03208824"
+    },
+    {
+      "Dates_time": "25-01-19",
+      "English_Daily_Average": "76.85678509",
+      "Japanese_Daily_Average": "59.30775788"
+    },
+    {
+      "Dates_time": "26-01-19",
+      "English_Daily_Average": "76.63189121",
+      "Japanese_Daily_Average": "64.04876724"
+    },
+    {
+      "Dates_time": "27-01-19",
+      "English_Daily_Average": "72.49462804",
+      "Japanese_Daily_Average": "65.0336469"
+    },
+    {
+      "Dates_time": "28-01-19",
+      "English_Daily_Average": "78.14469063",
+      "Japanese_Daily_Average": "59.38277956"
+    },
+    {
+      "Dates_time": "29-01-19",
+      "English_Daily_Average": "81.04268342",
+      "Japanese_Daily_Average": "56.90832597"
+    },
+    {
+      "Dates_time": "30-01-19",
+      "English_Daily_Average": "82.77136278",
+      "Japanese_Daily_Average": "56.50172933"
+    },
+    {
+      "Dates_time": "31-01-19",
+      "English_Daily_Average": "84.74213308",
+      "Japanese_Daily_Average": "56.28514621"
+    },
+    {
+      "Dates_time": "01-02-19",
+      "English_Daily_Average": "83.2596242",
+      "Japanese_Daily_Average": "52.1757467"
+    },
+    {
+      "Dates_time": "02-02-19",
+      "English_Daily_Average": "79.88893991",
+      "Japanese_Daily_Average": "47.13643906"
+    },
+    {
+      "Dates_time": "03-02-19",
+      "English_Daily_Average": "86.35106697",
+      "Japanese_Daily_Average": "44.71500057"
+    },
+    {
+      "Dates_time": "04-02-19",
+      "English_Daily_Average": "74.16391052",
+      "Japanese_Daily_Average": "52.68313832"
+    },
+    {
+      "Dates_time": "05-02-19",
+      "English_Daily_Average": "73.16813087",
+      "Japanese_Daily_Average": "54.03060997"
+    },
+    {
+      "Dates_time": "06-02-19",
+      "English_Daily_Average": "69.0222031",
+      "Japanese_Daily_Average": "65.8809461"
+    },
+    {
+      "Dates_time": "07-02-19",
+      "English_Daily_Average": "66.75039591",
+      "Japanese_Daily_Average": "62.71572367"
+    },
+    {
+      "Dates_time": "08-02-19",
+      "English_Daily_Average": "69.16531654",
+      "Japanese_Daily_Average": "62.21196534"
+    },
+    {
+      "Dates_time": "09-02-19",
+      "English_Daily_Average": "71.97305235",
+      "Japanese_Daily_Average": "58.70933064"
+    },
+    {
+      "Dates_time": "10-02-19",
+      "English_Daily_Average": "66.83688218",
+      "Japanese_Daily_Average": "60.91969269"
+    },
+    {
+      "Dates_time": "11-02-19",
+      "English_Daily_Average": "69.54327536",
+      "Japanese_Daily_Average": "54.83399569"
+    },
+    {
+      "Dates_time": "12-02-19",
+      "English_Daily_Average": "71.2357634",
+      "Japanese_Daily_Average": "57.87673689"
+    },
+    {
+      "Dates_time": "13-02-19",
+      "English_Daily_Average": "81.56624913",
+      "Japanese_Daily_Average": "48.59050465"
+    },
+    {
+      "Dates_time": "14-02-19",
+      "English_Daily_Average": "81.19473516",
+      "Japanese_Daily_Average": "48.87363084"
+    },
+    {
+      "Dates_time": "15-02-19",
+      "English_Daily_Average": "75.96623693",
+      "Japanese_Daily_Average": "48.43426807"
+    },
+    {
+      "Dates_time": "16-02-19",
+      "English_Daily_Average": "78.14879286",
+      "Japanese_Daily_Average": "49.90437216"
+    },
+    {
+      "Dates_time": "17-02-19",
+      "English_Daily_Average": "77.73693292",
+      "Japanese_Daily_Average": "49.83915052"
+    },
+    {
+      "Dates_time": "18-02-19",
+      "English_Daily_Average": "75.00407254",
+      "Japanese_Daily_Average": "50.26745467"
+    },
+    {
+      "Dates_time": "19-02-19",
+      "English_Daily_Average": "71.21862659",
+      "Japanese_Daily_Average": "48.89818824"
+    },
+    {
+      "Dates_time": "20-02-19",
+      "English_Daily_Average": "64.12204791",
+      "Japanese_Daily_Average": "45.4449667"
+    },
+    {
+      "Dates_time": "21-02-19",
+      "English_Daily_Average": "65.83359016",
+      "Japanese_Daily_Average": "55.73044639"
+    },
+    {
+      "Dates_time": "22-02-19",
+      "English_Daily_Average": "66.01867208",
+      "Japanese_Daily_Average": "59.9182547"
+    },
+    {
+      "Dates_time": "23-02-19",
+      "English_Daily_Average": "61.33347659",
+      "Japanese_Daily_Average": "67.19893373"
+    },
+    {
+      "Dates_time": "24-02-19",
+      "English_Daily_Average": "56.82721863",
+      "Japanese_Daily_Average": "65.51090185"
+    },
+    {
+      "Dates_time": "25-02-19",
+      "English_Daily_Average": "62.61007712",
+      "Japanese_Daily_Average": "69.42142359"
+    },
+    {
+      "Dates_time": "26-02-19",
+      "English_Daily_Average": "67.38767407",
+      "Japanese_Daily_Average": "71.20064811"
+    },
+    {
+      "Dates_time": "27-02-19",
+      "English_Daily_Average": "74.14505347",
+      "Japanese_Daily_Average": "75.22892542"
+    },
+    {
+      "Dates_time": "28-02-19",
+      "English_Daily_Average": "76.51801669",
+      "Japanese_Daily_Average": "70.33885023"
+    },
+    {
+      "Dates_time": "01-03-19",
+      "English_Daily_Average": "80.27792252",
+      "Japanese_Daily_Average": "71.87719944"
+    },
+    {
+      "Dates_time": "02-03-19",
+      "English_Daily_Average": "89.37095538",
+      "Japanese_Daily_Average": "83.5744681"
+    },
+    {
+      "Dates_time": "03-03-19",
+      "English_Daily_Average": "93.94861045",
+      "Japanese_Daily_Average": "85.11335957"
+    },
+    {
+      "Dates_time": "04-03-19",
+      "English_Daily_Average": "89.82026904",
+      "Japanese_Daily_Average": "84.64506443"
+    },
+    {
+      "Dates_time": "05-03-19",
+      "English_Daily_Average": "84.41198622",
+      "Japanese_Daily_Average": "85.64629661"
+    },
+    {
+      "Dates_time": "06-03-19",
+      "English_Daily_Average": "75.583529",
+      "Japanese_Daily_Average": "84.26591246"
+    },
+    {
+      "Dates_time": "07-03-19",
+      "English_Daily_Average": "71.80710557",
+      "Japanese_Daily_Average": "81.00429842"
+    },
+    {
+      "Dates_time": "08-03-19",
+      "English_Daily_Average": "72.94533704",
+      "Japanese_Daily_Average": "79.99349397"
+    },
+    {
+      "Dates_time": "09-03-19",
+      "English_Daily_Average": "64.59405208",
+      "Japanese_Daily_Average": "64.07983479"
+    },
+    {
+      "Dates_time": "10-03-19",
+      "English_Daily_Average": "62.42646023",
+      "Japanese_Daily_Average": "64.9885331"
+    },
+    {
+      "Dates_time": "11-03-19",
+      "English_Daily_Average": "62.99055933",
+      "Japanese_Daily_Average": "60.72411602"
+    },
+    {
+      "Dates_time": "12-03-19",
+      "English_Daily_Average": "68.26465607",
+      "Japanese_Daily_Average": "60.32020015"
+    },
+    {
+      "Dates_time": "13-03-19",
+      "English_Daily_Average": "68.58346918",
+      "Japanese_Daily_Average": "61.5470675"
+    },
+    {
+      "Dates_time": "14-03-19",
+      "English_Daily_Average": "69.60583632",
+      "Japanese_Daily_Average": "61.73628879"
+    },
+    {
+      "Dates_time": "15-03-19",
+      "English_Daily_Average": "64.50013609",
+      "Japanese_Daily_Average": "69.10867721"
+    },
+    {
+      "Dates_time": "16-03-19",
+      "English_Daily_Average": "65.98915875",
+      "Japanese_Daily_Average": "68.66216956"
+    },
+    {
+      "Dates_time": "17-03-19",
+      "English_Daily_Average": "65.06812491",
+      "Japanese_Daily_Average": "80.46388257"
+    },
+    {
+      "Dates_time": "18-03-19",
+      "English_Daily_Average": "62.5942379",
+      "Japanese_Daily_Average": "80.40017508"
+    },
+    {
+      "Dates_time": "19-03-19",
+      "English_Daily_Average": "56.83428018",
+      "Japanese_Daily_Average": "94.68737103"
+    },
+    {
+      "Dates_time": "20-03-19",
+      "English_Daily_Average": "67.99314511",
+      "Japanese_Daily_Average": "98.832125"
+    },
+    {
+      "Dates_time": "21-03-19",
+      "English_Daily_Average": "67.4821071",
+      "Japanese_Daily_Average": "102.4804989"
+    },
+    {
+      "Dates_time": "22-03-19",
+      "English_Daily_Average": "70.8345268",
+      "Japanese_Daily_Average": "96.89026533"
+    },
+    {
+      "Dates_time": "23-03-19",
+      "English_Daily_Average": "71.704661",
+      "Japanese_Daily_Average": "94.16799816"
+    },
+    {
+      "Dates_time": "24-03-19",
+      "English_Daily_Average": "69.74497073",
+      "Japanese_Daily_Average": "81.83743707"
+    },
+    {
+      "Dates_time": "25-03-19",
+      "English_Daily_Average": "72.31693808",
+      "Japanese_Daily_Average": "82.09169593"
+    },
+    {
+      "Dates_time": "26-03-19",
+      "English_Daily_Average": "72.45487584",
+      "Japanese_Daily_Average": "70.2116194"
+    },
+    {
+      "Dates_time": "27-03-19",
+      "English_Daily_Average": "88.68575684",
+      "Japanese_Daily_Average": "70.22456896"
+    },
+    {
+      "Dates_time": "28-03-19",
+      "English_Daily_Average": "96.29861435",
+      "Japanese_Daily_Average": "65.148671"
+    },
+    {
+      "Dates_time": "29-03-19",
+      "English_Daily_Average": "96.14134448",
+      "Japanese_Daily_Average": "61.86089098"
+    },
+    {
+      "Dates_time": "30-03-19",
+      "English_Daily_Average": "95.7064809",
+      "Japanese_Daily_Average": "64.84454115"
+    },
+    {
+      "Dates_time": "31-03-19",
+      "English_Daily_Average": "101.6150756",
+      "Japanese_Daily_Average": "63.10650441"
+    },
+    {
+      "Dates_time": "01-04-19",
+      "English_Daily_Average": "108.7328534",
+      "Japanese_Daily_Average": "64.41293169"
+    },
+    {
+      "Dates_time": "02-04-19",
+      "English_Daily_Average": "118.6090269",
+      "Japanese_Daily_Average": "61.77869699"
+    },
+    {
+      "Dates_time": "03-04-19",
+      "English_Daily_Average": "99.60272342",
+      "Japanese_Daily_Average": "55.70864066"
+    },
+    {
+      "Dates_time": "04-04-19",
+      "English_Daily_Average": "94.82116365",
+      "Japanese_Daily_Average": "68.83931448"
+    },
+    {
+      "Dates_time": "05-04-19",
+      "English_Daily_Average": "101.7637138",
+      "Japanese_Daily_Average": "71.68398225"
+    },
+    {
+      "Dates_time": "06-04-19",
+      "English_Daily_Average": "113.8068993",
+      "Japanese_Daily_Average": "71.70317211"
+    },
+    {
+      "Dates_time": "07-04-19",
+      "English_Daily_Average": "107.9572505",
+      "Japanese_Daily_Average": "70.55870602"
+    },
+    {
+      "Dates_time": "08-04-19",
+      "English_Daily_Average": "103.0884278",
+      "Japanese_Daily_Average": "66.89521318"
+    },
+    {
+      "Dates_time": "09-04-19",
+      "English_Daily_Average": "95.65983864",
+      "Japanese_Daily_Average": "72.05244734"
+    },
+    {
+      "Dates_time": "10-04-19",
+      "English_Daily_Average": "88.596488",
+      "Japanese_Daily_Average": "75.15316651"
+    },
+    {
+      "Dates_time": "11-04-19",
+      "English_Daily_Average": "85.97305014",
+      "Japanese_Daily_Average": "63.42465256"
+    },
+    {
+      "Dates_time": "12-04-19",
+      "English_Daily_Average": "77.8666469",
+      "Japanese_Daily_Average": "65.72822399"
+    },
+    {
+      "Dates_time": "13-04-19",
+      "English_Daily_Average": "65.68632835",
+      "Japanese_Daily_Average": "61.06867011"
+    },
+    {
+      "Dates_time": "14-04-19",
+      "English_Daily_Average": "76.72932168",
+      "Japanese_Daily_Average": "60.73980943"
+    },
+    {
+      "Dates_time": "15-04-19",
+      "English_Daily_Average": "77.40787181",
+      "Japanese_Daily_Average": "65.30490905"
+    },
+    {
+      "Dates_time": "16-04-19",
+      "English_Daily_Average": "77.89801302",
+      "Japanese_Daily_Average": "57.24835516"
+    },
+    {
+      "Dates_time": "17-04-19",
+      "English_Daily_Average": "77.90678114",
+      "Japanese_Daily_Average": "55.61165364"
+    },
+    {
+      "Dates_time": "18-04-19",
+      "English_Daily_Average": "84.1796338",
+      "Japanese_Daily_Average": "55.29958404"
+    },
+    {
+      "Dates_time": "19-04-19",
+      "English_Daily_Average": "85.86474133",
+      "Japanese_Daily_Average": "51.09407384"
+    },
+    {
+      "Dates_time": "20-04-19",
+      "English_Daily_Average": "84.06126507",
+      "Japanese_Daily_Average": "56.94597465"
+    },
+    {
+      "Dates_time": "21-04-19",
+      "English_Daily_Average": "75.82578139",
+      "Japanese_Daily_Average": "61.09140856"
+    },
+    {
+      "Dates_time": "22-04-19",
+      "English_Daily_Average": "74.20159253",
+      "Japanese_Daily_Average": "66.34074521"
+    },
+    {
+      "Dates_time": "23-04-19",
+      "English_Daily_Average": "73.35145378",
+      "Japanese_Daily_Average": "71.45669759"
+    },
+    {
+      "Dates_time": "24-04-19",
+      "English_Daily_Average": "94.64298945",
+      "Japanese_Daily_Average": "78.45051371"
+    },
+    {
+      "Dates_time": "25-04-19",
+      "English_Daily_Average": "92.02651673",
+      "Japanese_Daily_Average": "82.06249173"
+    },
+    {
+      "Dates_time": "26-04-19",
+      "English_Daily_Average": "94.61630717",
+      "Japanese_Daily_Average": "80.19916265"
+    },
+    {
+      "Dates_time": "27-04-19",
+      "English_Daily_Average": "95.79384184",
+      "Japanese_Daily_Average": "77.15994261"
+    },
+    {
+      "Dates_time": "28-04-19",
+      "English_Daily_Average": "101.744567",
+      "Japanese_Daily_Average": "77.61519578"
+    },
+    {
+      "Dates_time": "29-04-19",
+      "English_Daily_Average": "96.71215313",
+      "Japanese_Daily_Average": "68.17807009"
+    },
+    {
+      "Dates_time": "30-04-19",
+      "English_Daily_Average": "93.74327186",
+      "Japanese_Daily_Average": "63.08148279"
+    },
+    {
+      "Dates_time": "01-05-19",
+      "English_Daily_Average": "71.22027815",
+      "Japanese_Daily_Average": "56.13212189"
+    },
+    {
+      "Dates_time": "02-05-19",
+      "English_Daily_Average": "67.39729999",
+      "Japanese_Daily_Average": "51.05613577"
+    },
+    {
+      "Dates_time": "03-05-19",
+      "English_Daily_Average": "64.78080937",
+      "Japanese_Daily_Average": "54.08588935"
+    },
+    {
+      "Dates_time": "04-05-19",
+      "English_Daily_Average": "65.723171",
+      "Japanese_Daily_Average": "59.60044952"
+    },
+    {
+      "Dates_time": "05-05-19",
+      "English_Daily_Average": "59.26212123",
+      "Japanese_Daily_Average": "60.82162492"
+    },
+    {
+      "Dates_time": "06-05-19",
+      "English_Daily_Average": "65.43796978",
+      "Japanese_Daily_Average": "69.60008024"
+    },
+    {
+      "Dates_time": "07-05-19",
+      "English_Daily_Average": "79.38480911",
+      "Japanese_Daily_Average": "76.53388429"
+    },
+    {
+      "Dates_time": "08-05-19",
+      "English_Daily_Average": "88.01142063",
+      "Japanese_Daily_Average": "126.2185499"
+    },
+    {
+      "Dates_time": "09-05-19",
+      "English_Daily_Average": "88.24733543",
+      "Japanese_Daily_Average": "128.5725086"
+    },
+    {
+      "Dates_time": "10-05-19",
+      "English_Daily_Average": "95.22216186",
+      "Japanese_Daily_Average": "128.2224966"
+    },
+    {
+      "Dates_time": "11-05-19",
+      "English_Daily_Average": "98.01821595",
+      "Japanese_Daily_Average": "126.5575825"
+    },
+    {
+      "Dates_time": "12-05-19",
+      "English_Daily_Average": "102.3956014",
+      "Japanese_Daily_Average": "128.0356777"
+    },
+    {
+      "Dates_time": "13-05-19",
+      "English_Daily_Average": "106.4707237",
+      "Japanese_Daily_Average": "126.001426"
+    },
+    {
+      "Dates_time": "14-05-19",
+      "English_Daily_Average": "101.3157499",
+      "Japanese_Daily_Average": "128.673692"
+    },
+    {
+      "Dates_time": "15-05-19",
+      "English_Daily_Average": "95.20155319",
+      "Japanese_Daily_Average": "91.42317255"
+    },
+    {
+      "Dates_time": "16-05-19",
+      "English_Daily_Average": "97.57699589",
+      "Japanese_Daily_Average": "90.08233242"
+    },
+    {
+      "Dates_time": "17-05-19",
+      "English_Daily_Average": "91.74768122",
+      "Japanese_Daily_Average": "108.5076036"
+    },
+    {
+      "Dates_time": "18-05-19",
+      "English_Daily_Average": "88.63843168",
+      "Japanese_Daily_Average": "107.3759871"
+    },
+    {
+      "Dates_time": "19-05-19",
+      "English_Daily_Average": "89.34780679",
+      "Japanese_Daily_Average": "105.3156191"
+    },
+    {
+      "Dates_time": "20-05-19",
+      "English_Daily_Average": "82.01214134",
+      "Japanese_Daily_Average": "100.644822"
+    },
+    {
+      "Dates_time": "21-05-19",
+      "English_Daily_Average": "76.14538146",
+      "Japanese_Daily_Average": "96.58682906"
+    },
+    {
+      "Dates_time": "22-05-19",
+      "English_Daily_Average": "75.09784141",
+      "Japanese_Daily_Average": "81.80527062"
+    },
+    {
+      "Dates_time": "23-05-19",
+      "English_Daily_Average": "73.02310199",
+      "Japanese_Daily_Average": "81.77185135"
+    },
+    {
+      "Dates_time": "24-05-19",
+      "English_Daily_Average": "77.56627151",
+      "Japanese_Daily_Average": "64.2003965"
+    },
+    {
+      "Dates_time": "25-05-19",
+      "English_Daily_Average": "81.31473939",
+      "Japanese_Daily_Average": "65.30968221"
+    },
+    {
+      "Dates_time": "26-05-19",
+      "English_Daily_Average": "77.87485108",
+      "Japanese_Daily_Average": "66.1220978"
+    },
+    {
+      "Dates_time": "27-05-19",
+      "English_Daily_Average": "85.55909886",
+      "Japanese_Daily_Average": "65.96884728"
+    },
+    {
+      "Dates_time": "28-05-19",
+      "English_Daily_Average": "99.80299469",
+      "Japanese_Daily_Average": "60.68641172"
+    },
+    {
+      "Dates_time": "29-05-19",
+      "English_Daily_Average": "103.9427409",
+      "Japanese_Daily_Average": "63.81774289"
+    },
+    {
+      "Dates_time": "30-05-19",
+      "English_Daily_Average": "106.6572818",
+      "Japanese_Daily_Average": "64.27924038"
+    },
+    {
+      "Dates_time": "31-05-19",
+      "English_Daily_Average": "101.5234045",
+      "Japanese_Daily_Average": "61.64309319"
+    },
+    {
+      "Dates_time": "01-06-19",
+      "English_Daily_Average": "98.14852984",
+      "Japanese_Daily_Average": "58.05309319"
+    },
+    {
+      "Dates_time": "02-06-19",
+      "English_Daily_Average": "96.91086436",
+      "Japanese_Daily_Average": "62.33731327"
+    },
+    {
+      "Dates_time": "03-06-19",
+      "English_Daily_Average": "91.13287404",
+      "Japanese_Daily_Average": "65.04461486"
+    },
+    {
+      "Dates_time": "04-06-19",
+      "English_Daily_Average": "73.07960799",
+      "Japanese_Daily_Average": "65.80157108"
+    },
+    {
+      "Dates_time": "05-06-19",
+      "English_Daily_Average": "78.35256952",
+      "Japanese_Daily_Average": "103.3761274"
+    },
+    {
+      "Dates_time": "06-06-19",
+      "English_Daily_Average": "74.73251681",
+      "Japanese_Daily_Average": "103.5318586"
+    },
+    {
+      "Dates_time": "07-06-19",
+      "English_Daily_Average": "85.13213157",
+      "Japanese_Daily_Average": "102.7198839"
+    },
+    {
+      "Dates_time": "08-06-19",
+      "English_Daily_Average": "97.76511964",
+      "Japanese_Daily_Average": "107.8282701"
+    },
+    {
+      "Dates_time": "09-06-19",
+      "English_Daily_Average": "101.0122034",
+      "Japanese_Daily_Average": "116.8650926"
+    },
+    {
+      "Dates_time": "10-06-19",
+      "English_Daily_Average": "110.0135708",
+      "Japanese_Daily_Average": "119.0745675"
+    },
+    {
+      "Dates_time": "11-06-19",
+      "English_Daily_Average": "118.7054288",
+      "Japanese_Daily_Average": "121.6137458"
+    },
+    {
+      "Dates_time": "12-06-19",
+      "English_Daily_Average": "114.6727847",
+      "Japanese_Daily_Average": "82.41402716"
+    },
+    {
+      "Dates_time": "13-06-19",
+      "English_Daily_Average": "121.2764839",
+      "Japanese_Daily_Average": "86.27507206"
+    },
+    {
+      "Dates_time": "14-06-19",
+      "English_Daily_Average": "110.3100096",
+      "Japanese_Daily_Average": "88.14461828"
+    },
+    {
+      "Dates_time": "15-06-19",
+      "English_Daily_Average": "111.3337576",
+      "Japanese_Daily_Average": "93.85732226"
+    },
+    {
+      "Dates_time": "16-06-19",
+      "English_Daily_Average": "112.8031037",
+      "Japanese_Daily_Average": "84.77540425"
+    },
+    {
+      "Dates_time": "17-06-19",
+      "English_Daily_Average": "107.4658121",
+      "Japanese_Daily_Average": "84.21854111"
+    },
+    {
+      "Dates_time": "18-06-19",
+      "English_Daily_Average": "100.3564223",
+      "Japanese_Daily_Average": "83.48549529"
+    },
+    {
+      "Dates_time": "19-06-19",
+      "English_Daily_Average": "106.5628028",
+      "Japanese_Daily_Average": "86.43671494"
+    },
+    {
+      "Dates_time": "20-06-19",
+      "English_Daily_Average": "106.5530644",
+      "Japanese_Daily_Average": "83.12984771"
+    },
+    {
+      "Dates_time": "21-06-19",
+      "English_Daily_Average": "105.6573451",
+      "Japanese_Daily_Average": "86.57166404"
+    },
+    {
+      "Dates_time": "22-06-19",
+      "English_Daily_Average": "101.959488",
+      "Japanese_Daily_Average": "82.12513903"
+    },
+    {
+      "Dates_time": "23-06-19",
+      "English_Daily_Average": "95.31882516",
+      "Japanese_Daily_Average": "74.21708743"
+    },
+    {
+      "Dates_time": "24-06-19",
+      "English_Daily_Average": "89.93766642",
+      "Japanese_Daily_Average": "78.70707878"
+    },
+    {
+      "Dates_time": "25-06-19",
+      "English_Daily_Average": "103.5015024",
+      "Japanese_Daily_Average": "114.5729434"
+    },
+    {
+      "Dates_time": "26-06-19",
+      "English_Daily_Average": "99.68235918",
+      "Japanese_Daily_Average": "111.5292995"
+    },
+    {
+      "Dates_time": "27-06-19",
+      "English_Daily_Average": "111.2773806",
+      "Japanese_Daily_Average": "111.8813922"
+    },
+    {
+      "Dates_time": "28-06-19",
+      "English_Daily_Average": "113.9465269",
+      "Japanese_Daily_Average": "112.0523258"
+    },
+    {
+      "Dates_time": "29-06-19",
+      "English_Daily_Average": "124.8982658",
+      "Japanese_Daily_Average": "112.8532368"
+    },
+    {
+      "Dates_time": "30-06-19",
+      "English_Daily_Average": "133.2713738",
+      "Japanese_Daily_Average": "119.1886682"
+    },
+    {
+      "Dates_time": "01-07-19",
+      "English_Daily_Average": "140.2337616",
+      "Japanese_Daily_Average": "116.5346912"
+    },
+    {
+      "Dates_time": "02-07-19",
+      "English_Daily_Average": "128.776127",
+      "Japanese_Daily_Average": "84.34811228"
+    },
+    {
+      "Dates_time": "03-07-19",
+      "English_Daily_Average": "122.669683",
+      "Japanese_Daily_Average": "93.64967691"
+    },
+    {
+      "Dates_time": "04-07-19",
+      "English_Daily_Average": "105.2382447",
+      "Japanese_Daily_Average": "91.73414357"
+    },
+    {
+      "Dates_time": "05-07-19",
+      "English_Daily_Average": "109.8103792",
+      "Japanese_Daily_Average": "99.85771104"
+    },
+    {
+      "Dates_time": "06-07-19",
+      "English_Daily_Average": "90.61306384",
+      "Japanese_Daily_Average": "100.8000391"
+    },
+    {
+      "Dates_time": "07-07-19",
+      "English_Daily_Average": "89.43905136",
+      "Japanese_Daily_Average": "94.32651926"
+    },
+    {
+      "Dates_time": "08-07-19",
+      "English_Daily_Average": "87.67308446",
+      "Japanese_Daily_Average": "92.21754836"
+    },
+    {
+      "Dates_time": "09-07-19",
+      "English_Daily_Average": "87.75263768",
+      "Japanese_Daily_Average": "96.63435788"
+    },
+    {
+      "Dates_time": "10-07-19",
+      "English_Daily_Average": "92.35873082",
+      "Japanese_Daily_Average": "87.94295198"
+    },
+    {
+      "Dates_time": "11-07-19",
+      "English_Daily_Average": "99.07659169",
+      "Japanese_Daily_Average": "91.98093313"
+    },
+    {
+      "Dates_time": "12-07-19",
+      "English_Daily_Average": "93.25295764",
+      "Japanese_Daily_Average": "82.81691438"
+    },
+    {
+      "Dates_time": "13-07-19",
+      "English_Daily_Average": "96.77303117",
+      "Japanese_Daily_Average": "75.94500961"
+    },
+    {
+      "Dates_time": "14-07-19",
+      "English_Daily_Average": "88.80184899",
+      "Japanese_Daily_Average": "77.21291897"
+    },
+    {
+      "Dates_time": "15-07-19",
+      "English_Daily_Average": "85.00270406",
+      "Japanese_Daily_Average": "77.17509983"
+    },
+    {
+      "Dates_time": "16-07-19",
+      "English_Daily_Average": "86.86384801",
+      "Japanese_Daily_Average": "68.90874949"
+    },
+    {
+      "Dates_time": "17-07-19",
+      "English_Daily_Average": "83.23930377",
+      "Japanese_Daily_Average": "75.70947512"
+    },
+    {
+      "Dates_time": "18-07-19",
+      "English_Daily_Average": "81.64794149",
+      "Japanese_Daily_Average": "76.05217483"
+    },
+    {
+      "Dates_time": "19-07-19",
+      "English_Daily_Average": "79.76544964",
+      "Japanese_Daily_Average": "71.41984756"
+    },
+    {
+      "Dates_time": "20-07-19",
+      "English_Daily_Average": "81.49895322",
+      "Japanese_Daily_Average": "76.23133725"
+    },
+    {
+      "Dates_time": "21-07-19",
+      "English_Daily_Average": "87.79074578",
+      "Japanese_Daily_Average": "77.61713278"
+    },
+    {
+      "Dates_time": "22-07-19",
+      "English_Daily_Average": "99.7552775",
+      "Japanese_Daily_Average": "77.00819557"
+    },
+    {
+      "Dates_time": "23-07-19",
+      "English_Daily_Average": "105.4477836",
+      "Japanese_Daily_Average": "79.80123979"
+    },
+    {
+      "Dates_time": "24-07-19",
+      "English_Daily_Average": "107.2173349",
+      "Japanese_Daily_Average": "77.57117177"
+    },
+    {
+      "Dates_time": "25-07-19",
+      "English_Daily_Average": "105.7724166",
+      "Japanese_Daily_Average": "82.20870213"
+    },
+    {
+      "Dates_time": "26-07-19",
+      "English_Daily_Average": "107.8711125",
+      "Japanese_Daily_Average": "83.46517921"
+    },
+    {
+      "Dates_time": "27-07-19",
+      "English_Daily_Average": "106.1266",
+      "Japanese_Daily_Average": "84.19262521"
+    },
+    {
+      "Dates_time": "28-07-19",
+      "English_Daily_Average": "109.8914713",
+      "Japanese_Daily_Average": "83.01759185"
+    },
+    {
+      "Dates_time": "29-07-19",
+      "English_Daily_Average": "97.70627637",
+      "Japanese_Daily_Average": "85.75630292"
+    },
+    {
+      "Dates_time": "30-07-19",
+      "English_Daily_Average": "96.09487324",
+      "Japanese_Daily_Average": "92.7125054"
+    },
+    {
+      "Dates_time": "31-07-19",
+      "English_Daily_Average": "94.8314048",
+      "Japanese_Daily_Average": "89.26924859"
+    },
+    {
+      "Dates_time": "01-08-19",
+      "English_Daily_Average": "93.63150051",
+      "Japanese_Daily_Average": "99.52721563"
+    },
+    {
+      "Dates_time": "02-08-19",
+      "English_Daily_Average": "91.44172459",
+      "Japanese_Daily_Average": "101.4041621"
+    },
+    {
+      "Dates_time": "03-08-19",
+      "English_Daily_Average": "85.70381087",
+      "Japanese_Daily_Average": "119.3193443"
+    },
+    {
+      "Dates_time": "04-08-19",
+      "English_Daily_Average": "81.23824761",
+      "Japanese_Daily_Average": "121.3953649"
+    },
+    {
+      "Dates_time": "05-08-19",
+      "English_Daily_Average": "81.18604728",
+      "Japanese_Daily_Average": "115.1037604"
+    },
+    {
+      "Dates_time": "06-08-19",
+      "English_Daily_Average": "76.79465735",
+      "Japanese_Daily_Average": "102.2936895"
+    },
+    {
+      "Dates_time": "07-08-19",
+      "English_Daily_Average": "77.5452364",
+      "Japanese_Daily_Average": "100.2870551"
+    },
+    {
+      "Dates_time": "08-08-19",
+      "English_Daily_Average": "76.56365449",
+      "Japanese_Daily_Average": "83.41708718"
+    },
+    {
+      "Dates_time": "09-08-19",
+      "English_Daily_Average": "80.76048407",
+      "Japanese_Daily_Average": "92.99820412"
+    },
+    {
+      "Dates_time": "10-08-19",
+      "English_Daily_Average": "82.2531783",
+      "Japanese_Daily_Average": "73.96985337"
+    },
+    {
+      "Dates_time": "11-08-19",
+      "English_Daily_Average": "78.16328728",
+      "Japanese_Daily_Average": "72.00101341"
+    },
+    {
+      "Dates_time": "12-08-19",
+      "English_Daily_Average": "81.0657729",
+      "Japanese_Daily_Average": "72.9340873"
+    },
+    {
+      "Dates_time": "13-08-19",
+      "English_Daily_Average": "88.01557333",
+      "Japanese_Daily_Average": "77.57047279"
+    },
+    {
+      "Dates_time": "14-08-19",
+      "English_Daily_Average": "86.66293118",
+      "Japanese_Daily_Average": "78.45057937"
+    },
+    {
+      "Dates_time": "15-08-19",
+      "English_Daily_Average": "85.92601607",
+      "Japanese_Daily_Average": "82.31775198"
+    },
+    {
+      "Dates_time": "16-08-19",
+      "English_Daily_Average": "82.74889167",
+      "Japanese_Daily_Average": "75.36717659"
+    },
+    {
+      "Dates_time": "17-08-19",
+      "English_Daily_Average": "87.37493328",
+      "Japanese_Daily_Average": "82.34904813"
+    },
+    {
+      "Dates_time": "18-08-19",
+      "English_Daily_Average": "95.38389466",
+      "Japanese_Daily_Average": "88.28176496"
+    },
+    {
+      "Dates_time": "19-08-19",
+      "English_Daily_Average": "91.04092751",
+      "Japanese_Daily_Average": "89.20622802"
+    },
+    {
+      "Dates_time": "20-08-19",
+      "English_Daily_Average": "82.57539952",
+      "Japanese_Daily_Average": "91.90731078"
+    },
+    {
+      "Dates_time": "21-08-19",
+      "English_Daily_Average": "86.17171204",
+      "Japanese_Daily_Average": "98.71707543"
+    },
+    {
+      "Dates_time": "22-08-19",
+      "English_Daily_Average": "92.09109104",
+      "Japanese_Daily_Average": "96.98573104"
+    },
+    {
+      "Dates_time": "23-08-19",
+      "English_Daily_Average": "93.39697485",
+      "Japanese_Daily_Average": "94.71691541"
+    },
+    {
+      "Dates_time": "24-08-19",
+      "English_Daily_Average": "91.33413198",
+      "Japanese_Daily_Average": "86.18509678"
+    },
+    {
+      "Dates_time": "25-08-19",
+      "English_Daily_Average": "96.01330344",
+      "Japanese_Daily_Average": "83.07568607"
+    },
+    {
+      "Dates_time": "26-08-19",
+      "English_Daily_Average": "104.9789246",
+      "Japanese_Daily_Average": "81.58262777"
+    },
+    {
+      "Dates_time": "27-08-19",
+      "English_Daily_Average": "105.8414628",
+      "Japanese_Daily_Average": "79.33554764"
+    },
+    {
+      "Dates_time": "28-08-19",
+      "English_Daily_Average": "100.4247921",
+      "Japanese_Daily_Average": "83.28168247"
+    },
+    {
+      "Dates_time": "29-08-19",
+      "English_Daily_Average": "110.9632717",
+      "Japanese_Daily_Average": "83.29744529"
+    },
+    {
+      "Dates_time": "30-08-19",
+      "English_Daily_Average": "108.0086471",
+      "Japanese_Daily_Average": "80.62700407"
+    },
+    {
+      "Dates_time": "31-08-19",
+      "English_Daily_Average": "107.6100511",
+      "Japanese_Daily_Average": "83.60760051"
+    },
+    {
+      "Dates_time": "01-09-19",
+      "English_Daily_Average": "105.9964059",
+      "Japanese_Daily_Average": "110.0564072"
+    },
+    {
+      "Dates_time": "02-09-19",
+      "English_Daily_Average": "100.7294854",
+      "Japanese_Daily_Average": "114.0410025"
+    },
+    {
+      "Dates_time": "03-09-19",
+      "English_Daily_Average": "101.6508162",
+      "Japanese_Daily_Average": "112.396293"
+    },
+    {
+      "Dates_time": "04-09-19",
+      "English_Daily_Average": "105.203224",
+      "Japanese_Daily_Average": "104.3884094"
+    },
+    {
+      "Dates_time": "05-09-19",
+      "English_Daily_Average": "89.90676065",
+      "Japanese_Daily_Average": "101.7651715"
+    },
+    {
+      "Dates_time": "06-09-19",
+      "English_Daily_Average": "92.84244046",
+      "Japanese_Daily_Average": "99.40925436"
+    },
+    {
+      "Dates_time": "07-09-19",
+      "English_Daily_Average": "94.15154639",
+      "Japanese_Daily_Average": "95.55882146"
+    },
+    {
+      "Dates_time": "08-09-19",
+      "English_Daily_Average": "83.19393061",
+      "Japanese_Daily_Average": "64.71131707"
+    },
+    {
+      "Dates_time": "09-09-19",
+      "English_Daily_Average": "82.27029571",
+      "Japanese_Daily_Average": "68.61362141"
+    },
+    {
+      "Dates_time": "10-09-19",
+      "English_Daily_Average": "88.94377373",
+      "Japanese_Daily_Average": "68.74407437"
+    },
+    {
+      "Dates_time": "11-09-19",
+      "English_Daily_Average": "90.24432198",
+      "Japanese_Daily_Average": "67.19466551"
+    },
+    {
+      "Dates_time": "12-09-19",
+      "English_Daily_Average": "91.95678334",
+      "Japanese_Daily_Average": "69.86126363"
+    },
+    {
+      "Dates_time": "13-09-19",
+      "English_Daily_Average": "91.23489506",
+      "Japanese_Daily_Average": "74.68047258"
+    },
+    {
+      "Dates_time": "14-09-19",
+      "English_Daily_Average": "87.45018273",
+      "Japanese_Daily_Average": "75.03108947"
+    },
+    {
+      "Dates_time": "15-09-19",
+      "English_Daily_Average": "92.7457733",
+      "Japanese_Daily_Average": "75.3136754"
+    },
+    {
+      "Dates_time": "16-09-19",
+      "English_Daily_Average": "90.58152974",
+      "Japanese_Daily_Average": "70.38959962"
+    },
+    {
+      "Dates_time": "17-09-19",
+      "English_Daily_Average": "91.06590032",
+      "Japanese_Daily_Average": "69.13672423"
+    },
+    {
+      "Dates_time": "18-09-19",
+      "English_Daily_Average": "88.43317211",
+      "Japanese_Daily_Average": "68.28207295"
+    },
+    {
+      "Dates_time": "19-09-19",
+      "English_Daily_Average": "87.68484732",
+      "Japanese_Daily_Average": "66.01608722"
+    },
+    {
+      "Dates_time": "20-09-19",
+      "English_Daily_Average": "88.63312212",
+      "Japanese_Daily_Average": "76.41508982"
+    },
+    {
+      "Dates_time": "21-09-19",
+      "English_Daily_Average": "92.21240984",
+      "Japanese_Daily_Average": "79.71100252"
+    },
+    {
+      "Dates_time": "22-09-19",
+      "English_Daily_Average": "92.59472852",
+      "Japanese_Daily_Average": "82.18807529"
+    },
+    {
+      "Dates_time": "23-09-19",
+      "English_Daily_Average": "92.18680119",
+      "Japanese_Daily_Average": "84.58214302"
+    },
+    {
+      "Dates_time": "24-09-19",
+      "English_Daily_Average": "90.33729759",
+      "Japanese_Daily_Average": "83.72496615"
+    },
+    {
+      "Dates_time": "25-09-19",
+      "English_Daily_Average": "96.66473596",
+      "Japanese_Daily_Average": "80.32664194"
+    },
+    {
+      "Dates_time": "26-09-19",
+      "English_Daily_Average": "103.9932351",
+      "Japanese_Daily_Average": "84.60392637"
+    },
+    {
+      "Dates_time": "27-09-19",
+      "English_Daily_Average": "105.0545019",
+      "Japanese_Daily_Average": "74.71458499"
+    },
+    {
+      "Dates_time": "28-09-19",
+      "English_Daily_Average": "102.6138559",
+      "Japanese_Daily_Average": "75.58936277"
+    },
+    {
+      "Dates_time": "29-09-19",
+      "English_Daily_Average": "104.3905652",
+      "Japanese_Daily_Average": "76.4118303"
+    },
+    {
+      "Dates_time": "30-09-19",
+      "English_Daily_Average": "118.0387608",
+      "Japanese_Daily_Average": "71.36299432"
+    },
+    {
+      "Dates_time": "01-10-19",
+      "English_Daily_Average": "117.6717577",
+      "Japanese_Daily_Average": "72.29175623"
+    },
+    {
+      "Dates_time": "02-10-19",
+      "English_Daily_Average": "115.1771364",
+      "Japanese_Daily_Average": "71.39414059"
+    },
+    {
+      "Dates_time": "03-10-19",
+      "English_Daily_Average": "109.9475244",
+      "Japanese_Daily_Average": "73.46464479"
+    },
+    {
+      "Dates_time": "04-10-19",
+      "English_Daily_Average": "106.968301",
+      "Japanese_Daily_Average": "70.68707229"
+    },
+    {
+      "Dates_time": "05-10-19",
+      "English_Daily_Average": "107.556318",
+      "Japanese_Daily_Average": "68.07487082"
+    },
+    {
+      "Dates_time": "06-10-19",
+      "English_Daily_Average": "102.9104736",
+      "Japanese_Daily_Average": "67.43260892"
+    },
+    {
+      "Dates_time": "07-10-19",
+      "English_Daily_Average": "88.31722344",
+      "Japanese_Daily_Average": "66.4051486"
+    },
+    {
+      "Dates_time": "08-10-19",
+      "English_Daily_Average": "84.47199103",
+      "Japanese_Daily_Average": "66.31647986"
+    },
+    {
+      "Dates_time": "09-10-19",
+      "English_Daily_Average": "79.3745603",
+      "Japanese_Daily_Average": "69.76811252"
+    },
+    {
+      "Dates_time": "10-10-19",
+      "English_Daily_Average": "78.15922212",
+      "Japanese_Daily_Average": "62.99160099"
+    },
+    {
+      "Dates_time": "11-10-19",
+      "English_Daily_Average": "78.99586347",
+      "Japanese_Daily_Average": "70.10390245"
+    },
+    {
+      "Dates_time": "12-10-19",
+      "English_Daily_Average": "78.76934312",
+      "Japanese_Daily_Average": "66.46336798"
+    },
+    {
+      "Dates_time": "13-10-19",
+      "English_Daily_Average": "79.43925682",
+      "Japanese_Daily_Average": "62.46438928"
+    },
+    {
+      "Dates_time": "14-10-19",
+      "English_Daily_Average": "85.28562594",
+      "Japanese_Daily_Average": "60.77210357"
+    },
+    {
+      "Dates_time": "15-10-19",
+      "English_Daily_Average": "82.70433183",
+      "Japanese_Daily_Average": "59.67729612"
+    },
+    {
+      "Dates_time": "16-10-19",
+      "English_Daily_Average": "83.37846708",
+      "Japanese_Daily_Average": "59.03150197"
+    },
+    {
+      "Dates_time": "17-10-19",
+      "English_Daily_Average": "82.28704098",
+      "Japanese_Daily_Average": "65.70684263"
+    },
+    {
+      "Dates_time": "18-10-19",
+      "English_Daily_Average": "80.9627782",
+      "Japanese_Daily_Average": "57.61758987"
+    },
+    {
+      "Dates_time": "19-10-19",
+      "English_Daily_Average": "84.77882603",
+      "Japanese_Daily_Average": "61.70506765"
+    },
+    {
+      "Dates_time": "20-10-19",
+      "English_Daily_Average": "80.34772114",
+      "Japanese_Daily_Average": "68.35480032"
+    },
+    {
+      "Dates_time": "21-10-19",
+      "English_Daily_Average": "79.32141824",
+      "Japanese_Daily_Average": "98.83359397"
+    },
+    {
+      "Dates_time": "22-10-19",
+      "English_Daily_Average": "82.17361976",
+      "Japanese_Daily_Average": "101.3333678"
+    },
+    {
+      "Dates_time": "23-10-19",
+      "English_Daily_Average": "83.99271155",
+      "Japanese_Daily_Average": "105.179549"
+    },
+    {
+      "Dates_time": "24-10-19",
+      "English_Daily_Average": "91.07613142",
+      "Japanese_Daily_Average": "99.09729897"
+    },
+    {
+      "Dates_time": "25-10-19",
+      "English_Daily_Average": "103.2644682",
+      "Japanese_Daily_Average": "100.0467109"
+    },
+    {
+      "Dates_time": "26-10-19",
+      "English_Daily_Average": "101.1218207",
+      "Japanese_Daily_Average": "92.80983568"
+    },
+    {
+      "Dates_time": "27-10-19",
+      "English_Daily_Average": "104.4497119",
+      "Japanese_Daily_Average": "92.71756481"
+    },
+    {
+      "Dates_time": "28-10-19",
+      "English_Daily_Average": "101.6127414",
+      "Japanese_Daily_Average": "69.33177116"
+    },
+    {
+      "Dates_time": "29-10-19",
+      "English_Daily_Average": "102.3733334",
+      "Japanese_Daily_Average": "69.33029253"
+    },
+    {
+      "Dates_time": "30-10-19",
+      "English_Daily_Average": "117.966515",
+      "Japanese_Daily_Average": "67.90203609"
+    },
+    {
+      "Dates_time": "31-10-19",
+      "English_Daily_Average": "143.240595",
+      "Japanese_Daily_Average": "68.87842434"
+    },
+    {
+      "Dates_time": "01-11-19",
+      "English_Daily_Average": "136.842381",
+      "Japanese_Daily_Average": "68.15083217"
+    },
+    {
+      "Dates_time": "02-11-19",
+      "English_Daily_Average": "132.6497028",
+      "Japanese_Daily_Average": "71.97263217"
+    },
+    {
+      "Dates_time": "03-11-19",
+      "English_Daily_Average": "136.0474625",
+      "Japanese_Daily_Average": "75.55277461"
+    },
+    {
+      "Dates_time": "04-11-19",
+      "English_Daily_Average": "147.4412673",
+      "Japanese_Daily_Average": "70.63439799"
+    },
+    {
+      "Dates_time": "05-11-19",
+      "English_Daily_Average": "149.1714594",
+      "Japanese_Daily_Average": "69.87130817"
+    },
+    {
+      "Dates_time": "06-11-19",
+      "English_Daily_Average": "133.4658885",
+      "Japanese_Daily_Average": "66.78774424"
+    },
+    {
+      "Dates_time": "07-11-19",
+      "English_Daily_Average": "106.8280402",
+      "Japanese_Daily_Average": "65.54355837"
+    },
+    {
+      "Dates_time": "08-11-19",
+      "English_Daily_Average": "102.1806269",
+      "Japanese_Daily_Average": "65.92942388"
+    },
+    {
+      "Dates_time": "09-11-19",
+      "English_Daily_Average": "101.7870595",
+      "Japanese_Daily_Average": "67.95986344"
+    },
+    {
+      "Dates_time": "10-11-19",
+      "English_Daily_Average": "100.2800079",
+      "Japanese_Daily_Average": "62.30276511"
+    },
+    {
+      "Dates_time": "11-11-19",
+      "English_Daily_Average": "90.66601705",
+      "Japanese_Daily_Average": "66.35285092"
+    },
+    {
+      "Dates_time": "12-11-19",
+      "English_Daily_Average": "90.37888652",
+      "Japanese_Daily_Average": "62.51521699"
+    },
+    {
+      "Dates_time": "13-11-19",
+      "English_Daily_Average": "90.04884667",
+      "Japanese_Daily_Average": "65.45706527"
+    },
+    {
+      "Dates_time": "14-11-19",
+      "English_Daily_Average": "83.30101045",
+      "Japanese_Daily_Average": "66.94303019"
+    },
+    {
+      "Dates_time": "15-11-19",
+      "English_Daily_Average": "83.69939793",
+      "Japanese_Daily_Average": "69.32341468"
+    },
+    {
+      "Dates_time": "16-11-19",
+      "English_Daily_Average": "91.90276245",
+      "Japanese_Daily_Average": "71.23279654"
+    },
+    {
+      "Dates_time": "17-11-19",
+      "English_Daily_Average": "89.34793058",
+      "Japanese_Daily_Average": "70.21862281"
+    },
+    {
+      "Dates_time": "18-11-19",
+      "English_Daily_Average": "89.45154761",
+      "Japanese_Daily_Average": "67.92392662"
+    },
+    {
+      "Dates_time": "19-11-19",
+      "English_Daily_Average": "90.2446548",
+      "Japanese_Daily_Average": "68.08711709"
+    },
+    {
+      "Dates_time": "20-11-19",
+      "English_Daily_Average": "92.70621662",
+      "Japanese_Daily_Average": "72.10991419"
+    },
+    {
+      "Dates_time": "21-11-19",
+      "English_Daily_Average": "110.9807163",
+      "Japanese_Daily_Average": "71.97056833"
+    },
+    {
+      "Dates_time": "22-11-19",
+      "English_Daily_Average": "111.7220647",
+      "Japanese_Daily_Average": "71.36666305"
+    },
+    {
+      "Dates_time": "23-11-19",
+      "English_Daily_Average": "106.3574185",
+      "Japanese_Daily_Average": "70.19487734"
+    },
+    {
+      "Dates_time": "24-11-19",
+      "English_Daily_Average": "112.1997509",
+      "Japanese_Daily_Average": "70.17346223"
+    },
+    {
+      "Dates_time": "25-11-19",
+      "English_Daily_Average": "114.2022628",
+      "Japanese_Daily_Average": "73.1148327"
+    },
+    {
+      "Dates_time": "26-11-19",
+      "English_Daily_Average": "109.2100214",
+      "Japanese_Daily_Average": "77.75612239"
+    },
+    {
+      "Dates_time": "27-11-19",
+      "English_Daily_Average": "111.3483366",
+      "Japanese_Daily_Average": "78.87623565"
+    },
+    {
+      "Dates_time": "28-11-19",
+      "English_Daily_Average": "91.60626016",
+      "Japanese_Daily_Average": "79.97641252"
+    },
+    {
+      "Dates_time": "29-11-19",
+      "English_Daily_Average": "92.49923987",
+      "Japanese_Daily_Average": "79.14496462"
+    },
+    {
+      "Dates_time": "30-11-19",
+      "English_Daily_Average": "92.53727728",
+      "Japanese_Daily_Average": "74.80006078"
+    },
+    {
+      "Dates_time": "01-12-19",
+      "English_Daily_Average": "84.4413014",
+      "Japanese_Daily_Average": "82.63785256"
+    },
+    {
+      "Dates_time": "02-12-19",
+      "English_Daily_Average": "78.27860949",
+      "Japanese_Daily_Average": "77.53039767"
+    },
+    {
+      "Dates_time": "03-12-19",
+      "English_Daily_Average": "78.20294978",
+      "Japanese_Daily_Average": "76.80873264"
+    },
+    {
+      "Dates_time": "04-12-19",
+      "English_Daily_Average": "72.54586309",
+      "Japanese_Daily_Average": "70.10520323"
+    },
+    {
+      "Dates_time": "05-12-19",
+      "English_Daily_Average": "76.68483413",
+      "Japanese_Daily_Average": "63.87956476"
+    },
+    {
+      "Dates_time": "06-12-19",
+      "English_Daily_Average": "78.89747697",
+      "Japanese_Daily_Average": "66.32331079"
+    },
+    {
+      "Dates_time": "07-12-19",
+      "English_Daily_Average": "80.48321512",
+      "Japanese_Daily_Average": "66.33196464"
+    },
+    {
+      "Dates_time": "08-12-19",
+      "English_Daily_Average": "81.15125645",
+      "Japanese_Daily_Average": "64.89549638"
+    },
+    {
+      "Dates_time": "09-12-19",
+      "English_Daily_Average": "97.89023638",
+      "Japanese_Daily_Average": "65.36756101"
+    },
+    {
+      "Dates_time": "10-12-19",
+      "English_Daily_Average": "103.1090811",
+      "Japanese_Daily_Average": "64.17626762"
+    },
+    {
+      "Dates_time": "11-12-19",
+      "English_Daily_Average": "102.2334539",
+      "Japanese_Daily_Average": "65.3461434"
+    },
+    {
+      "Dates_time": "12-12-19",
+      "English_Daily_Average": "101.6313752",
+      "Japanese_Daily_Average": "73.96700349"
+    },
+    {
+      "Dates_time": "13-12-19",
+      "English_Daily_Average": "103.5437494",
+      "Japanese_Daily_Average": "75.79138238"
+    },
+    {
+      "Dates_time": "14-12-19",
+      "English_Daily_Average": "107.5402757",
+      "Japanese_Daily_Average": "78.0363956"
+    },
+    {
+      "Dates_time": "15-12-19",
+      "English_Daily_Average": "111.9649285",
+      "Japanese_Daily_Average": "68.75835049"
+    },
+    {
+      "Dates_time": "16-12-19",
+      "English_Daily_Average": "103.6441685",
+      "Japanese_Daily_Average": "76.63367662"
+    },
+    {
+      "Dates_time": "17-12-19",
+      "English_Daily_Average": "101.1232406",
+      "Japanese_Daily_Average": "74.69728881"
+    },
+    {
+      "Dates_time": "18-12-19",
+      "English_Daily_Average": "111.6569523",
+      "Japanese_Daily_Average": "72.77237836"
+    },
+    {
+      "Dates_time": "19-12-19",
+      "English_Daily_Average": "115.2776294",
+      "Japanese_Daily_Average": "75.30010342"
+    },
+    {
+      "Dates_time": "20-12-19",
+      "English_Daily_Average": "122.7658276",
+      "Japanese_Daily_Average": "87.425311"
+    },
+    {
+      "Dates_time": "21-12-19",
+      "English_Daily_Average": "114.8813843",
+      "Japanese_Daily_Average": "83.94412052"
+    },
+    {
+      "Dates_time": "22-12-19",
+      "English_Daily_Average": "110.8076678",
+      "Japanese_Daily_Average": "83.55960466"
+    },
+    {
+      "Dates_time": "23-12-19",
+      "English_Daily_Average": "105.2741534",
+      "Japanese_Daily_Average": "74.16471006"
+    },
+    {
+      "Dates_time": "24-12-19",
+      "English_Daily_Average": "104.0923298",
+      "Japanese_Daily_Average": "80.94329534"
+    },
+    {
+      "Dates_time": "25-12-19",
+      "English_Daily_Average": "92.86905144",
+      "Japanese_Daily_Average": "79.65687229"
+    },
+    {
+      "Dates_time": "26-12-19",
+      "English_Daily_Average": "89.09275746",
+      "Japanese_Daily_Average": "76.63325805"
+    },
+    {
+      "Dates_time": "27-12-19",
+      "English_Daily_Average": "77.55444544",
+      "Japanese_Daily_Average": "61.54467999"
+    },
+    {
+      "Dates_time": "28-12-19",
+      "English_Daily_Average": "76.99602462",
+      "Japanese_Daily_Average": "60.77887672"
+    },
+    {
+      "Dates_time": "29-12-19",
+      "English_Daily_Average": "76.95971672",
+      "Japanese_Daily_Average": "61.67665748"
+    },
+    {
+      "Dates_time": "30-12-19",
+      "English_Daily_Average": "89.77380548",
+      "Japanese_Daily_Average": "69.47517153"
+    },
+    {
+      "Dates_time": "31-12-19",
+      "English_Daily_Average": "97.9047804",
+      "Japanese_Daily_Average": "60.86670076"
+    },
+    {
+      "Dates_time": "01-01-20",
+      "English_Daily_Average": "107.2359424",
+      "Japanese_Daily_Average": "76.57954504"
+    },
+    {
+      "Dates_time": "02-01-20",
+      "English_Daily_Average": "109.1826705",
+      "Japanese_Daily_Average": "71.48226214"
+    },
+    {
+      "Dates_time": "03-01-20",
+      "English_Daily_Average": "107.0944174",
+      "Japanese_Daily_Average": "71.25102517"
+    },
+    {
+      "Dates_time": "04-01-20",
+      "English_Daily_Average": "110.5221669",
+      "Japanese_Daily_Average": "72.29744021"
+    },
+    {
+      "Dates_time": "05-01-20",
+      "English_Daily_Average": "108.464207",
+      "Japanese_Daily_Average": "81.94160355"
+    },
+    {
+      "Dates_time": "06-01-20",
+      "English_Daily_Average": "105.0245978",
+      "Japanese_Daily_Average": "79.11361715"
+    },
+    {
+      "Dates_time": "07-01-20",
+      "English_Daily_Average": "100.7693503",
+      "Japanese_Daily_Average": "100.286083"
+    },
+    {
+      "Dates_time": "08-01-20",
+      "English_Daily_Average": "91.49663035",
+      "Japanese_Daily_Average": "91.46853242"
+    },
+    {
+      "Dates_time": "09-01-20",
+      "English_Daily_Average": "94.75894617",
+      "Japanese_Daily_Average": "92.06154188"
+    },
+    {
+      "Dates_time": "10-01-20",
+      "English_Daily_Average": "97.58515627",
+      "Japanese_Daily_Average": "89.45291331"
+    },
+    {
+      "Dates_time": "11-01-20",
+      "English_Daily_Average": "99.12451704",
+      "Japanese_Daily_Average": "90.73476666"
+    },
+    {
+      "Dates_time": "12-01-20",
+      "English_Daily_Average": "100.7839038",
+      "Japanese_Daily_Average": "80.8468026"
+    },
+    {
+      "Dates_time": "13-01-20",
+      "English_Daily_Average": "96.82412911",
+      "Japanese_Daily_Average": "77.26307879"
+    },
+    {
+      "Dates_time": "14-01-20",
+      "English_Daily_Average": "96.06620434",
+      "Japanese_Daily_Average": "60.94362164"
+    },
+    {
+      "Dates_time": "15-01-20",
+      "English_Daily_Average": "96.70642989",
+      "Japanese_Daily_Average": "55.90152674"
+    },
+    {
+      "Dates_time": "16-01-20",
+      "English_Daily_Average": "89.59268209",
+      "Japanese_Daily_Average": "55.35289876"
+    },
+    {
+      "Dates_time": "17-01-20",
+      "English_Daily_Average": "86.13634031",
+      "Japanese_Daily_Average": "60.21839281"
+    },
+    {
+      "Dates_time": "18-01-20",
+      "English_Daily_Average": "84.81549412",
+      "Japanese_Daily_Average": "57.24749454"
+    },
+    {
+      "Dates_time": "19-01-20",
+      "English_Daily_Average": "85.84668436",
+      "Japanese_Daily_Average": "72.30047399"
+    },
+    {
+      "Dates_time": "20-01-20",
+      "English_Daily_Average": "83.52143076",
+      "Japanese_Daily_Average": "70.47397557"
+    },
+    {
+      "Dates_time": "21-01-20",
+      "English_Daily_Average": "77.23452148",
+      "Japanese_Daily_Average": "67.05155877"
+    },
+    {
+      "Dates_time": "22-01-20",
+      "English_Daily_Average": "78.85089768",
+      "Japanese_Daily_Average": "72.26793616"
+    },
+    {
+      "Dates_time": "23-01-20",
+      "English_Daily_Average": "80.58527875",
+      "Japanese_Daily_Average": "72.30494731"
+    },
+    {
+      "Dates_time": "24-01-20",
+      "English_Daily_Average": "81.93292903",
+      "Japanese_Daily_Average": "72.25395666"
+    },
+    {
+      "Dates_time": "25-01-20",
+      "English_Daily_Average": "87.34871524",
+      "Japanese_Daily_Average": "74.61950861"
+    },
+    {
+      "Dates_time": "26-01-20",
+      "English_Daily_Average": "97.31866599",
+      "Japanese_Daily_Average": "58.00323428"
+    },
+    {
+      "Dates_time": "27-01-20",
+      "English_Daily_Average": "110.0339176",
+      "Japanese_Daily_Average": "62.68208915"
+    },
+    {
+      "Dates_time": "28-01-20",
+      "English_Daily_Average": "122.5897056",
+      "Japanese_Daily_Average": "68.56820318"
+    },
+    {
+      "Dates_time": "29-01-20",
+      "English_Daily_Average": "130.8187995",
+      "Japanese_Daily_Average": "66.87088142"
+    },
+    {
+      "Dates_time": "30-01-20",
+      "English_Daily_Average": "129.6089492",
+      "Japanese_Daily_Average": "67.63337899"
+    },
+    {
+      "Dates_time": "31-01-20",
+      "English_Daily_Average": "135.6500379",
+      "Japanese_Daily_Average": "64.39799589"
+    },
+    {
+      "Dates_time": "01-02-20",
+      "English_Daily_Average": "127.0568272",
+      "Japanese_Daily_Average": "64.44146342"
+    },
+    {
+      "Dates_time": "02-02-20",
+      "English_Daily_Average": "123.9913805",
+      "Japanese_Daily_Average": "67.85574185"
+    },
+    {
+      "Dates_time": "03-02-20",
+      "English_Daily_Average": "109.3545147",
+      "Japanese_Daily_Average": "68.49920724"
+    },
+    {
+      "Dates_time": "04-02-20",
+      "English_Daily_Average": "101.93595",
+      "Japanese_Daily_Average": "61.57632214"
+    },
+    {
+      "Dates_time": "05-02-20",
+      "English_Daily_Average": "91.04856727",
+      "Japanese_Daily_Average": "59.06828517"
+    },
+    {
+      "Dates_time": "06-02-20",
+      "English_Daily_Average": "94.38089339",
+      "Japanese_Daily_Average": "56.73859409"
+    },
+    {
+      "Dates_time": "07-02-20",
+      "English_Daily_Average": "87.59623584",
+      "Japanese_Daily_Average": "55.7710582"
+    },
+    {
+      "Dates_time": "08-02-20",
+      "English_Daily_Average": "96.62466626",
+      "Japanese_Daily_Average": "60.73615804"
+    },
+    {
+      "Dates_time": "09-02-20",
+      "English_Daily_Average": "98.82656599",
+      "Japanese_Daily_Average": "63.02438044"
+    },
+    {
+      "Dates_time": "10-02-20",
+      "English_Daily_Average": "96.11944186",
+      "Japanese_Daily_Average": "62.56836404"
+    },
+    {
+      "Dates_time": "11-02-20",
+      "English_Daily_Average": "94.53321502",
+      "Japanese_Daily_Average": "67.22519113"
+    },
+    {
+      "Dates_time": "12-02-20",
+      "English_Daily_Average": "100.5914456",
+      "Japanese_Daily_Average": "67.07168464"
+    },
+    {
+      "Dates_time": "13-02-20",
+      "English_Daily_Average": "101.6428422",
+      "Japanese_Daily_Average": "66.6726731"
+    },
+    {
+      "Dates_time": "14-02-20",
+      "English_Daily_Average": "100.3569964",
+      "Japanese_Daily_Average": "68.89933736"
+    },
+    {
+      "Dates_time": "15-02-20",
+      "English_Daily_Average": "94.33374146",
+      "Japanese_Daily_Average": "67.62669014"
+    },
+    {
+      "Dates_time": "16-02-20",
+      "English_Daily_Average": "84.13293626",
+      "Japanese_Daily_Average": "66.36476884"
+    },
+    {
+      "Dates_time": "17-02-20",
+      "English_Daily_Average": "86.16421784",
+      "Japanese_Daily_Average": "65.24611356"
+    },
+    {
+      "Dates_time": "18-02-20",
+      "English_Daily_Average": "86.09810015",
+      "Japanese_Daily_Average": "61.94450292"
+    },
+    {
+      "Dates_time": "19-02-20",
+      "English_Daily_Average": "88.23465202",
+      "Japanese_Daily_Average": "64.33810681"
+    },
+    {
+      "Dates_time": "20-02-20",
+      "English_Daily_Average": "85.5439368",
+      "Japanese_Daily_Average": "65.38240711"
+    },
+    {
+      "Dates_time": "21-02-20",
+      "English_Daily_Average": "95.99032567",
+      "Japanese_Daily_Average": "64.40953221"
+    },
+    {
+      "Dates_time": "22-02-20",
+      "English_Daily_Average": "96.96349463",
+      "Japanese_Daily_Average": "62.34240653"
+    },
+    {
+      "Dates_time": "23-02-20",
+      "English_Daily_Average": "98.41567174",
+      "Japanese_Daily_Average": "64.8751314"
+    },
+    {
+      "Dates_time": "24-02-20",
+      "English_Daily_Average": "100.1066888",
+      "Japanese_Daily_Average": "62.62988048"
+    },
+    {
+      "Dates_time": "25-02-20",
+      "English_Daily_Average": "98.54662739",
+      "Japanese_Daily_Average": "65.80018123"
+    },
+    {
+      "Dates_time": "26-02-20",
+      "English_Daily_Average": "105.201817",
+      "Japanese_Daily_Average": "68.80720682"
+    },
+    {
+      "Dates_time": "27-02-20",
+      "English_Daily_Average": "108.9824608",
+      "Japanese_Daily_Average": "73.90895884"
+    },
+    {
+      "Dates_time": "28-02-20",
+      "English_Daily_Average": "97.78549385",
+      "Japanese_Daily_Average": "75.31533181"
+    },
+    {
+      "Dates_time": "29-02-20",
+      "English_Daily_Average": "98.09472525",
+      "Japanese_Daily_Average": "75.51762467"
+    },
+    {
+      "Dates_time": "01-03-20",
+      "English_Daily_Average": "101.9878348",
+      "Japanese_Daily_Average": "69.78733865"
+    },
+    {
+      "Dates_time": "02-03-20",
+      "English_Daily_Average": "102.7142426",
+      "Japanese_Daily_Average": "71.5384394"
+    },
+    {
+      "Dates_time": "03-03-20",
+      "English_Daily_Average": "107.3575425",
+      "Japanese_Daily_Average": "76.50674976"
+    },
+    {
+      "Dates_time": "04-03-20",
+      "English_Daily_Average": "95.59225549",
+      "Japanese_Daily_Average": "75.24342381"
+    },
+    {
+      "Dates_time": "05-03-20",
+      "English_Daily_Average": "94.50361732",
+      "Japanese_Daily_Average": "81.08125024"
+    },
+    {
+      "Dates_time": "06-03-20",
+      "English_Daily_Average": "98.92632765",
+      "Japanese_Daily_Average": "79.35716165"
+    },
+    {
+      "Dates_time": "07-03-20",
+      "English_Daily_Average": "99.89116921",
+      "Japanese_Daily_Average": "80.03422746"
+    },
+    {
+      "Dates_time": "08-03-20",
+      "English_Daily_Average": "99.00953236",
+      "Japanese_Daily_Average": "88.52910836"
+    },
+    {
+      "Dates_time": "09-03-20",
+      "English_Daily_Average": "97.08156352",
+      "Japanese_Daily_Average": "87.25904195"
+    },
+    {
+      "Dates_time": "10-03-20",
+      "English_Daily_Average": "96.45228449",
+      "Japanese_Daily_Average": "81.43359018"
+    },
+    {
+      "Dates_time": "11-03-20",
+      "English_Daily_Average": "98.34770045",
+      "Japanese_Daily_Average": "75.5258176"
+    },
+    {
+      "Dates_time": "12-03-20",
+      "English_Daily_Average": "100.8821027",
+      "Japanese_Daily_Average": "65.3927074"
+    },
+    {
+      "Dates_time": "13-03-20",
+      "English_Daily_Average": "104.1252907",
+      "Japanese_Daily_Average": "67.54143884"
+    },
+    {
+      "Dates_time": "14-03-20",
+      "English_Daily_Average": "103.3441514",
+      "Japanese_Daily_Average": "71.34007582"
+    },
+    {
+      "Dates_time": "15-03-20",
+      "English_Daily_Average": "102.0020105",
+      "Japanese_Daily_Average": "74.45813697"
+    },
+    {
+      "Dates_time": "16-03-20",
+      "English_Daily_Average": "101.0449142",
+      "Japanese_Daily_Average": "78.49370037"
+    },
+    {
+      "Dates_time": "17-03-20",
+      "English_Daily_Average": "96.99187786",
+      "Japanese_Daily_Average": "86.9666204"
+    },
+    {
+      "Dates_time": "18-03-20",
+      "English_Daily_Average": "97.31148367",
+      "Japanese_Daily_Average": "86.71277127"
+    },
+    {
+      "Dates_time": "19-03-20",
+      "English_Daily_Average": "92.35012248",
+      "Japanese_Daily_Average": "88.23833764"
+    },
+    {
+      "Dates_time": "20-03-20",
+      "English_Daily_Average": "94.81447212",
+      "Japanese_Daily_Average": "87.61230894"
+    },
+    {
+      "Dates_time": "21-03-20",
+      "English_Daily_Average": "92.10439071",
+      "Japanese_Daily_Average": "79.07660109"
+    },
+    {
+      "Dates_time": "22-03-20",
+      "English_Daily_Average": "87.42457714",
+      "Japanese_Daily_Average": "72.71172893"
+    },
+    {
+      "Dates_time": "23-03-20",
+      "English_Daily_Average": "87.36676291",
+      "Japanese_Daily_Average": "70.1300936"
+    },
+    {
+      "Dates_time": "24-03-20",
+      "English_Daily_Average": "87.40049701",
+      "Japanese_Daily_Average": "66.56811044"
+    },
+    {
+      "Dates_time": "25-03-20",
+      "English_Daily_Average": "82.21979453",
+      "Japanese_Daily_Average": "67.41356499"
+    },
+    {
+      "Dates_time": "26-03-20",
+      "English_Daily_Average": "87.46767685",
+      "Japanese_Daily_Average": "65.81060598"
+    },
+    {
+      "Dates_time": "27-03-20",
+      "English_Daily_Average": "80.91081986",
+      "Japanese_Daily_Average": "68.12628171"
+    },
+    {
+      "Dates_time": "28-03-20",
+      "English_Daily_Average": "79.44236713",
+      "Japanese_Daily_Average": "73.65620596"
+    },
+    {
+      "Dates_time": "29-03-20",
+      "English_Daily_Average": "78.34611388",
+      "Japanese_Daily_Average": "76.08145465"
+    },
+    {
+      "Dates_time": "30-03-20",
+      "English_Daily_Average": "89.99134442",
+      "Japanese_Daily_Average": "80.05110078"
+    },
+    {
+      "Dates_time": "31-03-20",
+      "English_Daily_Average": "94.69308858",
+      "Japanese_Daily_Average": "76.38146035"
+    },
+    {
+      "Dates_time": "01-04-20",
+      "English_Daily_Average": "96.12879517",
+      "Japanese_Daily_Average": "78.11245396"
+    },
+    {
+      "Dates_time": "02-04-20",
+      "English_Daily_Average": "90.05270086",
+      "Japanese_Daily_Average": "76.30236642"
+    },
+    {
+      "Dates_time": "03-04-20",
+      "English_Daily_Average": "91.88103195",
+      "Japanese_Daily_Average": "75.75057335"
+    },
+    {
+      "Dates_time": "04-04-20",
+      "English_Daily_Average": "93.66098336",
+      "Japanese_Daily_Average": "77.70031361"
+    },
+    {
+      "Dates_time": "05-04-20",
+      "English_Daily_Average": "97.49131402",
+      "Japanese_Daily_Average": "76.824223"
+    },
+    {
+      "Dates_time": "06-04-20",
+      "English_Daily_Average": "87.78585017",
+      "Japanese_Daily_Average": "73.44441257"
+    },
+    {
+      "Dates_time": "07-04-20",
+      "English_Daily_Average": "86.01361836",
+      "Japanese_Daily_Average": "73.52207164"
+    },
+    {
+      "Dates_time": "08-04-20",
+      "English_Daily_Average": "87.94904764",
+      "Japanese_Daily_Average": "78.62566291"
+    },
+    {
+      "Dates_time": "09-04-20",
+      "English_Daily_Average": "88.12517521",
+      "Japanese_Daily_Average": "81.71465951"
+    },
+    {
+      "Dates_time": "10-04-20",
+      "English_Daily_Average": "89.24805912",
+      "Japanese_Daily_Average": "76.39600631"
+    },
+    {
+      "Dates_time": "11-04-20",
+      "English_Daily_Average": "90.26267893",
+      "Japanese_Daily_Average": "70.81717515"
+    },
+    {
+      "Dates_time": "12-04-20",
+      "English_Daily_Average": "92.55875039",
+      "Japanese_Daily_Average": "66.33961149"
+    },
+    {
+      "Dates_time": "13-04-20",
+      "English_Daily_Average": "93.38323898",
+      "Japanese_Daily_Average": "68.73974679"
+    },
+    {
+      "Dates_time": "14-04-20",
+      "English_Daily_Average": "96.53355855",
+      "Japanese_Daily_Average": "69.26460626"
+    },
+    {
+      "Dates_time": "15-04-20",
+      "English_Daily_Average": "97.296554",
+      "Japanese_Daily_Average": "65.07713971"
+    },
+    {
+      "Dates_time": "16-04-20",
+      "English_Daily_Average": "100.054612",
+      "Japanese_Daily_Average": "65.16925585"
+    },
+    {
+      "Dates_time": "17-04-20",
+      "English_Daily_Average": "97.91553358",
+      "Japanese_Daily_Average": "67.64759826"
+    },
+    {
+      "Dates_time": "18-04-20",
+      "English_Daily_Average": "95.46463047",
+      "Japanese_Daily_Average": "72.2263681"
+    },
+    {
+      "Dates_time": "19-04-20",
+      "English_Daily_Average": "93.94494933",
+      "Japanese_Daily_Average": "72.51445578"
+    },
+    {
+      "Dates_time": "20-04-20",
+      "English_Daily_Average": "94.77802076",
+      "Japanese_Daily_Average": "71.88953295"
+    },
+    {
+      "Dates_time": "21-04-20",
+      "English_Daily_Average": "90.65407452",
+      "Japanese_Daily_Average": "72.49369845"
+    },
+    {
+      "Dates_time": "22-04-20",
+      "English_Daily_Average": "92.30331779",
+      "Japanese_Daily_Average": "81.66164505"
+    },
+    {
+      "Dates_time": "23-04-20",
+      "English_Daily_Average": "100.3184617",
+      "Japanese_Daily_Average": "82.52663579"
+    },
+    {
+      "Dates_time": "24-04-20",
+      "English_Daily_Average": "105.6047721",
+      "Japanese_Daily_Average": "85.96379108"
+    },
+    {
+      "Dates_time": "25-04-20",
+      "English_Daily_Average": "111.3151429",
+      "Japanese_Daily_Average": "84.57926877"
+    },
+    {
+      "Dates_time": "26-04-20",
+      "English_Daily_Average": "115.9837803",
+      "Japanese_Daily_Average": "87.48878614"
+    },
+    {
+      "Dates_time": "27-04-20",
+      "English_Daily_Average": "119.7199148",
+      "Japanese_Daily_Average": "84.86832906"
+    },
+    {
+      "Dates_time": "28-04-20",
+      "English_Daily_Average": "121.9869153",
+      "Japanese_Daily_Average": "86.57769007"
+    },
+    {
+      "Dates_time": "29-04-20",
+      "English_Daily_Average": "121.1386691",
+      "Japanese_Daily_Average": "76.9716469"
+    },
+    {
+      "Dates_time": "30-04-20",
+      "English_Daily_Average": "117.7247188",
+      "Japanese_Daily_Average": "80.77856698"
+    },
+    {
+      "Dates_time": "01-05-20",
+      "English_Daily_Average": "112.7755706",
+      "Japanese_Daily_Average": "83.63710826"
+    },
+    {
+      "Dates_time": "02-05-20",
+      "English_Daily_Average": "109.5445313",
+      "Japanese_Daily_Average": "84.17893216"
+    },
+    {
+      "Dates_time": "03-05-20",
+      "English_Daily_Average": "115.2161479",
+      "Japanese_Daily_Average": "83.59710536"
+    },
+    {
+      "Dates_time": "04-05-20",
+      "English_Daily_Average": "111.9732176",
+      "Japanese_Daily_Average": "84.6925836"
+    },
+    {
+      "Dates_time": "05-05-20",
+      "English_Daily_Average": "113.001418",
+      "Japanese_Daily_Average": "86.7515327"
+    },
+    {
+      "Dates_time": "06-05-20",
+      "English_Daily_Average": "122.3923374",
+      "Japanese_Daily_Average": "90.42962132"
+    },
+    {
+      "Dates_time": "07-05-20",
+      "English_Daily_Average": "125.1467421",
+      "Japanese_Daily_Average": "87.5924075"
+    },
+    {
+      "Dates_time": "08-05-20",
+      "English_Daily_Average": "131.7823565",
+      "Japanese_Daily_Average": "87.13740122"
+    },
+    {
+      "Dates_time": "09-05-20",
+      "English_Daily_Average": "138.2817623",
+      "Japanese_Daily_Average": "87.28923581"
+    },
+    {
+      "Dates_time": "10-05-20",
+      "English_Daily_Average": "136.7104516",
+      "Japanese_Daily_Average": "91.79736135"
+    },
+    {
+      "Dates_time": "11-05-20",
+      "English_Daily_Average": "145.4514898",
+      "Japanese_Daily_Average": "93.43082186"
+    },
+    {
+      "Dates_time": "12-05-20",
+      "English_Daily_Average": "143.1764524",
+      "Japanese_Daily_Average": "88.3267648"
+    },
+    {
+      "Dates_time": "13-05-20",
+      "English_Daily_Average": "136.8055425",
+      "Japanese_Daily_Average": "86.43749915"
+    },
+    {
+      "Dates_time": "14-05-20",
+      "English_Daily_Average": "144.4710696",
+      "Japanese_Daily_Average": "104.0805981"
+    },
+    {
+      "Dates_time": "15-05-20",
+      "English_Daily_Average": "146.5978314",
+      "Japanese_Daily_Average": "103.8240276"
+    },
+    {
+      "Dates_time": "16-05-20",
+      "English_Daily_Average": "144.9834655",
+      "Japanese_Daily_Average": "101.5468706"
+    },
+    {
+      "Dates_time": "17-05-20",
+      "English_Daily_Average": "148.8412893",
+      "Japanese_Daily_Average": "96.88821517"
+    },
+    {
+      "Dates_time": "18-05-20",
+      "English_Daily_Average": "146.264768",
+      "Japanese_Daily_Average": "95.34003856"
+    },
+    {
+      "Dates_time": "19-05-20",
+      "English_Daily_Average": "157.3830909",
+      "Japanese_Daily_Average": "101.1507583"
+    },
+    {
+      "Dates_time": "20-05-20",
+      "English_Daily_Average": "164.8204385",
+      "Japanese_Daily_Average": "99.31885052"
+    },
+    {
+      "Dates_time": "21-05-20",
+      "English_Daily_Average": "154.7305045",
+      "Japanese_Daily_Average": "81.2254121"
+    },
+    {
+      "Dates_time": "22-05-20",
+      "English_Daily_Average": "151.0015964",
+      "Japanese_Daily_Average": "77.04941589"
+    },
+    {
+      "Dates_time": "23-05-20",
+      "English_Daily_Average": "150.0379327",
+      "Japanese_Daily_Average": "80.90886671"
+    },
+    {
+      "Dates_time": "24-05-20",
+      "English_Daily_Average": "145.6358546",
+      "Japanese_Daily_Average": "86.33324629"
+    },
+    {
+      "Dates_time": "25-05-20",
+      "English_Daily_Average": "140.0074373",
+      "Japanese_Daily_Average": "91.78781933"
+    },
+    {
+      "Dates_time": "26-05-20",
+      "English_Daily_Average": "134.8516595",
+      "Japanese_Daily_Average": "89.75454282"
+    },
+    {
+      "Dates_time": "27-05-20",
+      "English_Daily_Average": "141.4207652",
+      "Japanese_Daily_Average": "93.33833109"
+    },
+    {
+      "Dates_time": "28-05-20",
+      "English_Daily_Average": "143.3361749",
+      "Japanese_Daily_Average": "94.99645154"
+    },
+    {
+      "Dates_time": "29-05-20",
+      "English_Daily_Average": "142.1484121",
+      "Japanese_Daily_Average": "99.01070576"
+    },
+    {
+      "Dates_time": "30-05-20",
+      "English_Daily_Average": "143.2405507",
+      "Japanese_Daily_Average": "108.8946998"
+    },
+    {
+      "Dates_time": "31-05-20",
+      "English_Daily_Average": "143.4456702",
+      "Japanese_Daily_Average": "110.347445"
+    },
+    {
+      "Dates_time": "01-06-20",
+      "English_Daily_Average": "152.7422088",
+      "Japanese_Daily_Average": "106.6916952"
+    },
+    {
+      "Dates_time": "02-06-20",
+      "English_Daily_Average": "152.6570013",
+      "Japanese_Daily_Average": "107.5319643"
+    },
+    {
+      "Dates_time": "03-06-20",
+      "English_Daily_Average": "137.8228813",
+      "Japanese_Daily_Average": "108.8061533"
+    },
+    {
+      "Dates_time": "04-06-20",
+      "English_Daily_Average": "147.0267123",
+      "Japanese_Daily_Average": "108.7082115"
+    },
+    {
+      "Dates_time": "05-06-20",
+      "English_Daily_Average": "152.2171702",
+      "Japanese_Daily_Average": "115.6535215"
+    },
+    {
+      "Dates_time": "06-06-20",
+      "English_Daily_Average": "152.4164347",
+      "Japanese_Daily_Average": "102.3214705"
+    },
+    {
+      "Dates_time": "07-06-20",
+      "English_Daily_Average": "156.8752492",
+      "Japanese_Daily_Average": "102.4803381"
+    },
+    {
+      "Dates_time": "08-06-20",
+      "English_Daily_Average": "160.2805944",
+      "Japanese_Daily_Average": "100.5275536"
+    },
+    {
+      "Dates_time": "09-06-20",
+      "English_Daily_Average": "157.2021536",
+      "Japanese_Daily_Average": "105.6404791"
+    },
+    {
+      "Dates_time": "10-06-20",
+      "English_Daily_Average": "156.5680401",
+      "Japanese_Daily_Average": "105.4316597"
+    },
+    {
+      "Dates_time": "11-06-20",
+      "English_Daily_Average": "147.2450645",
+      "Japanese_Daily_Average": "107.5755391"
+    },
+    {
+      "Dates_time": "12-06-20",
+      "English_Daily_Average": "150.7855636",
+      "Japanese_Daily_Average": "101.4713471"
+    },
+    {
+      "Dates_time": "13-06-20",
+      "English_Daily_Average": "156.8101062",
+      "Japanese_Daily_Average": "108.7162867"
+    },
+    {
+      "Dates_time": "14-06-20",
+      "English_Daily_Average": "149.5595234",
+      "Japanese_Daily_Average": "106.2807676"
+    },
+    {
+      "Dates_time": "15-06-20",
+      "English_Daily_Average": "140.8058987",
+      "Japanese_Daily_Average": "113.3117912"
+    },
+    {
+      "Dates_time": "16-06-20",
+      "English_Daily_Average": "140.0396631",
+      "Japanese_Daily_Average": "110.0133741"
+    },
+    {
+      "Dates_time": "17-06-20",
+      "English_Daily_Average": "142.2346401",
+      "Japanese_Daily_Average": "112.714107"
+    },
+    {
+      "Dates_time": "18-06-20",
+      "English_Daily_Average": "141.5270378",
+      "Japanese_Daily_Average": "109.5256688"
+    },
+    {
+      "Dates_time": "19-06-20",
+      "English_Daily_Average": "134.8766288",
+      "Japanese_Daily_Average": "104.7021703"
+    },
+    {
+      "Dates_time": "20-06-20",
+      "English_Daily_Average": "133.8942281",
+      "Japanese_Daily_Average": "128.6593794"
+    },
+    {
+      "Dates_time": "21-06-20",
+      "English_Daily_Average": "141.948476",
+      "Japanese_Daily_Average": "124.2939703"
+    },
+    {
+      "Dates_time": "22-06-20",
+      "English_Daily_Average": "143.3134995",
+      "Japanese_Daily_Average": "122.213791"
+    },
+    {
+      "Dates_time": "23-06-20",
+      "English_Daily_Average": "160.5258629",
+      "Japanese_Daily_Average": "120.6258483"
+    },
+    {
+      "Dates_time": "24-06-20",
+      "English_Daily_Average": "165.6250755",
+      "Japanese_Daily_Average": "123.3683756"
+    },
+    {
+      "Dates_time": "25-06-20",
+      "English_Daily_Average": "166.7943098",
+      "Japanese_Daily_Average": "125.6538119"
+    },
+    {
+      "Dates_time": "26-06-20",
+      "English_Daily_Average": "180.6200971",
+      "Japanese_Daily_Average": "136.9329443"
+    },
+    {
+      "Dates_time": "27-06-20",
+      "English_Daily_Average": "181.480623",
+      "Japanese_Daily_Average": "110.9985932"
+    },
+    {
+      "Dates_time": "28-06-20",
+      "English_Daily_Average": "200.3586252",
+      "Japanese_Daily_Average": "126.1188856"
+    },
+    {
+      "Dates_time": "29-06-20",
+      "English_Daily_Average": "208.9363133",
+      "Japanese_Daily_Average": "130.8152826"
+    },
+    {
+      "Dates_time": "30-06-20",
+      "English_Daily_Average": "202.267807",
+      "Japanese_Daily_Average": "129.8498014"
+    },
+    {
+      "Dates_time": "01-07-20",
+      "English_Daily_Average": "207.2797046",
+      "Japanese_Daily_Average": "127.0479298"
+    },
+    {
+      "Dates_time": "02-07-20",
+      "English_Daily_Average": "211.2173157",
+      "Japanese_Daily_Average": "128.4619951"
+    },
+    {
+      "Dates_time": "03-07-20",
+      "English_Daily_Average": "210.0246473",
+      "Japanese_Daily_Average": "122.5841563"
+    },
+    {
+      "Dates_time": "04-07-20",
+      "English_Daily_Average": "202.5508448",
+      "Japanese_Daily_Average": "117.4054848"
+    },
+    {
+      "Dates_time": "05-07-20",
+      "English_Daily_Average": "177.9621502",
+      "Japanese_Daily_Average": "105.1459638"
+    },
+    {
+      "Dates_time": "06-07-20",
+      "English_Daily_Average": "171.774804",
+      "Japanese_Daily_Average": "96.84180676"
+    },
+    {
+      "Dates_time": "07-07-20",
+      "English_Daily_Average": "168.0459341",
+      "Japanese_Daily_Average": "102.4397266"
+    },
+    {
+      "Dates_time": "08-07-20",
+      "English_Daily_Average": "169.1794992",
+      "Japanese_Daily_Average": "103.2169352"
+    },
+    {
+      "Dates_time": "09-07-20",
+      "English_Daily_Average": "167.2283686",
+      "Japanese_Daily_Average": "102.6480135"
+    },
+    {
+      "Dates_time": "10-07-20",
+      "English_Daily_Average": "162.7226969",
+      "Japanese_Daily_Average": "108.3065042"
+    },
+    {
+      "Dates_time": "11-07-20",
+      "English_Daily_Average": "184.4749534",
+      "Japanese_Daily_Average": "112.0012832"
+    },
+    {
+      "Dates_time": "12-07-20",
+      "English_Daily_Average": "192.2297928",
+      "Japanese_Daily_Average": "122.4858485"
+    },
+    {
+      "Dates_time": "13-07-20",
+      "English_Daily_Average": "194.6604104",
+      "Japanese_Daily_Average": "124.7231187"
+    },
+    {
+      "Dates_time": "14-07-20",
+      "English_Daily_Average": "197.4215916",
+      "Japanese_Daily_Average": "126.1376281"
+    },
+    {
+      "Dates_time": "15-07-20",
+      "English_Daily_Average": "187.4851074",
+      "Japanese_Daily_Average": "156.0456894"
+    },
+    {
+      "Dates_time": "16-07-20",
+      "English_Daily_Average": "188.7255604",
+      "Japanese_Daily_Average": "153.0769771"
+    },
+    {
+      "Dates_time": "17-07-20",
+      "English_Daily_Average": "193.7381268",
+      "Japanese_Daily_Average": "145.1362628"
+    },
+    {
+      "Dates_time": "18-07-20",
+      "English_Daily_Average": "183.491868",
+      "Japanese_Daily_Average": "173.5960621"
+    },
+    {
+      "Dates_time": "19-07-20",
+      "English_Daily_Average": "199.0412141",
+      "Japanese_Daily_Average": "162.4349051"
+    },
+    {
+      "Dates_time": "20-07-20",
+      "English_Daily_Average": "199.9132923",
+      "Japanese_Daily_Average": "170.5851852"
+    },
+    {
+      "Dates_time": "21-07-20",
+      "English_Daily_Average": "199.2537793",
+      "Japanese_Daily_Average": "196.7116614"
+    },
+    {
+      "Dates_time": "22-07-20",
+      "English_Daily_Average": "211.226726",
+      "Japanese_Daily_Average": "170.5154471"
+    },
+    {
+      "Dates_time": "23-07-20",
+      "English_Daily_Average": "209.3619196",
+      "Japanese_Daily_Average": "176.9722658"
+    },
+    {
+      "Dates_time": "24-07-20",
+      "English_Daily_Average": "201.4681323",
+      "Japanese_Daily_Average": "179.4553452"
+    },
+    {
+      "Dates_time": "25-07-20",
+      "English_Daily_Average": "199.800721",
+      "Japanese_Daily_Average": "165.8876327"
+    },
+    {
+      "Dates_time": "26-07-20",
+      "English_Daily_Average": "182.8246131",
+      "Japanese_Daily_Average": "167.953274"
+    },
+    {
+      "Dates_time": "27-07-20",
+      "English_Daily_Average": "185.8383392",
+      "Japanese_Daily_Average": "168.7418918"
+    },
+    {
+      "Dates_time": "28-07-20",
+      "English_Daily_Average": "179.4732991",
+      "Japanese_Daily_Average": "132.5777565"
+    },
+    {
+      "Dates_time": "29-07-20",
+      "English_Daily_Average": "177.8607746",
+      "Japanese_Daily_Average": "160.7332565"
+    },
+    {
+      "Dates_time": "30-07-20",
+      "English_Daily_Average": "178.4454222",
+      "Japanese_Daily_Average": "159.3844371"
+    },
+    {
+      "Dates_time": "31-07-20",
+      "English_Daily_Average": "180.3702843",
+      "Japanese_Daily_Average": "169.0742434"
+    },
+    {
+      "Dates_time": "01-08-20",
+      "English_Daily_Average": "176.2614932",
+      "Japanese_Daily_Average": "153.7022394"
+    },
+    {
+      "Dates_time": "02-08-20",
+      "English_Daily_Average": "178.4535052",
+      "Japanese_Daily_Average": "168.1730661"
+    },
+    {
+      "Dates_time": "03-08-20",
+      "English_Daily_Average": "175.9063805",
+      "Japanese_Daily_Average": "171.0333552"
+    },
+    {
+      "Dates_time": "04-08-20",
+      "English_Daily_Average": "181.7187418",
+      "Japanese_Daily_Average": "183.0519266"
+    },
+    {
+      "Dates_time": "05-08-20",
+      "English_Daily_Average": "171.8925795",
+      "Japanese_Daily_Average": "157.925744"
+    },
+    {
+      "Dates_time": "06-08-20",
+      "English_Daily_Average": "179.0702566",
+      "Japanese_Daily_Average": "169.9573187"
+    },
+    {
+      "Dates_time": "07-08-20",
+      "English_Daily_Average": "186.8373516",
+      "Japanese_Daily_Average": "211.675806"
+    },
+    {
+      "Dates_time": "08-08-20",
+      "English_Daily_Average": "198.112656",
+      "Japanese_Daily_Average": "211.8765798"
+    },
+    {
+      "Dates_time": "09-08-20",
+      "English_Daily_Average": "193.2770712",
+      "Japanese_Daily_Average": "197.0864242"
+    },
+    {
+      "Dates_time": "10-08-20",
+      "English_Daily_Average": "192.9197419",
+      "Japanese_Daily_Average": "185.0959571"
+    },
+    {
+      "Dates_time": "11-08-20",
+      "English_Daily_Average": "185.4082611",
+      "Japanese_Daily_Average": "188.3215845"
+    },
+    {
+      "Dates_time": "12-08-20",
+      "English_Daily_Average": "189.456907",
+      "Japanese_Daily_Average": "185.2380602"
+    },
+    {
+      "Dates_time": "13-08-20",
+      "English_Daily_Average": "180.5249773",
+      "Japanese_Daily_Average": "171.0783216"
+    },
+    {
+      "Dates_time": "14-08-20",
+      "English_Daily_Average": "173.8774415",
+      "Japanese_Daily_Average": "118.8850837"
+    },
+    {
+      "Dates_time": "15-08-20",
+      "English_Daily_Average": "166.4672887",
+      "Japanese_Daily_Average": "121.1770078"
+    },
+    {
+      "Dates_time": "16-08-20",
+      "English_Daily_Average": "170.651847",
+      "Japanese_Daily_Average": "131.674508"
+    },
+    {
+      "Dates_time": "17-08-20",
+      "English_Daily_Average": "172.6889381",
+      "Japanese_Daily_Average": "137.5523186"
+    },
+    {
+      "Dates_time": "18-08-20",
+      "English_Daily_Average": "182.4948571",
+      "Japanese_Daily_Average": "147.0079059"
+    },
+    {
+      "Dates_time": "19-08-20",
+      "English_Daily_Average": "177.9919412",
+      "Japanese_Daily_Average": "142.4926778"
+    },
+    {
+      "Dates_time": "20-08-20",
+      "English_Daily_Average": "184.6989879",
+      "Japanese_Daily_Average": "144.1602271"
+    },
+    {
+      "Dates_time": "21-08-20",
+      "English_Daily_Average": "182.3994625",
+      "Japanese_Daily_Average": "184.5509401"
+    },
+    {
+      "Dates_time": "22-08-20",
+      "English_Daily_Average": "181.5771666",
+      "Japanese_Daily_Average": "186.0384424"
+    },
+    {
+      "Dates_time": "23-08-20",
+      "English_Daily_Average": "179.6268569",
+      "Japanese_Daily_Average": "173.8007119"
+    },
+    {
+      "Dates_time": "24-08-20",
+      "English_Daily_Average": "173.1902558",
+      "Japanese_Daily_Average": "180.7344958"
+    },
+    {
+      "Dates_time": "25-08-20",
+      "English_Daily_Average": "167.7621995",
+      "Japanese_Daily_Average": "177.2273212"
+    },
+    {
+      "Dates_time": "26-08-20",
+      "English_Daily_Average": "182.2795251",
+      "Japanese_Daily_Average": "170.0697352"
+    },
+    {
+      "Dates_time": "27-08-20",
+      "English_Daily_Average": "196.9154345",
+      "Japanese_Daily_Average": "200.2423502"
+    },
+    {
+      "Dates_time": "28-08-20",
+      "English_Daily_Average": "195.9581475",
+      "Japanese_Daily_Average": "166.6447242"
+    },
+    {
+      "Dates_time": "29-08-20",
+      "English_Daily_Average": "196.6985426",
+      "Japanese_Daily_Average": "173.5760611"
+    },
+    {
+      "Dates_time": "30-08-20",
+      "English_Daily_Average": "193.1574881",
+      "Japanese_Daily_Average": "203.6995849"
+    },
+    {
+      "Dates_time": "31-08-20",
+      "English_Daily_Average": "199.3054334",
+      "Japanese_Daily_Average": "205.8825497"
+    },
+    {
+      "Dates_time": "01-09-20",
+      "English_Daily_Average": "206.2267243",
+      "Japanese_Daily_Average": "207.4142175"
+    },
+    {
+      "Dates_time": "02-09-20",
+      "English_Daily_Average": "195.3762001",
+      "Japanese_Daily_Average": "221.2698395"
+    },
+    {
+      "Dates_time": "03-09-20",
+      "English_Daily_Average": "186.5844584",
+      "Japanese_Daily_Average": "195.8307514"
+    },
+    {
+      "Dates_time": "04-09-20",
+      "English_Daily_Average": "199.0090405",
+      "Japanese_Daily_Average": "207.0576832"
+    },
+    {
+      "Dates_time": "05-09-20",
+      "English_Daily_Average": "208.2871364",
+      "Japanese_Daily_Average": "205.3954851"
+    },
+    {
+      "Dates_time": "06-09-20",
+      "English_Daily_Average": "213.106472",
+      "Japanese_Daily_Average": "194.4681353"
+    },
+    {
+      "Dates_time": "07-09-20",
+      "English_Daily_Average": "216.7591642",
+      "Japanese_Daily_Average": "201.4757005"
+    },
+    {
+      "Dates_time": "08-09-20",
+      "English_Daily_Average": "220.4176388",
+      "Japanese_Daily_Average": "202.3853525"
+    },
+    {
+      "Dates_time": "09-09-20",
+      "English_Daily_Average": "227.7086517",
+      "Japanese_Daily_Average": "207.2827483"
+    },
+    {
+      "Dates_time": "10-09-20",
+      "English_Daily_Average": "226.0803469",
+      "Japanese_Daily_Average": "221.8301973"
+    },
+    {
+      "Dates_time": "11-09-20",
+      "English_Daily_Average": "222.0815402",
+      "Japanese_Daily_Average": "216.8167575"
+    },
+    {
+      "Dates_time": "12-09-20",
+      "English_Daily_Average": "218.8127773",
+      "Japanese_Daily_Average": "276.6323407"
+    },
+    {
+      "Dates_time": "13-09-20",
+      "English_Daily_Average": "229.6538515",
+      "Japanese_Daily_Average": "264.2635076"
+    },
+    {
+      "Dates_time": "14-09-20",
+      "English_Daily_Average": "224.0635132",
+      "Japanese_Daily_Average": "256.9082609"
+    },
+    {
+      "Dates_time": "15-09-20",
+      "English_Daily_Average": "226.4195873",
+      "Japanese_Daily_Average": "281.38273"
+    },
+    {
+      "Dates_time": "16-09-20",
+      "English_Daily_Average": "226.4763349",
+      "Japanese_Daily_Average": "280.4140188"
+    },
+    {
+      "Dates_time": "17-09-20",
+      "English_Daily_Average": "220.8945096",
+      "Japanese_Daily_Average": "290.6342909"
+    },
+    {
+      "Dates_time": "18-09-20",
+      "English_Daily_Average": "214.1742001",
+      "Japanese_Daily_Average": "280.9738011"
+    },
+    {
+      "Dates_time": "19-09-20",
+      "English_Daily_Average": "213.1606317",
+      "Japanese_Daily_Average": "222.4965834"
+    },
+    {
+      "Dates_time": "20-09-20",
+      "English_Daily_Average": "207.0024762",
+      "Japanese_Daily_Average": "225.231349"
+    },
+    {
+      "Dates_time": "21-09-20",
+      "English_Daily_Average": "205.3381747",
+      "Japanese_Daily_Average": "225.1660346"
+    },
+    {
+      "Dates_time": "22-09-20",
+      "English_Daily_Average": "201.8556177",
+      "Japanese_Daily_Average": "194.6808619"
+    },
+    {
+      "Dates_time": "23-09-20",
+      "English_Daily_Average": "197.9298691",
+      "Japanese_Daily_Average": "191.5393801"
+    },
+    {
+      "Dates_time": "24-09-20",
+      "English_Daily_Average": "204.1399937",
+      "Japanese_Daily_Average": "170.8288019"
+    },
+    {
+      "Dates_time": "25-09-20",
+      "English_Daily_Average": "206.5978184",
+      "Japanese_Daily_Average": "173.5467101"
+    },
+    {
+      "Dates_time": "26-09-20",
+      "English_Daily_Average": "202.8957466",
+      "Japanese_Daily_Average": "170.0634419"
+    },
+    {
+      "Dates_time": "27-09-20",
+      "English_Daily_Average": "201.015316",
+      "Japanese_Daily_Average": "166.5163831"
+    },
+    {
+      "Dates_time": "28-09-20",
+      "English_Daily_Average": "220.9621065",
+      "Japanese_Daily_Average": "176.1462734"
+    },
+    {
+      "Dates_time": "29-09-20",
+      "English_Daily_Average": "219.8476031",
+      "Japanese_Daily_Average": "217.7348478"
+    },
+    {
+      "Dates_time": "30-09-20",
+      "English_Daily_Average": "231.3246591",
+      "Japanese_Daily_Average": "213.2535829"
+    },
+    {
+      "Dates_time": "01-10-20",
+      "English_Daily_Average": "236.1659619",
+      "Japanese_Daily_Average": "205.6939321"
+    },
+    {
+      "Dates_time": "02-10-20",
+      "English_Daily_Average": "243.5924265",
+      "Japanese_Daily_Average": "214.9137035"
+    },
+    {
+      "Dates_time": "03-10-20",
+      "English_Daily_Average": "243.4163759",
+      "Japanese_Daily_Average": "216.2608311"
+    },
+    {
+      "Dates_time": "04-10-20",
+      "English_Daily_Average": "243.5580485",
+      "Japanese_Daily_Average": "222.93996"
+    },
+    {
+      "Dates_time": "05-10-20",
+      "English_Daily_Average": "237.1248811",
+      "Japanese_Daily_Average": "242.2654109"
+    },
+    {
+      "Dates_time": "06-10-20",
+      "English_Daily_Average": "244.8492269",
+      "Japanese_Daily_Average": "192.7213108"
+    },
+    {
+      "Dates_time": "07-10-20",
+      "English_Daily_Average": "240.1111871",
+      "Japanese_Daily_Average": "214.7818415"
+    },
+    {
+      "Dates_time": "08-10-20",
+      "English_Daily_Average": "235.4861733",
+      "Japanese_Daily_Average": "225.6717282"
+    },
+    {
+      "Dates_time": "09-10-20",
+      "English_Daily_Average": "239.6827771",
+      "Japanese_Daily_Average": "229.0303203"
+    },
+    {
+      "Dates_time": "10-10-20",
+      "English_Daily_Average": "257.3828257",
+      "Japanese_Daily_Average": "229.5356017"
+    },
+    {
+      "Dates_time": "11-10-20",
+      "English_Daily_Average": "264.3457465",
+      "Japanese_Daily_Average": "224.3949189"
+    },
+    {
+      "Dates_time": "12-10-20",
+      "English_Daily_Average": "281.7943215",
+      "Japanese_Daily_Average": "189.3370309"
+    },
+    {
+      "Dates_time": "13-10-20",
+      "English_Daily_Average": "287.51818",
+      "Japanese_Daily_Average": "204.8439405"
+    },
+    {
+      "Dates_time": "14-10-20",
+      "English_Daily_Average": "307.3395824",
+      "Japanese_Daily_Average": "212.2772752"
+    },
+    {
+      "Dates_time": "15-10-20",
+      "English_Daily_Average": "327.1387509",
+      "Japanese_Daily_Average": "212.7788305"
+    },
+    {
+      "Dates_time": "16-10-20",
+      "English_Daily_Average": "350.8669137",
+      "Japanese_Daily_Average": "222.5993175"
+    },
+    {
+      "Dates_time": "17-10-20",
+      "English_Daily_Average": "360.6840819",
+      "Japanese_Daily_Average": "247.1662699"
+    },
+    {
+      "Dates_time": "18-10-20",
+      "English_Daily_Average": "382.0481989",
+      "Japanese_Daily_Average": "276.7042213"
+    },
+    {
+      "Dates_time": "19-10-20",
+      "English_Daily_Average": "381.9921273",
+      "Japanese_Daily_Average": "296.0930962"
+    },
+    {
+      "Dates_time": "20-10-20",
+      "English_Daily_Average": "397.252864",
+      "Japanese_Daily_Average": "289.7189181"
+    },
+    {
+      "Dates_time": "21-10-20",
+      "English_Daily_Average": "405.9415499",
+      "Japanese_Daily_Average": "286.1602055"
+    },
+    {
+      "Dates_time": "22-10-20",
+      "English_Daily_Average": "402.7924514",
+      "Japanese_Daily_Average": "287.8301651"
+    },
+    {
+      "Dates_time": "23-10-20",
+      "English_Daily_Average": "393.0461063",
+      "Japanese_Daily_Average": "263.6510755"
+    },
+    {
+      "Dates_time": "24-10-20",
+      "English_Daily_Average": "397.4172995",
+      "Japanese_Daily_Average": "252.8798448"
+    },
+    {
+      "Dates_time": "25-10-20",
+      "English_Daily_Average": "393.0098597",
+      "Japanese_Daily_Average": "247.5081165"
+    },
+    {
+      "Dates_time": "26-10-20",
+      "English_Daily_Average": "401.8651174",
+      "Japanese_Daily_Average": "247.5016565"
+    },
+    {
+      "Dates_time": "27-10-20",
+      "English_Daily_Average": "423.7054066",
+      "Japanese_Daily_Average": "276.404736"
+    },
+    {
+      "Dates_time": "28-10-20",
+      "English_Daily_Average": "411.1618667",
+      "Japanese_Daily_Average": "284.9821368"
+    },
+    {
+      "Dates_time": "29-10-20",
+      "English_Daily_Average": "431.8423828",
+      "Japanese_Daily_Average": "279.2879586"
+    },
+    {
+      "Dates_time": "30-10-20",
+      "English_Daily_Average": "426.6870142",
+      "Japanese_Daily_Average": "294.6301491"
+    },
+    {
+      "Dates_time": "31-10-20",
+      "English_Daily_Average": "442.9088939",
+      "Japanese_Daily_Average": "288.5085843"
+    },
+    {
+      "Dates_time": "01-11-20",
+      "English_Daily_Average": "449.6484595",
+      "Japanese_Daily_Average": "293.5965828"
+    },
+    {
+      "Dates_time": "02-11-20",
+      "English_Daily_Average": "442.8467494",
+      "Japanese_Daily_Average": "301.1467021"
+    },
+    {
+      "Dates_time": "03-11-20",
+      "English_Daily_Average": "406.2187144",
+      "Japanese_Daily_Average": "304.2097944"
+    },
+    {
+      "Dates_time": "04-11-20",
+      "English_Daily_Average": "402.9335525",
+      "Japanese_Daily_Average": "280.5535253"
+    },
+    {
+      "Dates_time": "05-11-20",
+      "English_Daily_Average": "370.6726367",
+      "Japanese_Daily_Average": "297.3662528"
+    },
+    {
+      "Dates_time": "06-11-20",
+      "English_Daily_Average": "371.46627",
+      "Japanese_Daily_Average": "312.9660145"
+    },
+    {
+      "Dates_time": "07-11-20",
+      "English_Daily_Average": "346.8722135",
+      "Japanese_Daily_Average": "317.503897"
+    },
+    {
+      "Dates_time": "08-11-20",
+      "English_Daily_Average": "330.6136488",
+      "Japanese_Daily_Average": "307.5212293"
+    },
+    {
+      "Dates_time": "09-11-20",
+      "English_Daily_Average": "320.4011661",
+      "Japanese_Daily_Average": "302.8615796"
+    },
+    {
+      "Dates_time": "10-11-20",
+      "English_Daily_Average": "326.1117369",
+      "Japanese_Daily_Average": "266.3275127"
+    },
+    {
+      "Dates_time": "11-11-20",
+      "English_Daily_Average": "327.4114341",
+      "Japanese_Daily_Average": "270.0604943"
+    },
+    {
+      "Dates_time": "12-11-20",
+      "English_Daily_Average": "336.1878746",
+      "Japanese_Daily_Average": "262.8667781"
+    },
+    {
+      "Dates_time": "13-11-20",
+      "English_Daily_Average": "322.156167",
+      "Japanese_Daily_Average": "234.1221998"
+    },
+    {
+      "Dates_time": "14-11-20",
+      "English_Daily_Average": "319.4934088",
+      "Japanese_Daily_Average": "250.9522716"
+    },
+    {
+      "Dates_time": "15-11-20",
+      "English_Daily_Average": "318.8568304",
+      "Japanese_Daily_Average": "273.4605223"
+    },
+    {
+      "Dates_time": "16-11-20",
+      "English_Daily_Average": "309.57519",
+      "Japanese_Daily_Average": "265.6737785"
+    },
+    {
+      "Dates_time": "17-11-20",
+      "English_Daily_Average": "300.2018463",
+      "Japanese_Daily_Average": "280.526414"
+    },
+    {
+      "Dates_time": "18-11-20",
+      "English_Daily_Average": "295.4645324",
+      "Japanese_Daily_Average": "268.9574173"
+    },
+    {
+      "Dates_time": "19-11-20",
+      "English_Daily_Average": "287.9283952",
+      "Japanese_Daily_Average": "285.0143959"
+    },
+    {
+      "Dates_time": "20-11-20",
+      "English_Daily_Average": "308.7344239",
+      "Japanese_Daily_Average": "301.0091216"
+    },
+    {
+      "Dates_time": "21-11-20",
+      "English_Daily_Average": "313.6900141",
+      "Japanese_Daily_Average": "285.3458755"
+    },
+    {
+      "Dates_time": "22-11-20",
+      "English_Daily_Average": "313.5473874",
+      "Japanese_Daily_Average": "252.04931"
+    },
+    {
+      "Dates_time": "23-11-20",
+      "English_Daily_Average": "309.724089",
+      "Japanese_Daily_Average": "249.975702"
+    },
+    {
+      "Dates_time": "24-11-20",
+      "English_Daily_Average": "324.9212867",
+      "Japanese_Daily_Average": "252.1427533"
+    },
+    {
+      "Dates_time": "25-11-20",
+      "English_Daily_Average": "351.4909363",
+      "Japanese_Daily_Average": "266.4567216"
+    },
+    {
+      "Dates_time": "26-11-20",
+      "English_Daily_Average": "357.7222678",
+      "Japanese_Daily_Average": "260.8768039"
+    },
+    {
+      "Dates_time": "27-11-20",
+      "English_Daily_Average": "344.1080838",
+      "Japanese_Daily_Average": "264.7589356"
+    },
+    {
+      "Dates_time": "28-11-20",
+      "English_Daily_Average": "340.5766225",
+      "Japanese_Daily_Average": "272.3165112"
+    },
+    {
+      "Dates_time": "29-11-20",
+      "English_Daily_Average": "337.7340899",
+      "Japanese_Daily_Average": "289.9901083"
+    },
+    {
+      "Dates_time": "30-11-20",
+      "English_Daily_Average": "354.3161043",
+      "Japanese_Daily_Average": "313.4274737"
+    },
+    {
+      "Dates_time": "01-12-20",
+      "English_Daily_Average": "338.9575835",
+      "Japanese_Daily_Average": "298.2762123"
+    },
+    {
+      "Dates_time": "02-12-20",
+      "English_Daily_Average": "310.6477961",
+      "Japanese_Daily_Average": "310.7230772"
+    },
+    {
+      "Dates_time": "03-12-20",
+      "English_Daily_Average": "302.3435335",
+      "Japanese_Daily_Average": "298.8404549"
+    },
+    {
+      "Dates_time": "04-12-20",
+      "English_Daily_Average": "303.1206754",
+      "Japanese_Daily_Average": "290.0164868"
+    },
+    {
+      "Dates_time": "05-12-20",
+      "English_Daily_Average": "292.4736007",
+      "Japanese_Daily_Average": "283.9331414"
+    },
+    {
+      "Dates_time": "06-12-20",
+      "English_Daily_Average": "281.6035702",
+      "Japanese_Daily_Average": "286.0467783"
+    },
+    {
+      "Dates_time": "07-12-20",
+      "English_Daily_Average": "257.9164462",
+      "Japanese_Daily_Average": "254.4626004"
+    },
+    {
+      "Dates_time": "08-12-20",
+      "English_Daily_Average": "241.7617217",
+      "Japanese_Daily_Average": "244.656405"
+    },
+    {
+      "Dates_time": "09-12-20",
+      "English_Daily_Average": "248.4650917",
+      "Japanese_Daily_Average": "224.7666395"
+    },
+    {
+      "Dates_time": "10-12-20",
+      "English_Daily_Average": "236.1548112",
+      "Japanese_Daily_Average": "212.5362846"
+    },
+    {
+      "Dates_time": "11-12-20",
+      "English_Daily_Average": "220.2285953",
+      "Japanese_Daily_Average": "205.7212376"
+    },
+    {
+      "Dates_time": "12-12-20",
+      "English_Daily_Average": "251.8225623",
+      "Japanese_Daily_Average": "214.4857274"
+    },
+    {
+      "Dates_time": "13-12-20",
+      "English_Daily_Average": "256.6732996",
+      "Japanese_Daily_Average": "199.5014731"
+    },
+    {
+      "Dates_time": "14-12-20",
+      "English_Daily_Average": "274.5702339",
+      "Japanese_Daily_Average": "201.4865476"
+    },
+    {
+      "Dates_time": "15-12-20",
+      "English_Daily_Average": "288.2443064",
+      "Japanese_Daily_Average": "237.7623028"
+    },
+    {
+      "Dates_time": "16-12-20",
+      "English_Daily_Average": "283.4137249",
+      "Japanese_Daily_Average": "242.2518013"
+    },
+    {
+      "Dates_time": "17-12-20",
+      "English_Daily_Average": "299.1055838",
+      "Japanese_Daily_Average": "261.1096462"
+    },
+    {
+      "Dates_time": "18-12-20",
+      "English_Daily_Average": "313.2965542",
+      "Japanese_Daily_Average": "277.1090994"
+    },
+    {
+      "Dates_time": "19-12-20",
+      "English_Daily_Average": "280.5755931",
+      "Japanese_Daily_Average": "269.8287184"
+    },
+    {
+      "Dates_time": "20-12-20",
+      "English_Daily_Average": "284.8199475",
+      "Japanese_Daily_Average": "286.4137522"
+    },
+    {
+      "Dates_time": "21-12-20",
+      "English_Daily_Average": "278.9718848",
+      "Japanese_Daily_Average": "303.0693274"
+    },
+    {
+      "Dates_time": "22-12-20",
+      "English_Daily_Average": "279.922245",
+      "Japanese_Daily_Average": "280.4360508"
+    },
+    {
+      "Dates_time": "23-12-20",
+      "English_Daily_Average": "271.0455757",
+      "Japanese_Daily_Average": "292.50372"
+    },
+    {
+      "Dates_time": "24-12-20",
+      "English_Daily_Average": "264.799497",
+      "Japanese_Daily_Average": "300.123636"
+    },
+    {
+      "Dates_time": "25-12-20",
+      "English_Daily_Average": "257.1698889",
+      "Japanese_Daily_Average": "296.4410697"
+    },
+    {
+      "Dates_time": "26-12-20",
+      "English_Daily_Average": "263.3094801",
+      "Japanese_Daily_Average": "300.9984734"
+    },
+    {
+      "Dates_time": "27-12-20",
+      "English_Daily_Average": "260.567888",
+      "Japanese_Daily_Average": "283.7627065"
+    },
+    {
+      "Dates_time": "28-12-20",
+      "English_Daily_Average": "292.1027907",
+      "Japanese_Daily_Average": "312.2922714"
+    },
+    {
+      "Dates_time": "29-12-20",
+      "English_Daily_Average": "292.3925481",
+      "Japanese_Daily_Average": "326.3188701"
+    },
+    {
+      "Dates_time": "30-12-20",
+      "English_Daily_Average": "313.9760279",
+      "Japanese_Daily_Average": "322.0124062"
+    },
+    {
+      "Dates_time": "31-12-20",
+      "English_Daily_Average": "327.517686",
+      "Japanese_Daily_Average": "307.1947835"
+    },
+    {
+      "Dates_time": "01-01-21",
+      "English_Daily_Average": "334.9653498",
+      "Japanese_Daily_Average": "305.6999093"
+    },
+    {
+      "Dates_time": "02-01-21",
+      "English_Daily_Average": "333.4249523",
+      "Japanese_Daily_Average": "303.5963244"
+    },
+    {
+      "Dates_time": "03-01-21",
+      "English_Daily_Average": "335.630301",
+      "Japanese_Daily_Average": "299.4681322"
+    },
+    {
+      "Dates_time": "04-01-21",
+      "English_Daily_Average": "308.3696899",
+      "Japanese_Daily_Average": "265.1589333"
+    },
+    {
+      "Dates_time": "05-01-21",
+      "English_Daily_Average": "324.0726382",
+      "Japanese_Daily_Average": "268.6284134"
+    },
+    {
+      "Dates_time": "06-01-21",
+      "English_Daily_Average": "306.6563711",
+      "Japanese_Daily_Average": "276.0002492"
+    },
+    {
+      "Dates_time": "07-01-21",
+      "English_Daily_Average": "294.920154",
+      "Japanese_Daily_Average": "277.0071134"
+    },
+    {
+      "Dates_time": "08-01-21",
+      "English_Daily_Average": "293.9422891",
+      "Japanese_Daily_Average": "273.1969209"
+    },
+    {
+      "Dates_time": "09-01-21",
+      "English_Daily_Average": "293.0799191",
+      "Japanese_Daily_Average": "267.7042926"
+    },
+    {
+      "Dates_time": "10-01-21",
+      "English_Daily_Average": "288.5406277",
+      "Japanese_Daily_Average": "284.7058058"
+    },
+    {
+      "Dates_time": "11-01-21",
+      "English_Daily_Average": "287.4738445",
+      "Japanese_Daily_Average": "298.9070747"
+    },
+    {
+      "Dates_time": "12-01-21",
+      "English_Daily_Average": "269.0143902",
+      "Japanese_Daily_Average": "291.4529001"
+    },
+    {
+      "Dates_time": "13-01-21",
+      "English_Daily_Average": "278.4147006",
+      "Japanese_Daily_Average": "297.0252129"
+    },
+    {
+      "Dates_time": "14-01-21",
+      "English_Daily_Average": "285.1109777",
+      "Japanese_Daily_Average": "304.9094947"
+    },
+    {
+      "Dates_time": "15-01-21",
+      "English_Daily_Average": "284.3640861",
+      "Japanese_Daily_Average": "314.8298548"
+    },
+    {
+      "Dates_time": "16-01-21",
+      "English_Daily_Average": "282.1690473",
+      "Japanese_Daily_Average": "330.8780921"
+    },
+    {
+      "Dates_time": "17-01-21",
+      "English_Daily_Average": "291.4309021",
+      "Japanese_Daily_Average": "318.5125434"
+    },
+    {
+      "Dates_time": "18-01-21",
+      "English_Daily_Average": "285.9960039",
+      "Japanese_Daily_Average": "301.6449487"
+    },
+    {
+      "Dates_time": "19-01-21",
+      "English_Daily_Average": "293.2164063",
+      "Japanese_Daily_Average": "297.025637"
+    },
+    {
+      "Dates_time": "20-01-21",
+      "English_Daily_Average": "283.9540444",
+      "Japanese_Daily_Average": "276.1373211"
+    },
+    {
+      "Dates_time": "21-01-21",
+      "English_Daily_Average": "286.811211",
+      "Japanese_Daily_Average": "278.2714784"
+    },
+    {
+      "Dates_time": "22-01-21",
+      "English_Daily_Average": "288.2844573",
+      "Japanese_Daily_Average": "274.7951022"
+    },
+    {
+      "Dates_time": "23-01-21",
+      "English_Daily_Average": "288.2596477",
+      "Japanese_Daily_Average": "268.8811757"
+    },
+    {
+      "Dates_time": "24-01-21",
+      "English_Daily_Average": "283.7881976",
+      "Japanese_Daily_Average": "290.0713189"
+    },
+    {
+      "Dates_time": "25-01-21",
+      "English_Daily_Average": "286.1747289",
+      "Japanese_Daily_Average": "304.1116181"
+    },
+    {
+      "Dates_time": "26-01-21",
+      "English_Daily_Average": "287.5871782",
+      "Japanese_Daily_Average": "316.0588902"
+    },
+    {
+      "Dates_time": "27-01-21",
+      "English_Daily_Average": "301.4860674",
+      "Japanese_Daily_Average": "353.7936557"
+    },
+    {
+      "Dates_time": "28-01-21",
+      "English_Daily_Average": "292.5142051",
+      "Japanese_Daily_Average": "345.6640459"
+    },
+    {
+      "Dates_time": "29-01-21",
+      "English_Daily_Average": "288.3600249",
+      "Japanese_Daily_Average": "356.7612225"
+    },
+    {
+      "Dates_time": "30-01-21",
+      "English_Daily_Average": "290.3521444",
+      "Japanese_Daily_Average": "355.7558711"
+    },
+    {
+      "Dates_time": "31-01-21",
+      "English_Daily_Average": "307.3050308",
+      "Japanese_Daily_Average": "371.8144033"
+    },
+    {
+      "Dates_time": "01-02-21",
+      "English_Daily_Average": "315.132744",
+      "Japanese_Daily_Average": "380.4746527"
+    },
+    {
+      "Dates_time": "02-02-21",
+      "English_Daily_Average": "304.1314605",
+      "Japanese_Daily_Average": "373.1826191"
+    },
+    {
+      "Dates_time": "03-02-21",
+      "English_Daily_Average": "294.277377",
+      "Japanese_Daily_Average": "349.722246"
+    },
+    {
+      "Dates_time": "04-02-21",
+      "English_Daily_Average": "299.9070449",
+      "Japanese_Daily_Average": "362.5735185"
+    },
+    {
+      "Dates_time": "05-02-21",
+      "English_Daily_Average": "305.4262902",
+      "Japanese_Daily_Average": "359.4608436"
+    },
+    {
+      "Dates_time": "06-02-21",
+      "English_Daily_Average": "304.7451552",
+      "Japanese_Daily_Average": "347.9667318"
+    },
+    {
+      "Dates_time": "07-02-21",
+      "English_Daily_Average": "286.0927655",
+      "Japanese_Daily_Average": "311.6268021"
+    },
+    {
+      "Dates_time": "08-02-21",
+      "English_Daily_Average": "283.4178734",
+      "Japanese_Daily_Average": "289.995664"
+    },
+    {
+      "Dates_time": "09-02-21",
+      "English_Daily_Average": "297.1282378",
+      "Japanese_Daily_Average": "286.7879134"
+    },
+    {
+      "Dates_time": "10-02-21",
+      "English_Daily_Average": "299.911727",
+      "Japanese_Daily_Average": "280.0843972"
+    },
+    {
+      "Dates_time": "11-02-21",
+      "English_Daily_Average": "294.0618393",
+      "Japanese_Daily_Average": "283.0882939"
+    },
+    {
+      "Dates_time": "12-02-21",
+      "English_Daily_Average": "297.7841813",
+      "Japanese_Daily_Average": "267.1687354"
+    },
+    {
+      "Dates_time": "13-02-21",
+      "English_Daily_Average": "300.3743879",
+      "Japanese_Daily_Average": "299.027874"
+    },
+    {
+      "Dates_time": "14-02-21",
+      "English_Daily_Average": "299.8798526",
+      "Japanese_Daily_Average": "300.5061255"
+    },
+    {
+      "Dates_time": "15-02-21",
+      "English_Daily_Average": "316.6683816",
+      "Japanese_Daily_Average": "301.8230784"
+    },
+    {
+      "Dates_time": "16-02-21",
+      "English_Daily_Average": "317.3646926",
+      "Japanese_Daily_Average": "297.9896894"
+    },
+    {
+      "Dates_time": "17-02-21",
+      "English_Daily_Average": "310.3717457",
+      "Japanese_Daily_Average": "293.848662"
+    },
+    {
+      "Dates_time": "18-02-21",
+      "English_Daily_Average": "319.4816839",
+      "Japanese_Daily_Average": "282.1199564"
+    },
+    {
+      "Dates_time": "19-02-21",
+      "English_Daily_Average": "313.2625644",
+      "Japanese_Daily_Average": "295.4738039"
+    },
+    {
+      "Dates_time": "20-02-21",
+      "English_Daily_Average": "310.8713758",
+      "Japanese_Daily_Average": "276.0047676"
+    },
+    {
+      "Dates_time": "21-02-21",
+      "English_Daily_Average": "314.6114548",
+      "Japanese_Daily_Average": "273.8215145"
+    },
+    {
+      "Dates_time": "22-02-21",
+      "English_Daily_Average": "289.2377074",
+      "Japanese_Daily_Average": "291.2466383"
+    },
+    {
+      "Dates_time": "23-02-21",
+      "English_Daily_Average": "270.65077",
+      "Japanese_Daily_Average": "288.9960789"
+    },
+    {
+      "Dates_time": "24-02-21",
+      "English_Daily_Average": "273.1000989",
+      "Japanese_Daily_Average": "310.264255"
+    },
+    {
+      "Dates_time": "25-02-21",
+      "English_Daily_Average": "264.6770873",
+      "Japanese_Daily_Average": "312.0181033"
+    },
+    {
+      "Dates_time": "26-02-21",
+      "English_Daily_Average": "259.0844812",
+      "Japanese_Daily_Average": "310.5985941"
+    },
+    {
+      "Dates_time": "27-02-21",
+      "English_Daily_Average": "289.702807",
+      "Japanese_Daily_Average": "333.7635484"
+    },
+    {
+      "Dates_time": "28-02-21",
+      "English_Daily_Average": "292.301755",
+      "Japanese_Daily_Average": "340.9031218"
+    },
+    {
+      "Dates_time": "01-03-21",
+      "English_Daily_Average": "300.1987339",
+      "Japanese_Daily_Average": "325.0750844"
+    },
+    {
+      "Dates_time": "02-03-21",
+      "English_Daily_Average": "312.7077026",
+      "Japanese_Daily_Average": "335.2638114"
+    },
+    {
+      "Dates_time": "03-03-21",
+      "English_Daily_Average": "308.8320063",
+      "Japanese_Daily_Average": "309.1137398"
+    },
+    {
+      "Dates_time": "04-03-21",
+      "English_Daily_Average": "312.966693",
+      "Japanese_Daily_Average": "313.5040605"
+    },
+    {
+      "Dates_time": "05-03-21",
+      "English_Daily_Average": "315.4945237",
+      "Japanese_Daily_Average": "308.1151761"
+    },
+    {
+      "Dates_time": "06-03-21",
+      "English_Daily_Average": "288.2281378",
+      "Japanese_Daily_Average": "281.953401"
+    },
+    {
+      "Dates_time": "07-03-21",
+      "English_Daily_Average": "281.0914666",
+      "Japanese_Daily_Average": "280.8864807"
+    },
+    {
+      "Dates_time": "08-03-21",
+      "English_Daily_Average": "269.1913763",
+      "Japanese_Daily_Average": "278.3286723"
+    },
+    {
+      "Dates_time": "09-03-21",
+      "English_Daily_Average": "255.8889045",
+      "Japanese_Daily_Average": "277.3525463"
+    },
+    {
+      "Dates_time": "10-03-21",
+      "English_Daily_Average": "258.6474405",
+      "Japanese_Daily_Average": "286.1160511"
+    },
+    {
+      "Dates_time": "11-03-21",
+      "English_Daily_Average": "257.9510908",
+      "Japanese_Daily_Average": "281.6260759"
+    },
+    {
+      "Dates_time": "12-03-21",
+      "English_Daily_Average": "264.7628134",
+      "Japanese_Daily_Average": "281.6166959"
+    },
+    {
+      "Dates_time": "13-03-21",
+      "English_Daily_Average": "264.1788728",
+      "Japanese_Daily_Average": "291.6860362"
+    },
+    {
+      "Dates_time": "14-03-21",
+      "English_Daily_Average": "271.3141986",
+      "Japanese_Daily_Average": "317.1436262"
+    },
+    {
+      "Dates_time": "15-03-21",
+      "English_Daily_Average": "278.1659852",
+      "Japanese_Daily_Average": "322.1591146"
+    },
+    {
+      "Dates_time": "16-03-21",
+      "English_Daily_Average": "289.9133122",
+      "Japanese_Daily_Average": "325.461514"
+    },
+    {
+      "Dates_time": "17-03-21",
+      "English_Daily_Average": "285.0912899",
+      "Japanese_Daily_Average": "331.3831607"
+    },
+    {
+      "Dates_time": "18-03-21",
+      "English_Daily_Average": "278.1312421",
+      "Japanese_Daily_Average": "336.1586439"
+    },
+    {
+      "Dates_time": "19-03-21",
+      "English_Daily_Average": "269.670899",
+      "Japanese_Daily_Average": "337.5864142"
+    },
+    {
+      "Dates_time": "20-03-21",
+      "English_Daily_Average": "262.1141952",
+      "Japanese_Daily_Average": "327.6296998"
+    },
+    {
+      "Dates_time": "21-03-21",
+      "English_Daily_Average": "251.2793109",
+      "Japanese_Daily_Average": "305.1324834"
+    },
+    {
+      "Dates_time": "22-03-21",
+      "English_Daily_Average": "253.1831121",
+      "Japanese_Daily_Average": "305.2982005"
+    },
+    {
+      "Dates_time": "23-03-21",
+      "English_Daily_Average": "244.5903073",
+      "Japanese_Daily_Average": "295.8267308"
+    },
+    {
+      "Dates_time": "24-03-21",
+      "English_Daily_Average": "243.3940179",
+      "Japanese_Daily_Average": "291.2397777"
+    },
+    {
+      "Dates_time": "25-03-21",
+      "English_Daily_Average": "248.7086485",
+      "Japanese_Daily_Average": "278.6792806"
+    },
+    {
+      "Dates_time": "26-03-21",
+      "English_Daily_Average": "242.18826",
+      "Japanese_Daily_Average": "278.4005461"
+    },
+    {
+      "Dates_time": "27-03-21",
+      "English_Daily_Average": "242.7006613",
+      "Japanese_Daily_Average": "284.585585"
+    },
+    {
+      "Dates_time": "28-03-21",
+      "English_Daily_Average": "270.8107531",
+      "Japanese_Daily_Average": "296.0749202"
+    },
+    {
+      "Dates_time": "29-03-21",
+      "English_Daily_Average": "262.7342695",
+      "Japanese_Daily_Average": "274.5736714"
+    },
+    {
+      "Dates_time": "30-03-21",
+      "English_Daily_Average": "267.4043974",
+      "Japanese_Daily_Average": "278.0025921"
+    },
+    {
+      "Dates_time": "31-03-21",
+      "English_Daily_Average": "289.8272077",
+      "Japanese_Daily_Average": "290.2465341"
+    },
+    {
+      "Dates_time": "01-04-21",
+      "English_Daily_Average": "292.040487",
+      "Japanese_Daily_Average": "295.7292581"
+    },
+    {
+      "Dates_time": "02-04-21",
+      "English_Daily_Average": "301.1969615",
+      "Japanese_Daily_Average": "305.5795873"
+    },
+    {
+      "Dates_time": "03-04-21",
+      "English_Daily_Average": "299.9022428",
+      "Japanese_Daily_Average": "288.9608646"
+    },
+    {
+      "Dates_time": "04-04-21",
+      "English_Daily_Average": "276.1388986",
+      "Japanese_Daily_Average": "279.6358543"
+    },
+    {
+      "Dates_time": "05-04-21",
+      "English_Daily_Average": "279.7160312",
+      "Japanese_Daily_Average": "282.70408"
+    },
+    {
+      "Dates_time": "06-04-21",
+      "English_Daily_Average": "280.5216438",
+      "Japanese_Daily_Average": "286.4905291"
+    },
+    {
+      "Dates_time": "07-04-21",
+      "English_Daily_Average": "262.27839",
+      "Japanese_Daily_Average": "257.543568"
+    },
+    {
+      "Dates_time": "08-04-21",
+      "English_Daily_Average": "261.8721178",
+      "Japanese_Daily_Average": "255.6500325"
+    },
+    {
+      "Dates_time": "09-04-21",
+      "English_Daily_Average": "264.1069409",
+      "Japanese_Daily_Average": "248.9934568"
+    },
+    {
+      "Dates_time": "10-04-21",
+      "English_Daily_Average": "266.442239",
+      "Japanese_Daily_Average": "254.5081999"
+    },
+    {
+      "Dates_time": "11-04-21",
+      "English_Daily_Average": "274.9532529",
+      "Japanese_Daily_Average": "245.0518189"
+    },
+    {
+      "Dates_time": "12-04-21",
+      "English_Daily_Average": "280.4273351",
+      "Japanese_Daily_Average": "256.5830765"
+    },
+    {
+      "Dates_time": "13-04-21",
+      "English_Daily_Average": "274.2215101",
+      "Japanese_Daily_Average": "266.0970995"
+    },
+    {
+      "Dates_time": "14-04-21",
+      "English_Daily_Average": "271.9996511",
+      "Japanese_Daily_Average": "277.6507436"
+    },
+    {
+      "Dates_time": "15-04-21",
+      "English_Daily_Average": "266.4359552",
+      "Japanese_Daily_Average": "272.5368209"
+    },
+    {
+      "Dates_time": "16-04-21",
+      "English_Daily_Average": "267.1591978",
+      "Japanese_Daily_Average": "280.0781524"
+    },
+    {
+      "Dates_time": "17-04-21",
+      "English_Daily_Average": "267.6680621",
+      "Japanese_Daily_Average": "287.8242625"
+    },
+    {
+      "Dates_time": "18-04-21",
+      "English_Daily_Average": "260.2282384",
+      "Japanese_Daily_Average": "290.3161024"
+    },
+    {
+      "Dates_time": "19-04-21",
+      "English_Daily_Average": "256.3472485",
+      "Japanese_Daily_Average": "290.7445341"
+    },
+    {
+      "Dates_time": "20-04-21",
+      "English_Daily_Average": "265.6352312",
+      "Japanese_Daily_Average": "269.2904293"
+    },
+    {
+      "Dates_time": "21-04-21",
+      "English_Daily_Average": "265.5917947",
+      "Japanese_Daily_Average": "264.3345472"
+    },
+    {
+      "Dates_time": "22-04-21",
+      "English_Daily_Average": "264.1389072",
+      "Japanese_Daily_Average": "271.4253729"
+    },
+    {
+      "Dates_time": "23-04-21",
+      "English_Daily_Average": "258.0706549",
+      "Japanese_Daily_Average": "256.6868926"
+    },
+    {
+      "Dates_time": "24-04-21",
+      "English_Daily_Average": "256.730058",
+      "Japanese_Daily_Average": "247.6932821"
+    },
+    {
+      "Dates_time": "25-04-21",
+      "English_Daily_Average": "251.6810674",
+      "Japanese_Daily_Average": "269.6235346"
+    },
+    {
+      "Dates_time": "26-04-21",
+      "English_Daily_Average": "273.8253643",
+      "Japanese_Daily_Average": "294.6420992"
+    },
+    {
+      "Dates_time": "27-04-21",
+      "English_Daily_Average": "288.8197645",
+      "Japanese_Daily_Average": "334.530291"
+    },
+    {
+      "Dates_time": "28-04-21",
+      "English_Daily_Average": "293.458783",
+      "Japanese_Daily_Average": "348.7814125"
+    },
+    {
+      "Dates_time": "29-04-21",
+      "English_Daily_Average": "300.4332733",
+      "Japanese_Daily_Average": "357.9045635"
+    },
+    {
+      "Dates_time": "30-04-21",
+      "English_Daily_Average": "304.5187131",
+      "Japanese_Daily_Average": "382.6701277"
+    },
+    {
+      "Dates_time": "01-05-21",
+      "English_Daily_Average": "305.0797999",
+      "Japanese_Daily_Average": "383.4586776"
+    },
+    {
+      "Dates_time": "02-05-21",
+      "English_Daily_Average": "306.9800209",
+      "Japanese_Daily_Average": "351.7939659"
+    },
+    {
+      "Dates_time": "03-05-21",
+      "English_Daily_Average": "291.7326106",
+      "Japanese_Daily_Average": "324.2914197"
+    },
+    {
+      "Dates_time": "04-05-21",
+      "English_Daily_Average": "272.2891521",
+      "Japanese_Daily_Average": "287.6797765"
+    },
+    {
+      "Dates_time": "05-05-21",
+      "English_Daily_Average": "268.6815308",
+      "Japanese_Daily_Average": "287.9071996"
+    },
+    {
+      "Dates_time": "06-05-21",
+      "English_Daily_Average": "264.8642754",
+      "Japanese_Daily_Average": "297.9210266"
+    },
+    {
+      "Dates_time": "07-05-21",
+      "English_Daily_Average": "264.4651292",
+      "Japanese_Daily_Average": "287.6669354"
+    },
+    {
+      "Dates_time": "08-05-21",
+      "English_Daily_Average": "259.885513",
+      "Japanese_Daily_Average": "288.0246212"
+    },
+    {
+      "Dates_time": "09-05-21",
+      "English_Daily_Average": "257.9151819",
+      "Japanese_Daily_Average": "297.1917601"
+    },
+    {
+      "Dates_time": "10-05-21",
+      "English_Daily_Average": "246.0554304",
+      "Japanese_Daily_Average": "306.4798322"
+    },
+    {
+      "Dates_time": "11-05-21",
+      "English_Daily_Average": "239.851806",
+      "Japanese_Daily_Average": "318.9636584"
+    },
+    {
+      "Dates_time": "12-05-21",
+      "English_Daily_Average": "241.267646",
+      "Japanese_Daily_Average": "301.7052609"
+    },
+    {
+      "Dates_time": "13-05-21",
+      "English_Daily_Average": "234.4681019",
+      "Japanese_Daily_Average": "298.9966707"
+    },
+    {
+      "Dates_time": "14-05-21",
+      "English_Daily_Average": "232.5785913",
+      "Japanese_Daily_Average": "276.5192376"
+    },
+    {
+      "Dates_time": "15-05-21",
+      "English_Daily_Average": "239.6497029",
+      "Japanese_Daily_Average": "274.4815992"
+    },
+    {
+      "Dates_time": "16-05-21",
+      "English_Daily_Average": "241.5122062",
+      "Japanese_Daily_Average": "259.6502926"
+    },
+    {
+      "Dates_time": "17-05-21",
+      "English_Daily_Average": "242.1719725",
+      "Japanese_Daily_Average": "244.5743856"
+    },
+    {
+      "Dates_time": "18-05-21",
+      "English_Daily_Average": "251.3843692",
+      "Japanese_Daily_Average": "250.8562672"
+    },
+    {
+      "Dates_time": "19-05-21",
+      "English_Daily_Average": "243.2613587",
+      "Japanese_Daily_Average": "276.0226508"
+    },
+    {
+      "Dates_time": "20-05-21",
+      "English_Daily_Average": "242.306979",
+      "Japanese_Daily_Average": "267.8036524"
+    },
+    {
+      "Dates_time": "21-05-21",
+      "English_Daily_Average": "241.7241537",
+      "Japanese_Daily_Average": "278.1875265"
+    },
+    {
+      "Dates_time": "22-05-21",
+      "English_Daily_Average": "235.3222218",
+      "Japanese_Daily_Average": "278.8683634"
+    },
+    {
+      "Dates_time": "23-05-21",
+      "English_Daily_Average": "228.9339057",
+      "Japanese_Daily_Average": "312.2598694"
+    },
+    {
+      "Dates_time": "24-05-21",
+      "English_Daily_Average": "224.9426435",
+      "Japanese_Daily_Average": "314.4722229"
+    },
+    {
+      "Dates_time": "25-05-21",
+      "English_Daily_Average": "222.5991914",
+      "Japanese_Daily_Average": "287.9207883"
+    },
+    {
+      "Dates_time": "26-05-21",
+      "English_Daily_Average": "223.4781365",
+      "Japanese_Daily_Average": "270.7977262"
+    },
+    {
+      "Dates_time": "27-05-21",
+      "English_Daily_Average": "225.8750617",
+      "Japanese_Daily_Average": "260.3742329"
+    },
+    {
+      "Dates_time": "28-05-21",
+      "English_Daily_Average": "240.3689911",
+      "Japanese_Daily_Average": "261.9889594"
+    },
+    {
+      "Dates_time": "29-05-21",
+      "English_Daily_Average": "240.6531285",
+      "Japanese_Daily_Average": "271.1950393"
+    },
+    {
+      "Dates_time": "30-05-21",
+      "English_Daily_Average": "240.9013141",
+      "Japanese_Daily_Average": "250.2233621"
+    },
+    {
+      "Dates_time": "31-05-21",
+      "English_Daily_Average": "238.8845503",
+      "Japanese_Daily_Average": "256.5497124"
+    },
+    {
+      "Dates_time": "01-06-21",
+      "English_Daily_Average": "229.710043",
+      "Japanese_Daily_Average": "270.0433363"
+    },
+    {
+      "Dates_time": "02-06-21",
+      "English_Daily_Average": "230.666432",
+      "Japanese_Daily_Average": "266.4760566"
+    },
+    {
+      "Dates_time": "03-06-21",
+      "English_Daily_Average": "231.3645315",
+      "Japanese_Daily_Average": "265.5483547"
+    },
+    {
+      "Dates_time": "04-06-21",
+      "English_Daily_Average": "211.0543255",
+      "Japanese_Daily_Average": "266.7377515"
+    },
+    {
+      "Dates_time": "05-06-21",
+      "English_Daily_Average": "201.9885131",
+      "Japanese_Daily_Average": "244.5014383"
+    },
+    {
+      "Dates_time": "06-06-21",
+      "English_Daily_Average": "198.4634221",
+      "Japanese_Daily_Average": "241.4324356"
+    },
+    {
+      "Dates_time": "07-06-21",
+      "English_Daily_Average": "204.8334679",
+      "Japanese_Daily_Average": "237.7988741"
+    },
+    {
+      "Dates_time": "08-06-21",
+      "English_Daily_Average": "210.0627426",
+      "Japanese_Daily_Average": "232.056353"
+    },
+    {
+      "Dates_time": "09-06-21",
+      "English_Daily_Average": "210.6771326",
+      "Japanese_Daily_Average": "240.7763672"
+    },
+    {
+      "Dates_time": "10-06-21",
+      "English_Daily_Average": "204.6121151",
+      "Japanese_Daily_Average": "246.8838712"
+    },
+    {
+      "Dates_time": "11-06-21",
+      "English_Daily_Average": "201.5429895",
+      "Japanese_Daily_Average": "237.7832542"
+    },
+    {
+      "Dates_time": "12-06-21",
+      "English_Daily_Average": "200.2852328",
+      "Japanese_Daily_Average": "240.6647307"
+    },
+    {
+      "Dates_time": "13-06-21",
+      "English_Daily_Average": "199.8597317",
+      "Japanese_Daily_Average": "245.6444724"
+    },
+    {
+      "Dates_time": "14-06-21",
+      "English_Daily_Average": "189.884371",
+      "Japanese_Daily_Average": "249.6170537"
+    },
+    {
+      "Dates_time": "15-06-21",
+      "English_Daily_Average": "183.2094135",
+      "Japanese_Daily_Average": "253.7201321"
+    },
+    {
+      "Dates_time": "16-06-21",
+      "English_Daily_Average": "175.0355949",
+      "Japanese_Daily_Average": "246.8284236"
+    },
+    {
+      "Dates_time": "17-06-21",
+      "English_Daily_Average": "172.6418735",
+      "Japanese_Daily_Average": "246.8065779"
+    },
+    {
+      "Dates_time": "18-06-21",
+      "English_Daily_Average": "171.0669637",
+      "Japanese_Daily_Average": "253.4882465"
+    },
+    {
+      "Dates_time": "19-06-21",
+      "English_Daily_Average": "178.9345094",
+      "Japanese_Daily_Average": "261.179876"
+    },
+    {
+      "Dates_time": "20-06-21",
+      "English_Daily_Average": "180.1345331",
+      "Japanese_Daily_Average": "256.5625789"
+    },
+    {
+      "Dates_time": "21-06-21",
+      "English_Daily_Average": "177.7882115",
+      "Japanese_Daily_Average": "248.8308397"
+    },
+    {
+      "Dates_time": "22-06-21",
+      "English_Daily_Average": "184.0034496",
+      "Japanese_Daily_Average": "251.8659962"
+    },
+    {
+      "Dates_time": "23-06-21",
+      "English_Daily_Average": "195.454091",
+      "Japanese_Daily_Average": "240.3396681"
+    },
+    {
+      "Dates_time": "24-06-21",
+      "English_Daily_Average": "195.6601451",
+      "Japanese_Daily_Average": "231.4366851"
+    },
+    {
+      "Dates_time": "25-06-21",
+      "English_Daily_Average": "195.3269464",
+      "Japanese_Daily_Average": "222.2989592"
+    },
+    {
+      "Dates_time": "26-06-21",
+      "English_Daily_Average": "195.6114581",
+      "Japanese_Daily_Average": "223.189353"
+    },
+    {
+      "Dates_time": "27-06-21",
+      "English_Daily_Average": "203.9244789",
+      "Japanese_Daily_Average": "233.0101602"
+    },
+    {
+      "Dates_time": "28-06-21",
+      "English_Daily_Average": "213.4285325",
+      "Japanese_Daily_Average": "258.4563736"
+    },
+    {
+      "Dates_time": "29-06-21",
+      "English_Daily_Average": "210.9322903",
+      "Japanese_Daily_Average": "255.3719274"
+    },
+    {
+      "Dates_time": "30-06-21",
+      "English_Daily_Average": "204.403561",
+      "Japanese_Daily_Average": "270.3000678"
+    },
+    {
+      "Dates_time": "01-07-21",
+      "English_Daily_Average": "206.8431671",
+      "Japanese_Daily_Average": "286.1373148"
+    },
+    {
+      "Dates_time": "02-07-21",
+      "English_Daily_Average": "210.0509997",
+      "Japanese_Daily_Average": "296.3856016"
+    },
+    {
+      "Dates_time": "03-07-21",
+      "English_Daily_Average": "201.2167175",
+      "Japanese_Daily_Average": "294.5064884"
+    },
+    {
+      "Dates_time": "04-07-21",
+      "English_Daily_Average": "198.6120781",
+      "Japanese_Daily_Average": "301.2548252"
+    },
+    {
+      "Dates_time": "05-07-21",
+      "English_Daily_Average": "200.7371984",
+      "Japanese_Daily_Average": "276.3834668"
+    },
+    {
+      "Dates_time": "06-07-21",
+      "English_Daily_Average": "198.5982811",
+      "Japanese_Daily_Average": "280.0422215"
+    },
+    {
+      "Dates_time": "07-07-21",
+      "English_Daily_Average": "192.8541289",
+      "Japanese_Daily_Average": "275.7189862"
+    },
+    {
+      "Dates_time": "08-07-21",
+      "English_Daily_Average": "190.9835169",
+      "Japanese_Daily_Average": "257.7461266"
+    },
+    {
+      "Dates_time": "09-07-21",
+      "English_Daily_Average": "185.8727402",
+      "Japanese_Daily_Average": "256.4821179"
+    },
+    {
+      "Dates_time": "10-07-21",
+      "English_Daily_Average": "187.3019",
+      "Japanese_Daily_Average": "256.5176174"
+    },
+    {
+      "Dates_time": "11-07-21",
+      "English_Daily_Average": "178.4345068",
+      "Japanese_Daily_Average": "257.18639"
+    },
+    {
+      "Dates_time": "12-07-21",
+      "English_Daily_Average": "171.4409128",
+      "Japanese_Daily_Average": "266.2536584"
+    },
+    {
+      "Dates_time": "13-07-21",
+      "English_Daily_Average": "166.2858279",
+      "Japanese_Daily_Average": "250.1402703"
+    },
+    {
+      "Dates_time": "14-07-21",
+      "English_Daily_Average": "167.5520633",
+      "Japanese_Daily_Average": "250.0036684"
+    },
+    {
+      "Dates_time": "15-07-21",
+      "English_Daily_Average": "168.4189621",
+      "Japanese_Daily_Average": "263.9885122"
+    },
+    {
+      "Dates_time": "16-07-21",
+      "English_Daily_Average": "168.0050683",
+      "Japanese_Daily_Average": "266.098579"
+    },
+    {
+      "Dates_time": "17-07-21",
+      "English_Daily_Average": "162.5706021",
+      "Japanese_Daily_Average": "263.9412871"
+    },
+    {
+      "Dates_time": "18-07-21",
+      "English_Daily_Average": "157.9830718",
+      "Japanese_Daily_Average": "239.7200421"
+    },
+    {
+      "Dates_time": "19-07-21",
+      "English_Daily_Average": "159.6278775",
+      "Japanese_Daily_Average": "223.230492"
+    },
+    {
+      "Dates_time": "20-07-21",
+      "English_Daily_Average": "158.6438603",
+      "Japanese_Daily_Average": "223.9890951"
+    },
+    {
+      "Dates_time": "21-07-21",
+      "English_Daily_Average": "156.7756092",
+      "Japanese_Daily_Average": "220.4782952"
+    },
+    {
+      "Dates_time": "22-07-21",
+      "English_Daily_Average": "155.6076825",
+      "Japanese_Daily_Average": "201.2155741"
+    },
+    {
+      "Dates_time": "23-07-21",
+      "English_Daily_Average": "152.0950718",
+      "Japanese_Daily_Average": "184.5073025"
+    },
+    {
+      "Dates_time": "24-07-21",
+      "English_Daily_Average": "157.6939592",
+      "Japanese_Daily_Average": "186.2868364"
+    },
+    {
+      "Dates_time": "25-07-21",
+      "English_Daily_Average": "160.5038405",
+      "Japanese_Daily_Average": "195.0479998"
+    },
+    {
+      "Dates_time": "26-07-21",
+      "English_Daily_Average": "156.834461",
+      "Japanese_Daily_Average": "198.5120614"
+    },
+    {
+      "Dates_time": "27-07-21",
+      "English_Daily_Average": "173.6826285",
+      "Japanese_Daily_Average": "209.5364868"
+    },
+    {
+      "Dates_time": "28-07-21",
+      "English_Daily_Average": "193.2579706",
+      "Japanese_Daily_Average": "225.3761078"
+    },
+    {
+      "Dates_time": "29-07-21",
+      "English_Daily_Average": "188.8572",
+      "Japanese_Daily_Average": "235.16827"
+    },
+    {
+      "Dates_time": "30-07-21",
+      "English_Daily_Average": "189.574908",
+      "Japanese_Daily_Average": "248.7067081"
+    },
+    {
+      "Dates_time": "31-07-21",
+      "English_Daily_Average": "185.7089658",
+      "Japanese_Daily_Average": "246.4898007"
+    },
+    {
+      "Dates_time": "01-08-21",
+      "English_Daily_Average": "184.9169529",
+      "Japanese_Daily_Average": "249.0879936"
+    },
+    {
+      "Dates_time": "02-08-21",
+      "English_Daily_Average": "182.2902357",
+      "Japanese_Daily_Average": "262.8457236"
+    },
+    {
+      "Dates_time": "03-08-21",
+      "English_Daily_Average": "164.6740937",
+      "Japanese_Daily_Average": "264.917538"
+    },
+    {
+      "Dates_time": "04-08-21",
+      "English_Daily_Average": "144.7020447",
+      "Japanese_Daily_Average": "263.323961"
+    },
+    {
+      "Dates_time": "05-08-21",
+      "English_Daily_Average": "149.1001254",
+      "Japanese_Daily_Average": "255.1150675"
+    },
+    {
+      "Dates_time": "06-08-21",
+      "English_Daily_Average": "152.1387799",
+      "Japanese_Daily_Average": "247.2392554"
+    },
+    {
+      "Dates_time": "07-08-21",
+      "English_Daily_Average": "154.2945714",
+      "Japanese_Daily_Average": "247.3184023"
+    },
+    {
+      "Dates_time": "08-08-21",
+      "English_Daily_Average": "154.4573924",
+      "Japanese_Daily_Average": "253.2737505"
+    },
+    {
+      "Dates_time": "09-08-21",
+      "English_Daily_Average": "152.9453648",
+      "Japanese_Daily_Average": "241.4979428"
+    },
+    {
+      "Dates_time": "10-08-21",
+      "English_Daily_Average": "155.6982423",
+      "Japanese_Daily_Average": "231.0022651"
+    },
+    {
+      "Dates_time": "11-08-21",
+      "English_Daily_Average": "155.3289641",
+      "Japanese_Daily_Average": "221.4047565"
+    },
+    {
+      "Dates_time": "12-08-21",
+      "English_Daily_Average": "158.6342921",
+      "Japanese_Daily_Average": "222.3618242"
+    },
+    {
+      "Dates_time": "13-08-21",
+      "English_Daily_Average": "156.6671085",
+      "Japanese_Daily_Average": "224.3731393"
+    },
+    {
+      "Dates_time": "14-08-21",
+      "English_Daily_Average": "154.9494883",
+      "Japanese_Daily_Average": "219.4892081"
+    },
+    {
+      "Dates_time": "15-08-21",
+      "English_Daily_Average": "154.4556997",
+      "Japanese_Daily_Average": "208.7213086"
+    },
+    {
+      "Dates_time": "16-08-21",
+      "English_Daily_Average": "156.5133809",
+      "Japanese_Daily_Average": "211.3696588"
+    },
+    {
+      "Dates_time": "17-08-21",
+      "English_Daily_Average": "154.4517209",
+      "Japanese_Daily_Average": "222.3794845"
+    },
+    {
+      "Dates_time": "18-08-21",
+      "English_Daily_Average": "157.3224972",
+      "Japanese_Daily_Average": "234.1559712"
+    },
+    {
+      "Dates_time": "19-08-21",
+      "English_Daily_Average": "154.2858055",
+      "Japanese_Daily_Average": "231.3376488"
+    },
+    {
+      "Dates_time": "20-08-21",
+      "English_Daily_Average": "152.5876042",
+      "Japanese_Daily_Average": "239.2092142"
+    },
+    {
+      "Dates_time": "21-08-21",
+      "English_Daily_Average": "151.5331154",
+      "Japanese_Daily_Average": "243.1214233"
+    },
+    {
+      "Dates_time": "22-08-21",
+      "English_Daily_Average": "151.0871244",
+      "Japanese_Daily_Average": "231.3551661"
+    },
+    {
+      "Dates_time": "23-08-21",
+      "English_Daily_Average": "149.0618963",
+      "Japanese_Daily_Average": "236.6263002"
+    },
+    {
+      "Dates_time": "24-08-21",
+      "English_Daily_Average": "150.4125075",
+      "Japanese_Daily_Average": "225.6698436"
+    },
+    {
+      "Dates_time": "25-08-21",
+      "English_Daily_Average": "144.8504397",
+      "Japanese_Daily_Average": "212.4447157"
+    },
+    {
+      "Dates_time": "26-08-21",
+      "English_Daily_Average": "141.4494376",
+      "Japanese_Daily_Average": "228.8093977"
+    },
+    {
+      "Dates_time": "27-08-21",
+      "English_Daily_Average": "139.4754492",
+      "Japanese_Daily_Average": "211.8673013"
+    },
+    {
+      "Dates_time": "28-08-21",
+      "English_Daily_Average": "135.7019921",
+      "Japanese_Daily_Average": "212.3484741"
+    },
+    {
+      "Dates_time": "29-08-21",
+      "English_Daily_Average": "130.8324617",
+      "Japanese_Daily_Average": "216.7352066"
+    },
+    {
+      "Dates_time": "30-08-21",
+      "English_Daily_Average": "127.3272858",
+      "Japanese_Daily_Average": "198.2711899"
+    },
+    {
+      "Dates_time": "31-08-21",
+      "English_Daily_Average": "119.8988085",
+      "Japanese_Daily_Average": "196.1264265"
+    },
+    {
+      "Dates_time": "01-09-21",
+      "English_Daily_Average": "118.5238311",
+      "Japanese_Daily_Average": "185.3142733"
+    },
+    {
+      "Dates_time": "02-09-21",
+      "English_Daily_Average": "113.3448788",
+      "Japanese_Daily_Average": "168.1771605"
+    },
+    {
+      "Dates_time": "03-09-21",
+      "English_Daily_Average": "114.5773057",
+      "Japanese_Daily_Average": "167.9273218"
+    },
+    {
+      "Dates_time": "04-09-21",
+      "English_Daily_Average": "114.60851",
+      "Japanese_Daily_Average": "168.966404"
+    },
+    {
+      "Dates_time": "05-09-21",
+      "English_Daily_Average": "115.3049359",
+      "Japanese_Daily_Average": "160.7350616"
+    },
+    {
+      "Dates_time": "06-09-21",
+      "English_Daily_Average": "113.3409289",
+      "Japanese_Daily_Average": "167.2915808"
+    },
+    {
+      "Dates_time": "07-09-21",
+      "English_Daily_Average": "114.5227809",
+      "Japanese_Daily_Average": "167.0993505"
+    },
+    {
+      "Dates_time": "08-09-21",
+      "English_Daily_Average": "114.8975819",
+      "Japanese_Daily_Average": "172.9577756"
+    },
+    {
+      "Dates_time": "09-09-21",
+      "English_Daily_Average": "112.9061765",
+      "Japanese_Daily_Average": "171.2907231"
+    },
+    {
+      "Dates_time": "10-09-21",
+      "English_Daily_Average": "110.6153887",
+      "Japanese_Daily_Average": "168.4991531"
+    },
+    {
+      "Dates_time": "11-09-21",
+      "English_Daily_Average": "112.2178158",
+      "Japanese_Daily_Average": "152.6032467"
+    },
+    {
+      "Dates_time": "12-09-21",
+      "English_Daily_Average": "112.8654221",
+      "Japanese_Daily_Average": "156.0807741"
+    },
+    {
+      "Dates_time": "13-09-21",
+      "English_Daily_Average": "116.8526164",
+      "Japanese_Daily_Average": "157.4279566"
+    },
+    {
+      "Dates_time": "14-09-21",
+      "English_Daily_Average": "119.9908335",
+      "Japanese_Daily_Average": "152.4630802"
+    },
+    {
+      "Dates_time": "15-09-21",
+      "English_Daily_Average": "121.4880368",
+      "Japanese_Daily_Average": "142.8989374"
+    },
+    {
+      "Dates_time": "16-09-21",
+      "English_Daily_Average": "123.4784601",
+      "Japanese_Daily_Average": "144.3848178"
+    },
+    {
+      "Dates_time": "17-09-21",
+      "English_Daily_Average": "126.0540456",
+      "Japanese_Daily_Average": "146.7112541"
+    },
+    {
+      "Dates_time": "18-09-21",
+      "English_Daily_Average": "127.1673776",
+      "Japanese_Daily_Average": "158.9518748"
+    },
+    {
+      "Dates_time": "19-09-21",
+      "English_Daily_Average": "128.9304885",
+      "Japanese_Daily_Average": "162.863644"
+    },
+    {
+      "Dates_time": "20-09-21",
+      "English_Daily_Average": "134.4842331",
+      "Japanese_Daily_Average": "176.6600851"
+    },
+    {
+      "Dates_time": "21-09-21",
+      "English_Daily_Average": "136.9243256",
+      "Japanese_Daily_Average": "183.0946062"
+    },
+    {
+      "Dates_time": "22-09-21",
+      "English_Daily_Average": "137.5183622",
+      "Japanese_Daily_Average": "187.9403562"
+    },
+    {
+      "Dates_time": "23-09-21",
+      "English_Daily_Average": "144.1108854",
+      "Japanese_Daily_Average": "195.9943281"
+    },
+    {
+      "Dates_time": "24-09-21",
+      "English_Daily_Average": "140.9958673",
+      "Japanese_Daily_Average": "197.6137065"
+    },
+    {
+      "Dates_time": "25-09-21",
+      "English_Daily_Average": "139.7367948",
+      "Japanese_Daily_Average": "196.246312"
+    },
+    {
+      "Dates_time": "26-09-21",
+      "English_Daily_Average": "134.3165113",
+      "Japanese_Daily_Average": "205.011673"
+    },
+    {
+      "Dates_time": "27-09-21",
+      "English_Daily_Average": "129.3745435",
+      "Japanese_Daily_Average": "192.6934492"
+    },
+    {
+      "Dates_time": "28-09-21",
+      "English_Daily_Average": "130.4908184",
+      "Japanese_Daily_Average": "191.3102998"
+    },
+    {
+      "Dates_time": "29-09-21",
+      "English_Daily_Average": "135.6716096",
+      "Japanese_Daily_Average": "218.661095"
+    },
+    {
+      "Dates_time": "30-09-21",
+      "English_Daily_Average": "135.5260333",
+      "Japanese_Daily_Average": "215.1915768"
+    },
+    {
+      "Dates_time": "01-10-21",
+      "English_Daily_Average": "137.7388612",
+      "Japanese_Daily_Average": "225.9568648"
+    },
+    {
+      "Dates_time": "02-10-21",
+      "English_Daily_Average": "137.9184364",
+      "Japanese_Daily_Average": "242.5995929"
+    },
+    {
+      "Dates_time": "03-10-21",
+      "English_Daily_Average": "144.0169866",
+      "Japanese_Daily_Average": "227.4032407"
+    },
+    {
+      "Dates_time": "04-10-21",
+      "English_Daily_Average": "149.5197276",
+      "Japanese_Daily_Average": "224.5546298"
+    },
+    {
+      "Dates_time": "05-10-21",
+      "English_Daily_Average": "150.8884451",
+      "Japanese_Daily_Average": "248.454404"
+    },
+    {
+      "Dates_time": "06-10-21",
+      "English_Daily_Average": "146.8633769",
+      "Japanese_Daily_Average": "238.4014481"
+    },
+    {
+      "Dates_time": "07-10-21",
+      "English_Daily_Average": "145.5060536",
+      "Japanese_Daily_Average": "227.847215"
+    },
+    {
+      "Dates_time": "08-10-21",
+      "English_Daily_Average": "146.4687442",
+      "Japanese_Daily_Average": "231.7438149"
+    },
+    {
+      "Dates_time": "09-10-21",
+      "English_Daily_Average": "146.8328856",
+      "Japanese_Daily_Average": "223.7812701"
+    },
+    {
+      "Dates_time": "10-10-21",
+      "English_Daily_Average": "144.1637495",
+      "Japanese_Daily_Average": "230.1903043"
+    },
+    {
+      "Dates_time": "11-10-21",
+      "English_Daily_Average": "135.9619414",
+      "Japanese_Daily_Average": "227.3576435"
+    },
+    {
+      "Dates_time": "12-10-21",
+      "English_Daily_Average": "132.2536633",
+      "Japanese_Daily_Average": "198.450039"
+    },
+    {
+      "Dates_time": "13-10-21",
+      "English_Daily_Average": "132.663121",
+      "Japanese_Daily_Average": "175.6013367"
+    },
+    {
+      "Dates_time": "14-10-21",
+      "English_Daily_Average": "129.6373449",
+      "Japanese_Daily_Average": "178.5529863"
+    },
+    {
+      "Dates_time": "15-10-21",
+      "English_Daily_Average": "125.9002568",
+      "Japanese_Daily_Average": "184.572919"
+    },
+    {
+      "Dates_time": "16-10-21",
+      "English_Daily_Average": "126.4251868",
+      "Japanese_Daily_Average": "163.3620921"
+    },
+    {
+      "Dates_time": "17-10-21",
+      "English_Daily_Average": "126.7248383",
+      "Japanese_Daily_Average": "158.9819871"
+    },
+    {
+      "Dates_time": "18-10-21",
+      "English_Daily_Average": "133.1466313",
+      "Japanese_Daily_Average": "175.3514907"
+    },
+    {
+      "Dates_time": "19-10-21",
+      "English_Daily_Average": "135.7164542",
+      "Japanese_Daily_Average": "185.1132254"
+    },
+    {
+      "Dates_time": "20-10-21",
+      "English_Daily_Average": "140.9481651",
+      "Japanese_Daily_Average": "202.3423189"
+    },
+    {
+      "Dates_time": "21-10-21",
+      "English_Daily_Average": "138.7019938",
+      "Japanese_Daily_Average": "214.9439055"
+    },
+    {
+      "Dates_time": "22-10-21",
+      "English_Daily_Average": "141.8930423",
+      "Japanese_Daily_Average": "195.8691911"
+    },
+    {
+      "Dates_time": "23-10-21",
+      "English_Daily_Average": "141.7364212",
+      "Japanese_Daily_Average": "224.174631"
+    },
+    {
+      "Dates_time": "24-10-21",
+      "English_Daily_Average": "141.1307023",
+      "Japanese_Daily_Average": "230.8694465"
+    },
+    {
+      "Dates_time": "25-10-21",
+      "English_Daily_Average": "132.0040068",
+      "Japanese_Daily_Average": "214.1965703"
+    },
+    {
+      "Dates_time": "26-10-21",
+      "English_Daily_Average": "124.4456701",
+      "Japanese_Daily_Average": "204.6751405"
+    },
+    {
+      "Dates_time": "27-10-21",
+      "English_Daily_Average": "116.7554516",
+      "Japanese_Daily_Average": "186.4798777"
+    },
+    {
+      "Dates_time": "28-10-21",
+      "English_Daily_Average": "117.3110041",
+      "Japanese_Daily_Average": "171.6685649"
+    },
+    {
+      "Dates_time": "29-10-21",
+      "English_Daily_Average": "119.0648443",
+      "Japanese_Daily_Average": "170.2719086"
+    },
+    {
+      "Dates_time": "30-10-21",
+      "English_Daily_Average": "116.6585245",
+      "Japanese_Daily_Average": "150.8255558"
+    },
+    {
+      "Dates_time": "31-10-21",
+      "English_Daily_Average": "119.7939437",
+      "Japanese_Daily_Average": "156.0494003"
+    },
+    {
+      "Dates_time": "01-11-21",
+      "English_Daily_Average": "122.3739962",
+      "Japanese_Daily_Average": "157.066506"
+    },
+    {
+      "Dates_time": "02-11-21",
+      "English_Daily_Average": "124.1349499",
+      "Japanese_Daily_Average": "160.174758"
+    },
+    {
+      "Dates_time": "03-11-21",
+      "English_Daily_Average": "121.6866652",
+      "Japanese_Daily_Average": "168.6607676"
+    },
+    {
+      "Dates_time": "04-11-21",
+      "English_Daily_Average": "122.3283073",
+      "Japanese_Daily_Average": "171.2875934"
+    },
+    {
+      "Dates_time": "05-11-21",
+      "English_Daily_Average": "120.7923519",
+      "Japanese_Daily_Average": "169.4537201"
+    },
+    {
+      "Dates_time": "06-11-21",
+      "English_Daily_Average": "120.9427262",
+      "Japanese_Daily_Average": "166.8218833"
+    },
+    {
+      "Dates_time": "07-11-21",
+      "English_Daily_Average": "119.9111614",
+      "Japanese_Daily_Average": "151.6486596"
+    },
+    {
+      "Dates_time": "08-11-21",
+      "English_Daily_Average": "127.0354156",
+      "Japanese_Daily_Average": "148.6391052"
+    },
+    {
+      "Dates_time": "09-11-21",
+      "English_Daily_Average": "124.08052",
+      "Japanese_Daily_Average": "144.7696036"
+    },
+    {
+      "Dates_time": "10-11-21",
+      "English_Daily_Average": "124.8824684",
+      "Japanese_Daily_Average": "134.8248824"
+    },
+    {
+      "Dates_time": "11-11-21",
+      "English_Daily_Average": "124.4129967",
+      "Japanese_Daily_Average": "137.3546023"
+    },
+    {
+      "Dates_time": "12-11-21",
+      "English_Daily_Average": "123.1495903",
+      "Japanese_Daily_Average": "137.5381915"
+    },
+    {
+      "Dates_time": "13-11-21",
+      "English_Daily_Average": "122.6706198",
+      "Japanese_Daily_Average": "147.5642383"
+    },
+    {
+      "Dates_time": "14-11-21",
+      "English_Daily_Average": "122.4276848",
+      "Japanese_Daily_Average": "147.5786492"
+    },
+    {
+      "Dates_time": "15-11-21",
+      "English_Daily_Average": "118.2067602",
+      "Japanese_Daily_Average": "147.898693"
+    },
+    {
+      "Dates_time": "16-11-21",
+      "English_Daily_Average": "121.1161202",
+      "Japanese_Daily_Average": "147.8389089"
+    },
+    {
+      "Dates_time": "17-11-21",
+      "English_Daily_Average": "122.0613323",
+      "Japanese_Daily_Average": "161.6989193"
+    },
+    {
+      "Dates_time": "18-11-21",
+      "English_Daily_Average": "121.5210605",
+      "Japanese_Daily_Average": "164.3879503"
+    },
+    {
+      "Dates_time": "19-11-21",
+      "English_Daily_Average": "120.1833531",
+      "Japanese_Daily_Average": "172.6638532"
+    },
+    {
+      "Dates_time": "20-11-21",
+      "English_Daily_Average": "121.0827882",
+      "Japanese_Daily_Average": "174.173699"
+    },
+    {
+      "Dates_time": "21-11-21",
+      "English_Daily_Average": "117.712574",
+      "Japanese_Daily_Average": "178.6028881"
+    },
+    {
+      "Dates_time": "22-11-21",
+      "English_Daily_Average": "115.1245914",
+      "Japanese_Daily_Average": "176.323031"
+    },
+    {
+      "Dates_time": "23-11-21",
+      "English_Daily_Average": "112.5957888",
+      "Japanese_Daily_Average": "180.5242746"
+    },
+    {
+      "Dates_time": "24-11-21",
+      "English_Daily_Average": "110.2194228",
+      "Japanese_Daily_Average": "173.2514616"
+    },
+    {
+      "Dates_time": "25-11-21",
+      "English_Daily_Average": "106.3242983",
+      "Japanese_Daily_Average": "171.5139639"
+    },
+    {
+      "Dates_time": "26-11-21",
+      "English_Daily_Average": "109.0865033",
+      "Japanese_Daily_Average": "169.0638973"
+    },
+    {
+      "Dates_time": "27-11-21",
+      "English_Daily_Average": "107.0201685",
+      "Japanese_Daily_Average": "159.5609636"
+    },
+    {
+      "Dates_time": "28-11-21",
+      "English_Daily_Average": "107.369124",
+      "Japanese_Daily_Average": "164.9921048"
+    },
+    {
+      "Dates_time": "29-11-21",
+      "English_Daily_Average": "102.8126941",
+      "Japanese_Daily_Average": "165.936721"
+    },
+    {
+      "Dates_time": "30-11-21",
+      "English_Daily_Average": "101.2508315",
+      "Japanese_Daily_Average": "161.5947062"
+    },
+    {
+      "Dates_time": "01-12-21",
+      "English_Daily_Average": "98.3637367",
+      "Japanese_Daily_Average": "157.0228273"
+    },
+    {
+      "Dates_time": "02-12-21",
+      "English_Daily_Average": "102.9686235",
+      "Japanese_Daily_Average": "155.405474"
+    },
+    {
+      "Dates_time": "03-12-21",
+      "English_Daily_Average": "106.8378163",
+      "Japanese_Daily_Average": "157.0364388"
+    },
+    {
+      "Dates_time": "04-12-21",
+      "English_Daily_Average": "107.1195605",
+      "Japanese_Daily_Average": "154.3681316"
+    },
+    {
+      "Dates_time": "05-12-21",
+      "English_Daily_Average": "106.6106521",
+      "Japanese_Daily_Average": "145.4363658"
+    },
+    {
+      "Dates_time": "06-12-21",
+      "English_Daily_Average": "110.9145826",
+      "Japanese_Daily_Average": "143.1812581"
+    },
+    {
+      "Dates_time": "07-12-21",
+      "English_Daily_Average": "110.0615028",
+      "Japanese_Daily_Average": "139.4548572"
+    },
+    {
+      "Dates_time": "08-12-21",
+      "English_Daily_Average": "110.5853269",
+      "Japanese_Daily_Average": "150.738097"
+    },
+    {
+      "Dates_time": "09-12-21",
+      "English_Daily_Average": "107.9826307",
+      "Japanese_Daily_Average": "155.4965285"
+    },
+    {
+      "Dates_time": "10-12-21",
+      "English_Daily_Average": "99.64013956",
+      "Japanese_Daily_Average": "147.4516966"
+    },
+    {
+      "Dates_time": "11-12-21",
+      "English_Daily_Average": "99.59472184",
+      "Japanese_Daily_Average": "143.4089775"
+    },
+    {
+      "Dates_time": "12-12-21",
+      "English_Daily_Average": "98.22843108",
+      "Japanese_Daily_Average": "149.7167015"
+    },
+    {
+      "Dates_time": "13-12-21",
+      "English_Daily_Average": "93.26732678",
+      "Japanese_Daily_Average": "151.2901261"
+    },
+    {
+      "Dates_time": "14-12-21",
+      "English_Daily_Average": "93.07902742",
+      "Japanese_Daily_Average": "152.7090312"
+    },
+    {
+      "Dates_time": "15-12-21",
+      "English_Daily_Average": "91.59108163",
+      "Japanese_Daily_Average": "139.8645189"
+    },
+    {
+      "Dates_time": "16-12-21",
+      "English_Daily_Average": "90.80933524",
+      "Japanese_Daily_Average": "133.7207945"
+    },
+    {
+      "Dates_time": "17-12-21",
+      "English_Daily_Average": "90.20102436",
+      "Japanese_Daily_Average": "137.586187"
+    },
+    {
+      "Dates_time": "18-12-21",
+      "English_Daily_Average": "87.5605195",
+      "Japanese_Daily_Average": "140.2074695"
+    },
+    {
+      "Dates_time": "19-12-21",
+      "English_Daily_Average": "87.56131025",
+      "Japanese_Daily_Average": "137.1597115"
+    },
+    {
+      "Dates_time": "20-12-21",
+      "English_Daily_Average": "88.28256587",
+      "Japanese_Daily_Average": "136.2157173"
+    },
+    {
+      "Dates_time": "21-12-21",
+      "English_Daily_Average": "87.04672666",
+      "Japanese_Daily_Average": "137.2339724"
+    },
+    {
+      "Dates_time": "22-12-21",
+      "English_Daily_Average": "86.70205812",
+      "Japanese_Daily_Average": "134.5204156"
+    },
+    {
+      "Dates_time": "23-12-21",
+      "English_Daily_Average": "86.58704925",
+      "Japanese_Daily_Average": "128.0608863"
+    },
+    {
+      "Dates_time": "24-12-21",
+      "English_Daily_Average": "87.8832114",
+      "Japanese_Daily_Average": "125.6099156"
+    },
+    {
+      "Dates_time": "25-12-21",
+      "English_Daily_Average": "88.69010928",
+      "Japanese_Daily_Average": "135.6424383"
+    },
+    {
+      "Dates_time": "26-12-21",
+      "English_Daily_Average": "88.35409164",
+      "Japanese_Daily_Average": "149.3494765"
+    },
+    {
+      "Dates_time": "27-12-21",
+      "English_Daily_Average": "91.87384795",
+      "Japanese_Daily_Average": "152.0970884"
+    },
+    {
+      "Dates_time": "28-12-21",
+      "English_Daily_Average": "93.1594107",
+      "Japanese_Daily_Average": "150.9414081"
+    },
+    {
+      "Dates_time": "29-12-21",
+      "English_Daily_Average": "94.94240052",
+      "Japanese_Daily_Average": "157.2411272"
+    },
+    {
+      "Dates_time": "30-12-21",
+      "English_Daily_Average": "96.21430776",
+      "Japanese_Daily_Average": "158.861645"
+    },
+    {
+      "Dates_time": "31-12-21",
+      "English_Daily_Average": "95.25493003",
+      "Japanese_Daily_Average": "157.1524757"
+    },
+    {
+      "Dates_time": "01-01-22",
+      "English_Daily_Average": "96.36743426",
+      "Japanese_Daily_Average": "145.4179226"
+    },
+    {
+      "Dates_time": "02-01-22",
+      "English_Daily_Average": "99.50196229",
+      "Japanese_Daily_Average": "126.0659911"
+    },
+    {
+      "Dates_time": "03-01-22",
+      "English_Daily_Average": "95.42251309",
+      "Japanese_Daily_Average": "120.6667893"
+    },
+    {
+      "Dates_time": "04-01-22",
+      "English_Daily_Average": "94.26140663",
+      "Japanese_Daily_Average": "123.5532104"
+    },
+    {
+      "Dates_time": "05-01-22",
+      "English_Daily_Average": "94.70053817",
+      "Japanese_Daily_Average": "121.9167557"
+    },
+    {
+      "Dates_time": "06-01-22",
+      "English_Daily_Average": "94.90603466",
+      "Japanese_Daily_Average": "125.5492901"
+    },
+    {
+      "Dates_time": "07-01-22",
+      "English_Daily_Average": "96.58963402",
+      "Japanese_Daily_Average": "126.03245"
+    },
+    {
+      "Dates_time": "08-01-22",
+      "English_Daily_Average": "97.07742784",
+      "Japanese_Daily_Average": "130.5571125"
+    },
+    {
+      "Dates_time": "09-01-22",
+      "English_Daily_Average": "93.4238686",
+      "Japanese_Daily_Average": "137.2505625"
+    },
+    {
+      "Dates_time": "10-01-22",
+      "English_Daily_Average": "97.26503205",
+      "Japanese_Daily_Average": "138.8678062"
+    },
+    {
+      "Dates_time": "11-01-22",
+      "English_Daily_Average": "100.8155703",
+      "Japanese_Daily_Average": "136.8842263"
+    },
+    {
+      "Dates_time": "12-01-22",
+      "English_Daily_Average": "101.328379",
+      "Japanese_Daily_Average": "134.2550854"
+    },
+    {
+      "Dates_time": "13-01-22",
+      "English_Daily_Average": "101.6739509",
+      "Japanese_Daily_Average": "130.9099175"
+    },
+    {
+      "Dates_time": "14-01-22",
+      "English_Daily_Average": "102.5849582",
+      "Japanese_Daily_Average": "132.7626328"
+    },
+    {
+      "Dates_time": "15-01-22",
+      "English_Daily_Average": "103.9739501",
+      "Japanese_Daily_Average": "142.0823685"
+    },
+    {
+      "Dates_time": "16-01-22",
+      "English_Daily_Average": "107.6570473",
+      "Japanese_Daily_Average": "144.9169587"
+    },
+    {
+      "Dates_time": "17-01-22",
+      "English_Daily_Average": "106.2486368",
+      "Japanese_Daily_Average": "153.4648004"
+    },
+    {
+      "Dates_time": "18-01-22",
+      "English_Daily_Average": "103.3655662",
+      "Japanese_Daily_Average": "163.273882"
+    },
+    {
+      "Dates_time": "19-01-22",
+      "English_Daily_Average": "101.4375214",
+      "Japanese_Daily_Average": "170.208435"
+    },
+    {
+      "Dates_time": "20-01-22",
+      "English_Daily_Average": "99.05904637",
+      "Japanese_Daily_Average": "169.3675227"
+    },
+    {
+      "Dates_time": "21-01-22",
+      "English_Daily_Average": "94.98125082",
+      "Japanese_Daily_Average": "168.1628345"
+    },
+    {
+      "Dates_time": "22-01-22",
+      "English_Daily_Average": "94.98354063",
+      "Japanese_Daily_Average": "155.3033374"
+    },
+    {
+      "Dates_time": "23-01-22",
+      "English_Daily_Average": "93.6404196",
+      "Japanese_Daily_Average": "151.9190461"
+    },
+    {
+      "Dates_time": "24-01-22",
+      "English_Daily_Average": "92.67896441",
+      "Japanese_Daily_Average": "158.5323605"
+    },
+    {
+      "Dates_time": "25-01-22",
+      "English_Daily_Average": "94.92547989",
+      "Japanese_Daily_Average": "147.6900858"
+    },
+    {
+      "Dates_time": "26-01-22",
+      "English_Daily_Average": "96.03093203",
+      "Japanese_Daily_Average": "139.477242"
+    },
+    {
+      "Dates_time": "27-01-22",
+      "English_Daily_Average": "95.49491688",
+      "Japanese_Daily_Average": "145.2650481"
+    },
+    {
+      "Dates_time": "28-01-22",
+      "English_Daily_Average": "95.62263959",
+      "Japanese_Daily_Average": "141.1060297"
+    },
+    {
+      "Dates_time": "29-01-22",
+      "English_Daily_Average": "91.508733",
+      "Japanese_Daily_Average": "138.8315835"
+    },
+    {
+      "Dates_time": "30-01-22",
+      "English_Daily_Average": "90.44240385",
+      "Japanese_Daily_Average": "136.6512558"
+    }
+   ]

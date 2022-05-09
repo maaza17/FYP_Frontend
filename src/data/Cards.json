@@ -1,0 +1,48 @@
+[
+    {
+        "Pokemon": [
+            {
+                "Card_Name": "Ampharos",
+                "Card_Number": "1",
+                "Original_Set": "Pokemon Neo Genesis",
+                "Variants": [
+                    {
+                        "Match_ID": "2356",
+                        "Sub_Category": "Unlimited Holo",
+                        "Image_URL": "https://pokemonprice.com/content/images/cards/neo-genesis/ampharos-neo-genesis-n1-1.jpg"
+                    },
+                    {
+                        "Match_ID": "2467",
+                        "Sub_Category": "1st Edition Holo",
+                        "Image_URL": "https://pokemonprice.com/content/images/cards/neo-genesis/ampharos-neo-genesis-n1-1.jpg"
+                    }
+                ],
+                "Year": "2000",
+                "Language": "English",
+                "AUTH": "0",
+                "Featured": true
+            },
+            {
+                "Card_Name": "Ampharos",
+                "Card_Number": "1",
+                "Original_Set": "Pokemon EX Unseen Forces",
+                "Variants": [
+                    {
+                        "Match_ID": "8750",
+                        "Sub_Category": "Holo",
+                        "Image_URL": "https://pokemonprice.com/content/images/cards/ex-unseen-forces/ampharos-unseen-forces-uf-1.jpg"
+                    },
+                    {
+                        "Match_ID": "8751",
+                        "Sub_Category": "Reverse Foil",
+                        "Image_URL": "https://pokemonprice.com/content/images/cards/ex-unseen-forces/ampharos-unseen-forces-uf-1.jpg"
+                    }
+                ],
+                "Year": "2005",
+                "Language": "English",
+                "AUTH": "0",
+                "Featured": false
+            }
+        ]
+    }
+]

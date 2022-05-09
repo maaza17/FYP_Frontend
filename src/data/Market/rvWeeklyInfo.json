@@ -1,0 +1,30 @@
+[
+    {
+        "weekStart": "09/11/2021",
+        "salesVolume": 23411,
+        "svPercentageChange": 0.35,
+        "salesRevenue": "1.32M",
+        "srPercentageChange": -14.56
+    },
+    {
+        "weekStart": "09/04/2021",
+        "salesVolume": 20320,
+        "svPercentageChange": -0.67,
+        "salesRevenue": "1.02M",
+        "srPercentageChange": -14.56
+    },
+    {
+        "weekStart": "08/28/2021",
+        "salesVolume": 21500,
+        "svPercentageChange": 0.44,
+        "salesRevenue": "1.01M",
+        "srPercentageChange": 14.56
+    },
+    {
+        "weekStart": "08/21/2021",
+        "salesVolume": 24500,
+        "svPercentageChange": 0.44,
+        "salesRevenue": "957K",
+        "srPercentageChange": 14.56
+    }
+]

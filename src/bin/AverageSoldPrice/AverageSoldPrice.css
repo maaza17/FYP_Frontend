@@ -1,0 +1,165 @@
+.average__sold__price {
+  padding: 0px 10px 0px 10px;
+}
+
+.asp__box {
+  background-color: rgb(15, 15, 15);
+  padding: 10px;
+  border-radius: 15px;
+  height: 620px;
+  margin: 20px 0px;
+}
+
+.asp__heading__area {
+  height: 15%;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgba(70, 69, 69, 0.933);
+}
+
+.asp__heading {
+  color: #fff;
+  display: flex;
+  width: 30%;
+  height: 60px;
+  align-items: center;
+  padding-left: 10px;
+  align-items: center;
+  border-right: 4px solid rgb(22, 125, 241);
+}
+
+.asp__description {
+  text-align: right;
+  width: 45%;
+  color: #fff;
+}
+
+.asp__dropdown {
+  width: 25%;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.asp__table__box {
+  background-color: rgb(15, 15, 15);
+  padding: 10px;
+  border-radius: 15px;
+  height: 400px;
+  margin: 20px 0px;
+  display: flex;
+}
+
+.asp__daily__info,
+.asp__weekly__info {
+  width: 33.3%;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  position: relative;
+  padding: 5px;
+  align-items: center;
+  border-right: 0.1px solid rgba(240, 238, 238, 0.432);
+}
+.asp__monthly__info {
+  width: 33.3%;
+  justify-content: center;
+  position: relative;
+  text-align: center;
+  color: white;
+  padding: 5px;
+  align-items: center;
+}
+
+.asp__daily__info__heading,
+.asp__weekly__info__heading,
+.asp__monthly__info__heading {
+  height: 30px;
+  border-bottom: 0.1px solid rgba(240, 238, 238, 0.432);
+}
+.asp__daily__info__heading h4,
+.asp__weekly__info__heading h4,
+.asp__monthly__info__heading h4 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.asp__daily__info__header,
+.asp__weekly__info__header,
+.asp__monthly__info__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 0.1px solid rgba(240, 238, 238, 0.432);
+}
+
+.asp__dih__date,
+.asp__dih__ap,
+.asp__dih__pc,
+.asp__wih__w,
+.asp__wih__ap,
+.asp__wih__pc,
+.asp__mih__m,
+.asp__mih__ap,
+.asp__mih__pc {
+  padding: 10px 10px;
+  width: 100%;
+}
+
+.asp__data {
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+}
+
+.asp__data__row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  text-align: center;
+  height: 55px;
+  justify-content: center;
+  border-bottom: 1px dashed rgba(240, 238, 238, 0.432);
+}
+
+.asp__data__date,
+.asp__data__week,
+.asp__data__month {
+  color: #ffd966;
+  width: 100%;
+  padding: 7px 10px;
+}
+.asp__data__ap {
+  width: 100%;
+  padding: 7px 10px;
+}
+.asp__data__pc {
+  width: 100%;
+  padding: 7px 10px;
+}
+
+.asp__data__value {
+  color: #92d050;
+  width: 100%;
+  padding: 7px 10px;
+}
+.asp__data__value__n {
+  color: #c00000;
+  width: 100%;
+  padding: 7px 10px;
+}
+
+.asp__fl {
+  display: flex;
+  position: absolute;
+  justify-content: end;
+  align-self: flex-end;
+  bottom: 0;
+  right: 0;
+  margin: 20px !important;
+  cursor: pointer;
+}

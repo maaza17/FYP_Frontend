@@ -1,0 +1,44 @@
+[
+    {
+        "characterName": "Pikachu",
+        "salesVolume": 11111111,
+        "rank": 1,
+        "thirtyDaysPercentage": 14.56
+    },
+    {
+        "characterName": "Squirtle",
+        "salesVolume": 351111,
+        "rank": 2,
+        "thirtyDaysPercentage": 12.56
+    },
+    {
+        "characterName": "Squirtle",
+        "salesVolume": 351,
+        "rank": 3,
+        "thirtyDaysPercentage": 9.56
+    },
+    {
+        "characterName": "Squirtle",
+        "salesVolume": 351,
+        "rank": 4,
+        "thirtyDaysPercentage": 5.56
+    },
+    {
+        "characterName": "Squirtle",
+        "salesVolume": 351,
+        "rank": 5,
+        "thirtyDaysPercentage": 4.56
+    },
+    {
+        "characterName": "Squirtle",
+        "salesVolume": 351,
+        "rank": 6,
+        "thirtyDaysPercentage": 4.32
+    },
+    {
+        "characterName": "Squirtle",
+        "salesVolume": 351,
+        "rank": 7,
+        "thirtyDaysPercentage": 4.56
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "cardName": "Full Art Marnie",
+        "setName": "Sun & Moon Hidden Fates",
+        "soldDate": "09/15/2021",
+        "grade": "PSA 10",
+        "soldPrice": "13,500",
+        "priorSold": "2,165.50",
+        "pChange": 540,
+        "language": "English"
+    },
+    {
+        "cardName": "Charizard",
+        "setName": "Base Set",
+        "soldDate": "09/28/2021",
+        "grade": "CGC 10",
+        "soldPrice": "9,500",
+        "priorSold": "2,450",
+        "pChange": 455,
+        "language": "Japanese"
+    },
+    {
+        "cardName": "Blastoise",
+        "setName": "Base Set",
+        "soldDate": "09/28/2021",
+        "grade": "BGS 9",
+        "soldPrice": "8,525",
+        "priorSold": "7,250",
+        "pChange": 25,
+        "language": "English"
+    },
+    {
+        "cardName": "Eevee",
+        "setName": "Unbroken Boons",
+        "soldDate": "09/28/2021",
+        "grade": "BGS 10",
+        "soldPrice": "6,255",
+        "priorSold": "5,265",
+        "pChange": 20,
+        "language": "English"
+    },
+    {
+        "cardName": "Eevee",
+        "setName": "Unbroken Boons",
+        "soldDate": "09/28/2021",
+        "grade": "BGS 9",
+        "soldPrice": "6,025",
+        "priorSold": "5,500",
+        "pChange": 12,
+        "language": "Japanese"
+    },
+    {
+        "cardName": "Eevee",
+        "setName": "Unbroken Boons",
+        "soldDate": "09/28/2021",
+        "grade": "BGS 9",
+        "soldPrice": "5,255",
+        "priorSold": "7,500",
+        "pChange": -25,
+        "language": "English"
+    },
+    {
+        "cardName": "Eevee",
+        "setName": "Unbroken Boons",
+        "soldDate": "09/28/2021",
+        "grade": "BGS 9",
+        "soldPrice": "3,255",
+        "priorSold": "5,650",
+        "pChange": -48,
+        "language": "English"
+    },
+    {
+        "cardName": "Eevee",
+        "setName": "Unbroken Boons",
+        "soldDate": "09/28/2021",
+        "grade": "BGS 9",
+        "soldPrice": "2,255",
+        "priorSold": "3,500",
+        "pChange": -45,
+        "language": "Japanese"
+    },
+    {
+        "cardName": "Full Art Marnie",
+        "setName": "Sun & Moon Hidden Fates",
+        "soldDate": "09/15/2021",
+        "grade": "PSA 10",
+        "soldPrice": "13,500",
+        "priorSold": "2,165.50",
+        "pChange": 540,
+        "language": "English"
+    },
+    {
+        "cardName": "Charizard",
+        "setName": "Base Set",
+        "soldDate": "09/28/2021",
+        "grade": "CGC 10",
+        "soldPrice": "9,500",
+        "priorSold": "2,450",
+        "pChange": 455,
+        "language": "Japanese"
+    },
+    {
+        "cardName": "Blastoise",
+        "setName": "Base Set",
+        "soldDate": "09/28/2021",
+        "grade": "BGS 9",
+        "soldPrice": "8,525",
+        "priorSold": "7,250",
+        "pChange": 25,
+        "language": "English"
+    }
+]

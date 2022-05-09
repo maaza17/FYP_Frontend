@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.market2{
+  min-height: 100vh;
+}
+
+.market2_NavSpace {
+  min-height: 80px;
+  max-height: 80px;
+}
+
+.market2_Container {
+  width: 86%;
+  margin: 20px auto 0px auto;
+  color: white;
+}
+
+.market2_Head {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.market2_Head_Text {
+  margin-top: 20px;
+  font-size: medium;
+}
+
+.market2_image_container{
+  display: flex;
+  justify-content: space-between;
+  margin: 2% 7% 5% 7%;
+  height: 65vh;
+}
+
+.market2_image_div{
+  border-radius: 30px;
+  overflow: hidden;
+  filter: blur(1px);
+  width: 28%;
+  box-shadow: 10px 10px 8px 10px #000000b4;
+}
+
+.market2_image{
+  height: 100%;
+  width: 100%;
+}

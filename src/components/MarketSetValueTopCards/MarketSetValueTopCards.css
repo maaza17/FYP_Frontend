@@ -1,0 +1,109 @@
+.marketsetvaluetopcards{
+    padding: 0px;
+    margin: 0px;
+}
+.msv_top_cards_header{
+    min-width: 100%;
+  max-width: 100%;
+  margin: 20px auto;
+  padding: 8px 0;
+  font-size: 16px;
+  background: #333e50;
+  border-radius: 5px;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+}
+.msv_top_card_container {
+    padding: 0 0 50px 0;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .msv_top_card_row {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px 5px;
+    max-width: 100%;
+    min-width: 100%;
+  }
+  
+  .msv_top_card {
+    margin: 10px 20px;
+    width: 170px;
+  }
+  
+  .msv_top_card_img {
+    background-size: contain;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    position: relative;
+    bottom: calc(100% - 300px);
+    height: 238px;
+    border-radius: 10px;
+    -webkit-transition: ease all 0.25s;
+    transition: ease-in-out 0.25s;
+  }
+  
+  .msv_top_card_img:hover {
+    transform: scale3d(1.2, 1.2, 1.2);
+    z-index: 1;
+    overflow: visible;
+    animation-name: example;
+    animation-duration: 0.25s;
+    box-shadow: 0 30px 10px 10px #030303a4;
+  }
+
+  
+@keyframes example {
+    0% {
+      transform: rotate(0deg);
+    }
+  
+    20% {
+      transform: scale3d(1.04, 1.04, 1.04) rotate(3deg) translate(-5px, 0);
+    }
+  
+    40% {
+      transform: scale3d(1.08, 1.08, 1.08) rotate(4deg) translate(-10px, 0);
+    }
+  
+    60% {
+      transform: scale3d(1.12, 1.12, 1.12) rotate(5deg) translate(-10px, 0);
+    }
+  
+    80% {
+      transform: scale3d(1.16, 1.16, 1.16) rotate(2deg) translate(-5px, 0);
+    }
+  
+    100% {
+      transform: scale3d(1.2, 1.2, 1.2) rotate(0deg) translate(0, 0);
+    }
+  }
+  
+  .msv_top_card_cardInfo {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: white;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 10px;
+  }
+  
+  .msv_top_card_cardText {
+    width: 100%;
+  }
+  
+  .msv_top_card_cardName {
+    font-size: 13px;
+  }
+  
+  .msv_top_card_cardSet {
+    font-size: 10px;
+    color: gray;
+  }

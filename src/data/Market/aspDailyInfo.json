@@ -1,0 +1,22 @@
+[
+    {
+        "date": "09/11/2021",
+        "averagePrice": 213,
+        "percentageChange": 0.35
+    },
+    {
+        "date": "09/10/2021",
+        "averagePrice": 201,
+        "percentageChange": -0.67
+    },
+    {
+        "date": "09/09/2021",
+        "averagePrice": 198,
+        "percentageChange": 0.44
+    },
+    {
+        "date": "09/08/2021",
+        "averagePrice": 231,
+        "percentageChange": 0.44
+    }
+]

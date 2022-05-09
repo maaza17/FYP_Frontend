@@ -1,0 +1,119 @@
+* {
+  background: transparent;
+}
+
+.navbar {
+  background: blueviolet;
+  height: 70px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.other {
+  background: linear-gradient(to right, black, rgba(0, 0, 0, 0.007)),
+    url(../../assets/images/herosection-dnd.jpg);
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+} 
+
+.navbar-container {
+  width: 85vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+}
+
+.navbar-logo > img {
+  margin: 10px 0px;
+  height: 50px;
+  width: 85px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+}
+
+.search__section {
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
+  width: 100%;
+}
+
+.fa-bars {
+  color: rgb(244, 247, 245);
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.nav__dropdown{
+  position: absolute;
+  top: 58px;
+  width: 300px;
+  transform: translateX(-45%);
+  background-color: #1b1b1d;
+  border-radius: 10px;
+  padding: 1rem;
+  overflow: hidden;
+  z-index: 90;
+}
+
+.nav__menu_item{
+  height: 30px;
+  width: 280px;
+  display: flex;
+  outline: none;
+  text-decoration: none;
+  color:rgb(244, 247, 245);
+  align-items: center;
+  border-radius: 10px;
+  padding: 0.8rem;
+}
+
+.nav__menu_item:hover{
+  background-color: #525357;
+}
+
+.icon-right{
+  margin-left: auto;
+}
+
+.nav_item {
+  width: calc(var(--nav-size) * 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav__hamburger{
+  background: #484a4d38;
+  border-radius: 35%;
+  padding: 7px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: filter 300ms;
+}
+
+.nav__hamburger:hover{
+  filter: brightness(3.2)
+}

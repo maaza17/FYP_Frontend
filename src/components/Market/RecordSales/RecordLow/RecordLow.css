@@ -1,0 +1,154 @@
+.record__low {
+  padding: 0px 10px 0px 10px;
+}
+
+.relo__box {
+  background-color: rgb(15, 15, 15);
+  padding: 10px;
+  border-radius: 15px;
+  /* height: 480px; */
+  position: relative;
+  color: white;
+  margin: 20px 0px;
+}
+
+.relo__heading__area {
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid rgba(70, 69, 69, 0.933);
+}
+
+.relo__heading {
+  color: #fff;
+  display: flex;
+  width: 30%;
+  height: 60px;
+  align-items: center;
+  padding-left: 10px;
+  align-items: center;
+  border-right: 4px solid #C00000;
+}
+
+.relo__dropdown {
+  width: 25%;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.relo__description {
+  text-align: right;
+  width: 45%;
+  color: #fff;
+}
+
+.relo__table__box {
+  background-color: rgb(15, 15, 15);
+  height: 350px;
+  display: flex;
+}
+
+.relo__info__box {
+  justify-content: center;
+  text-align: center;
+  color: white;
+  width: 100%;
+  align-items: center;
+}
+
+.relo__info__box__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 0.1px solid rgba(240, 238, 238, 0.432);
+}
+
+.relo__cn,
+.relo__sn{
+  padding: 10px 10px;
+  width: 100%;
+}
+.relo__sd,
+.relo__g,
+.relo__sp,
+.relo__wh,
+.relo__pch,
+.relo__l {
+  padding: 10px 10px;
+  width: 50%;
+}
+
+.relo__data {
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+}
+
+.relo__data__row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  text-align: center;
+  height: 55px;
+  justify-content: center;
+  border-bottom: 1px dashed rgba(240, 238, 238, 0.432);
+}
+
+.relo__data__cn {
+  color: #ffd966;
+  width: 100%;
+  padding: 7px 10px;
+}
+.relo__data__sn {
+  width: 100%;
+  padding: 7px 10px;
+}
+.relo__data__sd {
+  width: 50%;
+  padding: 7px 10px;
+}
+.relo__data__g {
+  color: #8faadc;
+  width: 50%;
+  padding: 7px 10px;
+}
+.relo__data__sp {
+  color: #ed7d31;
+  width: 50%;
+  padding: 7px 10px;
+}
+
+.relo__data__wh {
+  width: 50%;
+  padding: 7px 10px;
+}
+
+.relo__data__pch {
+  color: #92d050;
+  width: 50%;
+  padding: 7px 10px;
+}
+.relo__data__pch__n {
+  color: #c00000;
+  width: 50%;
+  padding: 7px 10px;
+}
+
+.relo__data__l {
+  width: 50%;
+  padding: 7px 10px;
+}
+
+.relo__fl {
+  display: flex;
+  /* position: absolute; */
+  justify-content: flex-end;
+  margin: 20px !important;
+  /* padding: 20px 10px 10px 0px; */
+  cursor: pointer;
+}

@@ -1,0 +1,175 @@
+.featured {
+  background: #0c1b2b;
+  padding-top: 20px;
+}
+
+.featured-carousel {
+  display: flex;
+  min-width: 100%;
+  max-width: 100%;
+  background: #0c1b2b;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.featured-heading {
+  margin-left: 7%;
+  padding: 10px 0px 10px 10px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.switchLeft {
+  color: white;
+  font-weight: bold;
+  height: 100%;
+  min-width: fit-content;
+  max-width: fit-content;
+  font-size: medium;
+  text-align: center;
+  margin-right: 1.5vw;
+}
+
+.switchRight {
+  color: white;
+  margin-left: 1.5vw;
+  font-weight: bold;
+  height: 100%;
+  min-width: fit-content;
+  max-width: fit-content;
+  font-size: medium;
+  text-align: center;
+}
+
+.disabedSliderButton {
+  color: darkgray;
+  background-color: rgba(83, 83, 83, 0.425);
+}
+
+
+.carouselbox {
+  padding: 10px 0 10px 0;
+  min-width: 85%;
+  max-width: 85%;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  white-space: nowrap;
+  display: inline-block;
+  display: flex;
+  background: #0c1b2b;
+  border-radius: 5px;
+}
+
+.f-card_img {
+  min-width: 140px;
+  max-width: 140px;
+  margin: 0 6px;
+  text-decoration: none;
+}
+
+.f-card_img img {
+  border-radius: 10px;
+  min-width: 95%;
+  max-width: 95%;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+.f-card_title {
+  color: rgba(255, 255, 255, 0.76);
+  max-width: 100%;
+  font-size: 11px;
+  padding-top: 0.4vh;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  text-decoration: none !important;
+}
+
+.f-card_desc {
+  text-decoration: none !important;
+  color: rgba(255, 255, 255, 0.76);
+  max-width: 100%;
+  font-size: 10px;
+  padding-top: 0.4vh;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+.f-card_cat {
+  text-decoration: none !important;
+  color: rgba(255, 255, 255, 0.76);
+  max-width: 100%;
+  font-size: 9px;
+  padding-top: 0.4vh;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+.f-card_img:hover {
+  -ms-transform: scale(1.1);
+  /* IE 9 */
+  -webkit-transform: scale(1.1);
+  /* Safari 3-8 */
+  transform: scale(1.1);
+  transition: all 0.2s ease-in-out;
+  z-index: 5;
+}
+
+.featured__message {
+  color: white;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 100%;
+  min-height: 220px;
+  background-color: #08111b;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+@media screen and (max-width:1500px) {
+  .f-card_img {
+    min-width: 130px;
+    max-width: 130px;
+    margin: 0 6px;
+    text-decoration: none;
+  }
+}
+
+
+@media screen and (max-width:1000px) {
+  .f-card_img {
+    min-width: 90px;
+    max-width: 90px;
+    margin: 0 6px;
+  }
+  .f-card_img>img{
+    border-radius: 5px;
+  }
+}
+
+@media screen and (max-width:480px) {
+  .carouselbox{
+    min-width: 80%;
+    max-width: 80%;
+  }
+  .f-card_img {
+    min-width: 90px;
+    max-width: 90px;
+    margin: 0 6px;
+  }
+  .f-card_img>img{
+    border-radius: 5px;
+  }
+  .switchLeft {
+   padding: 5px;
+  }
+  
+  .switchRight {
+    padding: 5px;
+  }
+}

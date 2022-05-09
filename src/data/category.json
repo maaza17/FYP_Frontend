@@ -1,0 +1,408 @@
+[
+    {
+        "id":0,
+        "title": "Magic: The Gathering",
+        "path": "/shop/Magic: The Gathering/All",
+        "sets": [
+            {
+                "set_Name": "Commander: Innistrad: Midnight Hunt",
+                "path": "/shop/Magic: The Gathering/Commander: Innistrad: Midnight Hunt",
+                "set_img": "https://mktg-assets.tcgplayer.com/fit-in/247x130/web/release/2021-09/magic_innistrad_midnight_hunt_search_300x158_09172021.jpg",
+                "createdDate": "24/01/2021",
+                "category": "Magic: The Gathering"
+            },
+            {
+                "set_Name": "Promo Pack: Innistrad: Midnight Hunt",
+                "path": "/shop/Magic: The Gathering/Promo Pack: Innistrad: Midnight Hunt",
+                "set_img": "https://images.ctfassets.net/s5n2t79q9icq/WzGENdAI7mRutm7jN5h59/f6dd93687d7d4e80a58fe5162e424054/EN_CSgycQsqQW.jpg",
+                "createdDate": "24/03/2021",
+                "category": "Magic: The Gathering"
+            },
+            {
+                "set_Name": "Innistrad: Midnight Hunt",
+                "path": "/shop/Magic: The Gathering/Innistrad: Midnight Hunt",
+                "set_img": "https://mktg-assets.tcgplayer.com/fit-in/247x130/web/release/2021-09/magic_innistrad_midnight_hunt_search_300x158_09172021.jpg",
+                "createdDate": "24/09/2021",
+                "category": "Magic: The Gathering"
+            },
+            {
+                "set_Name": "Art Series: Adventures in the Forgotten Realms",
+                "path": "/shop/Magic: The Gathering/Art Series: Adventures in the Forgotten Realms",
+                "set_img": "https://images-geeknative-com.exactdn.com/wp-content/uploads/2021/07/01101310/adventures-in-the-forgotten-realms.jpg?strip=all&lossy=1&w=350&ssl=1",
+                "createdDate": "23/07/2021",
+                "category": "Magic: The Gathering"
+            },
+            {
+                "set_Name": "Promo Pack: Adventures in the Forgotten Realms",
+                "path": "/shop/Magic: The Gathering/Promo Pack: Adventures in the Forgotten Realms",
+                "set_img": "https://miro.medium.com/max/1200/1*OMdgcY3XAcJx5jlid9sX4g.jpeg",
+                "createdDate": "23/07/2021",
+                "category": "Magic: The Gathering"
+            },
+            {
+                "set_Name": "Commander: Adventures in the Forgotten Realms",
+                "path": "/shop/Magic: The Gathering/Commander: Adventures in the Forgotten Realms",
+                "set_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsy7AealeUILcLwpwefgq83AF7dOubUXiFzA&usqp=CAU",
+                "createdDate": "23/07/2021",
+                "category": "Magic: The Gathering"
+            },
+            {
+                "set_Name": "Adventures in the Forgotten Realms",
+                "path": "/shop/Magic: The Gathering/Adventures in the Forgotten Realms",
+                "set_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhhRPdnB38EMXSZtEhP2v2Pa4CEhWw44S8AcD6RsnSPCUbEJO1tfgF0NYbkYyzhiyrzas&usqp=CAU",
+                "createdDate": "23/07/2021",
+                "category": "Magic: The Gathering"
+            },
+            {
+                "set_Name": "Modern Horizons 2",
+                "path": "/shop/Magic: The Gathering/Modern Horizons 2",
+                "set_img": "https://www.phdgames.com/wp-content/uploads/elementor/thumbs/MTG_ModernHorizons2_WebSlider-p7nnrqdtvtl2abol3r90lso0mspx40vpntuovtalbk.jpg",
+                "createdDate": "11/06/2021",
+                "category": "Magic: The Gathering"
+            }
+        ]
+    },
+    {
+        "id":1,
+        "title": "Yu-Gi-Oh!",
+        "path": "/shop/Yu-Gi-Oh!/All",
+        "sets": [
+            {
+                "set_Name": "2021 Tin of Ancient Battles",
+                "path": "/shop/Yu-Gi-Oh!/2021 Tin of Ancient Battles",
+                "set_img": "https://mktg-assets.tcgplayer.com/fit-in/247x130/web/release/2021-08/yugioh_2021_tin_of_ancient_battles_search_300x158_08272021.jpg",
+                "createdDate": "01/10/2021",
+                "category": "Yu-Gi-Oh!"
+            },
+            {
+                "set_Name": "Dawn of Majesty",
+                "path": "/shop/Yu-Gi-Oh!/Dawn of Majesty",
+                "set_img": "https://cdn.stayhappening.com/events4/banners/0fe7caa1b5414bd7a1161da7315aba88fcdc9bf1445aefc42c027a8c76063539-rimg-w526-h350-gmir.jpg?v=1628807464",
+                "createdDate": "11/08/2021",
+                "category": "Yu-Gi-Oh!"
+            },
+            {
+                "set_Name": "King's Court",
+                "path": "/shop/Yu-Gi-Oh!/King's Court",
+                "set_img": "https://cdn.stayhappening.com/events5/banners/bc15a5c7654a1d216f1225fd03bd63e80b8eff8ccb26fad5d5d14c100a54169b-rimg-w526-h350-gmir.jpg?v=1626022798",
+                "createdDate": "08/07/2021",
+                "category": "Yu-Gi-Oh!"
+            },
+            {
+                "set_Name": "Egyptian God Deck: Obelisk the Tormentor",
+                "path": "/shop/Yu-Gi-Oh!/Egyptian God Deck: Obelisk the Tormentor",
+                "set_img": "https://tcgplayer-cdn.tcgplayer.com/set_icon/EgyptianGodDeckObelisktheTormentor.png",
+                "createdDate": "11/06/2021",
+                "category": "Yu-Gi-Oh!"
+            },
+            {
+                "set_Name": "Egyptian God Deck: Slifer the Sky Dragon",
+                "path": "/shop/Yu-Gi-Oh!/Egyptian God Deck: Slifer the Sky Dragon",
+                "set_img": "https://tcgplayer-cdn.tcgplayer.com/set_icon/EgyptianGodDeckSlifertheSkyDragon.png",
+                "createdDate": "11/06/2021",
+                "category": "Yu-Gi-Oh!"
+            },
+            {
+                "set_Name": "Lightning Overdrive",
+                "path": "/shop/Yu-Gi-Oh!/Lightning Overdrive",
+                "set_img": "https://cdn1.dotesports.com/wp-content/uploads/2021/05/17182114/YGO-Lightining-Overdrive.png",
+                "createdDate": "03/06/2021",
+                "category": "Yu-Gi-Oh!"
+            },
+            {
+                "set_Name": "Ancient Guardians",
+                "path": "/shop/Yu-Gi-Oh!/Ancient Guardians",
+                "set_img": "https://realgoodeal.com/media/wysiwyg/ancient-guardians-banner.png",
+                "createdDate": "30/04/2021",
+                "category": "Yu-Gi-Oh!"
+            },
+            {
+                "set_Name": "Ghosts From the Past",
+                "path": "/shop/Yu-Gi-Oh!/Ghosts From the Past",
+                "set_img": "https://cdn.stayhappening.com/events9/banners/ed54a1cff5d82a509a936af528b8d004b77e04251dbd3f91a8cd61a0272428ac-rimg-w526-h278-gmir.jpg?v=1618498949",
+                "createdDate": "16/04/2021",
+                "category": "Yu-Gi-Oh!"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "title": "Pokémon",
+        "path": "/shop/Pokémon/All",
+        "sets": [
+            {
+                "set_Name": "Pokémon Neo Discovery",
+                "path":"/shop/Pokémon/Pokémon Neo Discovery",
+                "set_img": "https://mktg-assets.tcgplayer.com/fit-in/247x130/web/release/2021-08/pokemon_evolving_skies_search_300x158_08272021.jpg",
+                "createdDate": "27/08/2021",
+                "category": "Pokémon"
+            },
+            {
+                "set_Name": "Pokémon Aquapolis",
+                "path":"/shop/Pokémon/Pokémon Aquapolis",
+                "set_img": "https://mktg-assets.tcgplayer.com/fit-in/247x130/web/release/2021-08/pokemon_evolving_skies_search_300x158_08272021.jpg",
+                "createdDate": "27/08/2021",
+                "category": "Pokémon"
+            },
+            {
+                "set_Name": "Base Set",
+                "path":"/shop/Pokémon/Base Set",
+                "set_img": "https://www.totalcards.net/media/images/games/pokemon/slide/chilling-reign.jpg",
+                "createdDate": "18/06/2021",
+                "category": "Pokémon"
+            },
+            {
+                "set_Name": "McDonald's 25th Anniversary Promos",
+                "path":"/shop/Pokémon/McDonald's 25th Anniversary Promos",
+                "set_img": "https://cdn11.bigcommerce.com/s-0kvv9/images/stencil/640w/products/354698/542349/apimj6qlb__90355.1617720382.jpg?c=2",
+                "createdDate": "09/02/2021",
+                "category": "Pokémon"
+            },
+            {
+                "set_Name": "First Partner Pack",
+                "path":"/shop/Pokémon/First Partner Pack",
+                "set_img": "https://www.gamerevolution.com/assets/uploads/2021/01/Pokemon-25th-Anniversary-cards-1280x720.jpg",
+                "createdDate": "27/08/2021",
+                "category": "Pokémon"
+            },
+            {
+                "set_Name": "Battle Styles",
+                "path":"/shop/Pokémon/Battle Styles",
+                "set_img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/05/Battle-Styles-Expansion-Pokemon-TCG-Rules.jpg",
+                "createdDate": "19/03/2021",
+                "category": "Pokémon"
+            },
+            {
+                "set_Name": "Shining Fates: Shiny Vault",
+                "path":"/shop/Pokémon/Shining Fates: Shiny Vault",
+                "set_img": "https://static1.gamerantimages.com/wordpress/wp-content/uploads/2021/02/Pokemon-TCG-Shining-Fates.jpg",
+                "createdDate": "19/02/2021",
+                "category": "Pokémon"
+            },
+            {
+                "set_Name": "Shining Fates",
+                "path":"/shop/Pokémon/Shining Fates",
+                "set_img": "https://cdn.shopify.com/s/files/1/0263/9009/articles/Untitled_design_48_700x700.jpg?v=1607115346",
+                "createdDate": "19/02/2021",
+                "category": "Pokémon"
+            },
+            {
+                "set_Name": "Vivid Voltage",
+                "path":"/shop/Pokémon/Vivid Voltage",
+                "set_img": "https://cdn.shopify.com/s/files/1/0538/4116/6509/collections/PokeVividVoltage_Banner-600x300_1200x1200.jpg?v=1615692686",
+                "createdDate": "13/011/2020",
+                "category": "Pokémon"
+            },
+            {
+                "set_Name": "Champion's Path",
+                "path":"/shop/Pokémon/Champion's Path",
+                "set_img": "https://realgoodeal.com/media/wysiwyg/champions-path-banner2.png",
+                "createdDate": "25/10/2020",
+                "category": "Pokémon"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "title": "Cardfight!! Vanguard",
+        "path": "/shop/Cardfight!! Vanguard/All",
+        "sets": [
+            {
+                "set_Name": "A Brush with the Legends",
+                "path": "/shop/Cardfight!! Vanguard/A Brush with the Legends",
+                "set_img": "https://en.cf-vanguard.com/wordpress/wp-content/uploads/D-BT02_Product.png",
+                "createdDate": "23/07/2021",
+                "category": "Cardfight!! Vanguard"
+            },
+            {
+                "set_Name": "D-SS01: Festival Collection 2021",
+                "path": "/shop/Cardfight!! Vanguard/D-SS01: Festival Collection 2021",
+                "set_img": "https://scontent.fkhi17-1.fna.fbcdn.net/v/t1.6435-9/210709781_4117260771690713_5294953375485381604_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEErjpSWHx9tlDYKkXV27G7lu90yzy01bSW73TLPLTVtKpFQIJTsQWJkl7FDw5wqi0&_nc_ohc=s02lHq1gPv8AX-5aLIn&_nc_ht=scontent.fkhi17-1.fna&oh=4f52b645c02a523c627e05f7901e8f87&oe=615F3A19",
+                "createdDate": "25/06/2021",
+                "category": "Cardfight!! Vanguard"
+            },
+            {
+                "set_Name": "Genesis of the Five Greats",
+                "path": "/shop/Cardfight!! Vanguard/Genesis of the Five Greats",
+                "set_img": "https://seller.tcgplayer.com/media/5491/bp-05-21-2021-cardfight_vanguard_genesis_of_the_five_greats.jpg?anchor=center&mode=crop&width=1540&height=868&rnd=132657507500000000",
+                "createdDate": "21/05/2021",
+                "category": "Cardfight!! Vanguard"
+            },
+            {
+                "set_Name": "D-SD05: Tomari Seto -Aurora Valkyrie-",
+                "path": "/shop/Cardfight!! Vanguard/D-SD05: Tomari Seto -Aurora Valkyrie-",
+                "set_img": "https://cdn.shopify.com/s/files/1/0275/0146/1640/products/131e639f-0807-40fa-9f3f-6be2a290f035.16000x16000_q50.jpg?v=1612962617",
+                "createdDate": "04/09/2020",
+                "category": "Cardfight!! Vanguard"
+            },
+            {
+                "set_Name": "D-SD04: Megumi Okura -Sylvan King-",
+                "path": "/shop/Cardfight!! Vanguard/D-SD04: Megumi Okura -Sylvan King-",
+                "set_img": "https://cdn.shopify.com/s/files/1/0275/0146/1640/products/9ccebcd4-e346-4e6e-be76-cdcdba1a0bef.16000x16000_q50.jpg?v=1612962532",
+                "createdDate": "03/09/2020",
+                "category": "Cardfight!! Vanguard"
+            },
+            {
+                "set_Name": "D-SD03: Tohya Ebata -Apex Ruler-",
+                "path": "/shop/Cardfight!! Vanguard/D-SD03: Tohya Ebata -Apex Ruler-",
+                "set_img": "https://cdn.shopify.com/s/files/1/0556/5091/0381/products/VG-D-SD03_53d73dec-4baa-4cb6-b893-58947bafe21b_480x480.jpg?v=1617537071",
+                "createdDate": "01/09/2020",
+                "category": "Cardfight!! Vanguard"
+            },
+            {
+                "set_Name": "D-SD02: Danji Momoyama -Tyrant Tiger-",
+                "path": "/shop/Cardfight!! Vanguard/D-SD02: Danji Momoyama -Tyrant Tiger-",
+                "set_img": "https://cdn.shopify.com/s/files/1/0275/0146/1640/products/99be09a0-763c-441c-9cb2-e0a5d4f63e5e.16000x16000_q50.jpg?v=1612962323",
+                "createdDate": "27/08/2020",
+                "category": "Cardfight!! Vanguard"
+            },
+            {
+                "set_Name": "D-SD01: Yu-yu Kondo -Holy Dragon-",
+                "path": "/shop/Cardfight!! Vanguard/D-SD01: Yu-yu Kondo -Holy Dragon-",
+                "set_img": "https://cdn.shopify.com/s/files/1/0275/0146/1640/products/6b6e2835-3578-4aba-8a65-1f64cea9ab79.16000x16000_q50.jpg?v=1612961700",
+                "createdDate": "25/08/2020",
+                "category": "Cardfight!! Vanguard"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "title": "Dragon Ball Super Card Game",
+        "path": "/shop/Dragon Ball Super Card Game/All",
+        "sets": [
+            {
+                "set_Name": "Special Anniversary Set 2021",
+                "path": "/shop/Dragon Ball Super Card Game/Special Anniversary Set 2021",
+                "set_img": "https://mktg-assets.tcgplayer.com/fit-in/247x130/web/release/2021-09/dragon-ball-super_special-anniversary-box-2021_search_300x158_09032021.jpg",
+                "createdDate": "30/09/2021",
+                "category": "Dragon Ball Super Card Game"
+            },
+            {
+                "set_Name": "Cross Spirits",
+                "path": "/shop/Dragon Ball Super Card Game/Cross Spirits",
+                "set_img": "https://cdn.stayhappening.com/events4/banners/ae84e819ee0d37a85ea71ffd57b507d31bfc146dedd41335e2f6ae247a228a56-rimg-w944-h280-gmir.jpg?v=1627410917",
+                "createdDate": "13/08/2021",
+                "category": "Dragon Ball Super Card Game"
+            },
+            {
+                "set_Name": "Expansion Deck Box Set 18: Namekian Boost",
+                "path": "/shop/Dragon Ball Super Card Game/Expansion Deck Box Set 18: Namekian Boost",
+                "set_img": "https://tcgplayer-cdn.tcgplayer.com/set_icon/ExpansionDeckBoxSet18NamekianBoost.png",
+                "createdDate": "25/06/2021",
+                "category": "Dragon Ball Super Card Game"
+            },
+            {
+                "set_Name": "Expansion Deck Box Set 17: Saiyan Boost",
+                "path": "/shop/Dragon Ball Super Card Game/Expansion Deck Box Set 17: Saiyan Boost",
+                "set_img": "https://tcgplayer-cdn.tcgplayer.com/set_icon/ExpansionDeckBoxSet17SaiyanBoost.png",
+                "createdDate": "25/06/2021",
+                "category": "Dragon Ball Super Card Game"
+            },
+            {
+                "set_Name": "Supreme Rivalry",
+                "path": "/shop/Dragon Ball Super Card Game/Supreme Rivalry",
+                "set_img": "https://i0.wp.com/ludkinsmedia.com/wp-content/uploads/2021/03/Image-2-for-update.png?resize=750%2C420&ssl=1",
+                "createdDate": "07/05/2021",
+                "category": "Dragon Ball Super Card Game"
+            },
+            {
+                "set_Name": "Battle Evolution Booster",
+                "path": "/shop/Dragon Ball Super Card Game/Battle Evolution Booster",
+                "set_img": "https://dacardworld1.imgix.net/dbzbeb_b_f.jpg?auto=format%2Ccompress&fm=jpg&h=1800&ixlib=php-3.3.0&w=1800&s=7247285ffd6a82417c45655e14311fe1",
+                "createdDate": "05/03/2021",
+                "category": "Dragon Ball Super Card Game"
+            },
+            {
+                "set_Name": "Vicious Rejuvenation",
+                "path": "/shop/Dragon Ball Super Card Game/Vicious Rejuvenation",
+                "set_img": "https://d1rw89lz12ur5s.cloudfront.net/photo/gamersalleyonlinegastonia/file/8873d5976032478194e2a78d8a52732f/ViciousRejuvenation.jfif",
+                "createdDate": "22/01/2021",
+                "category": "Dragon Ball Super Card Game"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "title": "Flesh And Blood",
+        "path": "/shop/Flesh And Blood/All",
+        "sets": [
+            {
+                "set_Name": "Tales of Aria",
+                "path": "/shop/Flesh And Blood/Tales of Aria",
+                "set_img": "https://mktg-assets.tcgplayer.com/fit-in/247x130/web/release/2021-09/flesh_and_blood_tcg_tales_of_aria_search_300x158_09242021.jpg",
+                "createdDate": "24/09/2021",
+                "category": "Flesh And Blood"
+            },
+            {
+                "set_Name": "Monarch",
+                "path": "/shop/Flesh And Blood/Monarch",
+                "set_img": "https://scontent.fkhi17-1.fna.fbcdn.net/v/t1.6435-9/140253768_708159349858372_6104146310090942682_n.png?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHt_nbnI4VLgMaB0JgIVDJTMwLQKGxQtRAzAtAobFC1EObMbz36CFyB39M7vDbhc9U&_nc_ohc=eil4Uw4o8R0AX8hpvZb&_nc_ht=scontent.fkhi17-1.fna&oh=1090c952fd079798646e148ead023089&oe=6160FCF7",
+                "createdDate": "04/06/2021",
+                "category": "Flesh And Blood"
+            },
+            {
+                "set_Name": "Crucible of War",
+                "path": "/shop/Flesh And Blood/Crucible of War",
+                "set_img": "https://i.ytimg.com/vi/BD8Mx1LguAE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDswOstyCgQCO-YbwiECw_6eQOd6A",
+                "createdDate": "30/07/2021",
+                "category": "Flesh And Blood"
+            },
+            {
+                "set_Name": "Arcane Rising",
+                "path": "/shop/Flesh And Blood/Arcane Rising",
+                "set_img": "https://cdn.shopify.com/s/files/1/1878/6501/collections/arcanerising_1200x1200.jpg?v=1623122368",
+                "createdDate": "27/03/2021",
+                "category": "Flesh And Blood"
+            },
+            {
+                "set_Name": "Welcome to Rathe",
+                "path": "/shop/Flesh And Blood/Welcome to Rathe",
+                "set_img": "https://storage.googleapis.com/fabmaster/media/images/web_banner_02.width-10000.jpg",
+                "createdDate": "03/09/2020",
+                "category": "Flesh And Blood"
+            },
+            {
+                "set_Name": "Hero Deck: Rhinar",
+                "path": "/shop/Flesh And Blood/Hero Deck: Rhinar",
+                "set_img": "https://d1rw89lz12ur5s.cloudfront.net/photo/collectorscache/file/0f3a1a2083424914a772ad5933b1b53c/Rhinar%20deck.jpg",
+                "createdDate": "01/09/2020",
+                "category": "Flesh And Blood"
+            },
+            {
+                "set_Name": "Hero Deck: Katsu",
+                "path": "/shop/Flesh And Blood/Hero Deck: Katsu",
+                "set_img": "https://d1rw89lz12ur5s.cloudfront.net/photo/collectorscache/file/388cc78769be4bcf85c1587ec81152ee/katsu%20deck.jpg",
+                "createdDate": "27/08/2020",
+                "category": "Flesh And Blood"
+            },
+            {
+                "set_Name": "Hero Deck: Dorinthea",
+                "path": "/shop/Flesh And Blood/Hero Deck: Dorinthea",
+                "set_img": "https://cdn.shopify.com/s/files/1/0075/9450/8339/products/Screenshot2020-10-17at3.26.10PM.png?v=1602944824",
+                "createdDate": "25/08/2020",
+                "category": "Flesh And Blood"
+            },
+            {
+                "set_Name": "Hero Deck: Bravo",
+                "path": "/shop/Flesh And Blood/Hero Deck: Bravo",
+                "set_img": "https://d1rw89lz12ur5s.cloudfront.net/photo/collectorscache/file/9d3aed12825f41e0b5afae5e2e8b2e11/Bravo.jpg",
+                "createdDate": "23/08/2020",
+                "category": "Flesh And Blood"
+            },
+            {
+                "set_Name": "Welcome Deck: Ira",
+                "path": "/shop/Flesh And Blood/Welcome Deck: Ira",
+                "set_img": "https://storage.googleapis.com/fabmaster/media/images/FAB_Welcome_Event_Facebook_square.width-10000.jpg",
+                "createdDate": "21/08/2020",
+                "category": "Flesh And Blood"
+            },
+            {
+                "set_Name": "Flesh and Blood: Promo Cards",
+                "path": "/shop/Flesh And Blood/Flesh and Blood: Promo Cards",
+                "set_img": "https://styles.redditmedia.com/t5_37nqw4/styles/communityIcon_iya671yd9br51.png?width=256&s=8dec4f19ac4a6fa9f0485092b5935c7dca235fae",
+                "createdDate": "17/08/2021",
+                "category": "Flesh And Blood"
+            }
+        ]
+    }
+]

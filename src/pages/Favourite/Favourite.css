@@ -1,0 +1,253 @@
+.favourite {
+  height: 100vh;
+}
+
+.favourite_navspace {
+  min-height: 80px;
+  max-height: 80px;
+}
+
+.favourite_header{
+  margin: 50px 7% 10px 7%;
+  width: 86%;
+}
+
+.favourite_heading{
+  font-size: 2vw;
+  font-weight: bold;
+  color: white;
+}
+
+.favourite_list_container {
+  width: 100%;
+}
+
+.favourite__card-container {
+  padding: 20px 0 50px 0;
+  width: 90%;
+  margin: 0 auto;
+  /* margin-top: 100px; */
+  display: flex;
+  justify-content: center;
+}
+
+.favourite__row {
+  /* justify-content: center; */
+  display: flex;
+  flex-wrap: wrap;
+  /* margin: 5px; */
+  padding: 5px 0px;
+  max-width: 99%;
+  min-width: 99%;
+}
+
+.favourite_no_card{
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  /* margin: 5px; */
+  padding: 5px 0px;
+  max-width: 99%;
+  min-width: 99%;
+}
+
+.favourite__card {
+  margin: 10px 23px;
+  width: 170px;
+}
+
+.favourite__card_img {
+  background-size: contain;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  position: relative;
+  bottom: calc(100% - 300px);
+  height: 238px;
+  border-radius: 10px;
+  -webkit-transition: ease all 0.25s;
+  transition: ease-in-out 0.25s;
+}
+
+.favourite__card_img:hover {
+  transform: scale3d(1.2, 1.2, 1.2);
+  z-index: 1;
+  overflow: visible;
+  animation-name: example;
+  animation-duration: 0.25s;
+  box-shadow: 0 30px 10px 10px #030303a4;
+}
+
+@keyframes example {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  20% {
+    transform: scale3d(1.04, 1.04, 1.04) rotate(3deg) translate(-5px, 0);
+  }
+
+  40% {
+    transform: scale3d(1.08, 1.08, 1.08) rotate(4deg) translate(-10px, 0);
+  }
+
+  60% {
+    transform: scale3d(1.12, 1.12, 1.12) rotate(5deg) translate(-10px, 0);
+  }
+
+  80% {
+    transform: scale3d(1.16, 1.16, 1.16) rotate(2deg) translate(-5px, 0);
+  }
+
+  100% {
+    transform: scale3d(1.2, 1.2, 1.2) rotate(0deg) translate(0, 0);
+  }
+}
+
+.favourite__cardInfo {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  color: white;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 10px;
+}
+
+.favourite__cardText {
+  width: 100%;
+}
+
+.favourite__cardName {
+  font-size: 13px;
+}
+
+.favourite__cardSet {
+  font-size: 10px;
+  color: gray;
+}
+
+.favourite__error__message {
+  font-size: 15px;
+  min-width: 90%;
+  margin: 50px auto;
+  text-align: center;
+  color: white;
+}
+
+/* PRELOADER CODE */
+.favourite__preloader__whole {
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  margin-top: 250px !important;
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 100vh;
+  max-height: 100vh;
+  background-color: #0c1b2b;
+}
+
+.favourite__preloader {
+  margin: auto;
+  height: 90%;
+  width: 90%;
+  margin: auto auto;
+  border-radius: 50%;
+  border-right: 9px solid rgba(255, 255, 255, 0.8);
+  animation: spinning 3s linear infinite;
+}
+
+.favourite__preloader__container {
+  margin-top: 100px;
+  width: 400px;
+  height: 400px;
+}
+
+@keyframes spinning {
+  0% {
+    transform: rotate(0deg);
+    border-right: 9px solid rgba(255, 255, 255, 0.6);
+  }
+
+  5% {
+    border-right-color: rgba(255, 255, 255, 0.4);
+  }
+
+  10% {
+    border-right-color: rgba(255, 255, 255, 0.6);
+  }
+
+  15% {
+    border-right-color: rgba(255, 255, 255, 0.4);
+  }
+
+  20% {
+    border-right-color: rgba(255, 255, 255, 0.6);
+  }
+
+  25% {
+    border-right-color: rgba(255, 255, 255, 0.4);
+  }
+
+  30% {
+    border-right-color: rgba(255, 255, 255, 0.6);
+  }
+
+  35% {
+    border-right-color: rgba(255, 255, 255, 0.4);
+  }
+
+  40% {
+    border-right-color: rgba(255, 255, 255, 0.6);
+  }
+
+  45% {
+    border-right-color: rgba(255, 255, 255, 0.4);
+  }
+
+  50% {
+    border-right-color: rgba(255, 255, 255, 0.6);
+  }
+
+  55% {
+    border-right-color: rgba(255, 255, 255, 0.4);
+  }
+
+  60% {
+    border-right-color: rgba(255, 255, 255, 0.6);
+  }
+
+  65% {
+    border-right-color: rgba(255, 255, 255, 0.4);
+  }
+
+  70% {
+    border-right-color: rgba(255, 255, 255, 0.6);
+  }
+
+  75% {
+    border-right-color: rgba(255, 255, 255, 0.4);
+  }
+
+  80% {
+    border-right-color: rgba(255, 255, 255, 0.6);
+  }
+
+  85% {
+    border-right-color: rgba(255, 255, 255, 0.4);
+  }
+
+  90% {
+    border-right-color: rgba(255, 255, 255, 0.6);
+  }
+
+  95% {
+    border-right-color: rgba(255, 255, 255, 0.4);
+  }
+
+  100% {
+    transform: rotate(360deg);
+    border-right: 9px solid rgba(255, 255, 255, 0.6);
+  }
+}

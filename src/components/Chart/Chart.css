@@ -1,0 +1,309 @@
+.chart {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.chart__legend__section {
+  width: 23%;
+  padding: 10px 0px;
+  height: 95%;
+  /* background: #e41717; */
+}
+
+.chart__legend__company__section {
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  margin: 0px 10px;
+  /* background: #150d58; */
+}
+
+.chart__legend__companies {
+  padding: 5px;
+  display: flex;
+  margin: 5px 10px;
+  justify-content: center;
+  border-bottom: 1px solid #5b5c60;
+  /* background: #0a991d; */
+}
+
+.chart__legend__psa {
+  margin: 5px;
+  border-radius: 10px;
+  color: white;
+  background: #7fc451;
+  width: 60px;
+  padding: 5px 0px;
+  font-weight: bold;
+  font-size: 14px;
+  text-align: center;
+}
+
+.chart__legend__bgs {
+  margin: 5px;
+  border-radius: 10px;
+  color: white;
+  background: #8faadc;
+  width: 60px;
+  padding: 5px 0px;
+  font-weight: bold;
+  font-size: 14px;
+  text-align: center;
+}
+
+.chart__legend__cgc {
+  margin: 5px;
+  border-radius: 10px;
+  color: white;
+  background: #e0705a;
+  width: 60px;
+  padding: 5px 0px;
+  font-weight: bold;
+  font-size: 14px;
+  text-align: center;
+}
+
+.chart__legend__grade__section {
+  /* padding: 10px; */
+  color: white;
+  font-size: 14px;
+  height: 75%;
+  margin: 0px 10px;
+  /* background: #5b5c60; */
+}
+
+.chart__legend__grade__10 {
+  display: flex;
+  height: 10%;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 5px;
+  /* background: #e0705a; */
+}
+
+.chart__legend__grades {
+  direction: rtl;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+  flex-wrap: wrap;
+  /* background: #8faadc; */
+}
+
+.chart__legend__grade {
+  direction: ltr;
+  display: flex;
+  height: 10%;
+  justify-content: center;
+  align-items: center;
+  width: 49%;
+}
+
+.chart__legend__grade__radio {
+  background: #7f7f7f;
+  border: 1px solid #eaebeb;
+  border-radius: 50px;
+  padding: 7px;
+  margin: 10px;
+}
+
+.chart__legend__border {
+  border: 1px solid #4f5157;
+  width: 1;
+  height: 10%;
+}
+
+.radio__button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+  cursor: pointer;
+  padding: 0 5px 0 0;
+  border-radius: 5px;
+}
+
+.disabled__radio__button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+  cursor: not-allowed;
+  opacity: 0.3;
+}
+
+.chart__section {
+  width: 75%;
+  height: 95%;
+  padding: 5px;
+  align-items: center;
+}
+
+.chart__header {
+  height: 18%;
+  padding: 0px 30px;
+}
+
+.chart__title {
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  padding-top: 30px;
+  align-items: baseline;
+}
+
+.chart__time__range {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.chart__spline__chart {
+  margin: 10px;
+  height: 80%;
+  padding-right: 20px;
+  /* overflow: hidden; */
+  border-radius: 10px;
+}
+
+.chart_login_note{
+  display: flex;
+  align-items: center;
+  font-size: 1vw;
+  font-weight: bold;
+  color: white;
+  margin: 0px 30px;
+}
+
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
+/* TABLET */
+@media screen and (max-width:1200px) {
+  .chart__legend__section {
+    width: 25%;
+  }
+
+  .chart__legend__company__section {
+    margin: 0px;
+    padding: 0 0 5px 0;
+  }
+
+  .chart__legend__companies {
+    padding: 5px;
+    display: flex;
+    margin: 2.5px 5px;
+    justify-content: center;
+    border-bottom: 1px solid #5b5c60;
+    /* background: #0a991d; */
+  }
+
+
+  .chart__legend__grade__section {
+    margin: 10px 0 0 0;
+    padding: 0;
+    color: white;
+    font-size: 1.35vw;
+  }
+
+  .chart__legend__grades {
+    max-height: 90%;
+    min-height: 70%;
+  }
+
+  .chart__legend__grade {
+    direction: ltr;
+    display: flex;
+    height: 10%;
+    justify-content: center;
+    align-items: center;
+    width: 49%;
+  }
+
+  .chart__legend__grade__radio {
+    background: #7f7f7f;
+    border: 1px solid #eaebeb;
+    border-radius: 50px;
+    padding: 7.5px;
+    margin: 5px;
+  }
+
+  .chart__legend__border {
+    border: 0.5px solid #4f5157;
+    height: 10%;
+  }
+
+  .chart__section {
+    width: 74%;
+    height: 100%;
+    padding: 0;
+    align-items: center;
+  }
+
+  .chart__header {
+    height: fit-content;
+    padding: 0px 30px;
+  }
+
+  .chart__title {
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 30px;
+    align-items: baseline;
+  }
+
+  .chart__spline__chart {
+    margin: 10px 0;
+    height: 80%;
+    border-radius: 5px;
+  }
+}
+
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
+/* TABLET */
+@media screen and (max-width:650px) {
+  .media_mobile_chart {
+    border-radius: inherit;
+    width: 100%;
+    height: 100%;
+  }
+
+  .media_mobile_buttons {
+    display: flex;
+    max-width: 100%;
+    min-width: 90%;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px auto ;
+    padding: 0 20px;
+  }
+  
+  .media_mobile_chart_main {
+    margin-right: 10px;
+  }
+  .media_mobile_chart_grades{
+    background-color: #4f515733;
+    border-radius: 7.5px;
+    padding: 3px 0;
+    width: 95%;
+    margin: 5px auto 0px auto;
+    display: flex;
+    overflow-x: scroll;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    transform: translateY(-80%);
+  }
+  .media_mobile_chart_onegrade{
+    font-size: 3vw;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: white;
+    margin: 5px auto;
+    min-width: 90px;
+    max-width: 90px;
+  }
+}

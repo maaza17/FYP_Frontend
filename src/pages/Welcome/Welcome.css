@@ -1,0 +1,48 @@
+.welcome {
+  height: 89vh;
+}
+
+.welcome_navspace {
+  min-height: 80px;
+  max-height: 80px;
+}
+
+.welcome_content {
+    display: flex;
+    align-items: center;
+  background: #08131f;
+  min-width: 86%;
+  margin: 2% 7%;
+  height: 15vh;
+  max-width: 86%;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.welcome_confirmation{
+    padding: 20px;
+    font-weight: bold;
+    font-size: 2vw;
+    color: white;
+}
+
+.welcome-hero-btns {
+    width: auto;
+    margin-top: 10px;
+    margin: 0 7%;
+  }
+  .welcome-hero-btns .btn {
+    margin: 6px;
+    background-color: #53d25f;
+  border: 1px solid #53d25f;
+    font-size: 1vw;
+    font-weight: bold;
+    border-radius: 10px 0px 10px 0px;
+  }
+  .welcome-hero-btns .btn:hover {
+    background-color: transparent;
+    color: white;
+  }
+  .fa-long-arrow-alt-right {
+    margin-left: 10px;
+  }

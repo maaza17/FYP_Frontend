@@ -1,0 +1,22 @@
+[
+    {
+        "month": "09//2021",
+        "averagePrice": 188,
+        "percentageChange": 0.35
+    },
+    {
+        "month": "08/2021",
+        "averagePrice": 123,
+        "percentageChange": -0.67
+    },
+    {
+        "month": "07/2021",
+        "averagePrice": 123,
+        "percentageChange": 0.44
+    },
+    {
+        "month": "06/2021",
+        "averagePrice": 123,
+        "percentageChange": 0.44
+    }
+]

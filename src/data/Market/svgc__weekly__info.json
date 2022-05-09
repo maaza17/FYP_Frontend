@@ -1,0 +1,44 @@
+[
+    {
+        "weekly": "09/11/2021",
+        "salesVolume": 3411,
+        "psaPercentage": 56,
+        "cgcPercentage": 35,
+        "bgsPercentage": 12
+    },
+    {
+        "weekly": "08/28/2021",
+        "salesVolume": 3320,
+        "psaPercentage": 56,
+        "cgcPercentage": 35,
+        "bgsPercentage": 12
+    },
+    {
+        "weekly": "08/21/2021",
+        "salesVolume": 3500,
+        "psaPercentage": 56,
+        "cgcPercentage": 35,
+        "bgsPercentage": 12
+    },
+    {
+        "weekly": "08/14/2021",
+        "salesVolume": 3500,
+        "psaPercentage": 56,
+        "cgcPercentage": 35,
+        "bgsPercentage": 12
+    },
+    {
+        "weekly": "07/26/2021",
+        "salesVolume": 3550,
+        "psaPercentage": 56,
+        "cgcPercentage": 35,
+        "bgsPercentage": 12
+    },
+    {
+        "weekly": "07/11/2021",
+        "salesVolume": 3390,
+        "psaPercentage": 56,
+        "cgcPercentage": 35,
+        "bgsPercentage": 12
+    }
+]

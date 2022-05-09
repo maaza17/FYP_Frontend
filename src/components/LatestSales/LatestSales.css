@@ -1,0 +1,42 @@
+.latest__sales {
+  margin: 0px 10px;
+  width: 25%;
+  border-radius: 10px;
+  background-color: #08131f;
+  /* height: max-content; */
+}
+.latest__sales > h5 {
+  margin: 13px;
+  font-size: 25px;
+  color: white;
+}
+.sales {
+  margin: 15px;
+}
+.sale__row {
+  margin: 6% 0px;
+  padding: 5px;
+  border-radius: 5px;
+  background: #333e50;
+  /* width: 100%; */
+  display: flex;
+  justify-content: space-between;
+}
+.sale__row:hover {
+  box-shadow: 500px #fbfcfd;
+}
+.sale__date {
+  color: #fff;
+  padding: 5px;
+  font-size: 12px;
+}
+.sale__company__grade {
+  color: #fff;
+  padding: 5px;
+  font-size: 12px;
+}
+.sale__price {
+  color: #fff;
+  padding: 5px;
+  font-size: 12px;
+}
