@@ -18,29 +18,32 @@ import MarketCheckBox from "../../components/MarketCheckBox/MarketCheckBox";
 import Footer from "../../components/Footer_FYP/FooterFYP";
 import axios from "axios";
 
-export default function Market() {
-  const [user, setUser] = React.useState({});
-  React.useEffect(() => {
-    if (sessionStorage.getItem("token")) {
-      axios
-        .post("" + process.env.REACT_APP_BACKEND_URL + "api/user/getprofile", {
-          token: sessionStorage.getItem("token"),
-        })
-        .then((res) => {
-          console.log(res);
-          if (res.data.success === true) {
-            setUser(res.data.data);
-          }
-        });
-      console.log(user);
-    } else {
-      setUser(null);
-    }
-  }, [sessionStorage.getItem("token")]);
+export default function Market({user, check, setCheck}) {
+  // const [user, setUser] = React.useState({});
+  // React.useEffect(() => {
+  //   if (sessionStorage.getItem("token")) {
+  //     axios
+  //       .post("" + process.env.REACT_APP_BACKEND_URL + "api/user/getprofile", {
+  //         token: sessionStorage.getItem("token"),
+  //       })
+  //       .then((res) => {
+  //         console.log(res);
+  //         if (res.data.success === true) {
+  //           setUser(res.data.data);
+  //         }
+  //       });
+  //     console.log(user);
+  //   } else {
+  //     setUser(null);
+  //   }
+  // }, [sessionStorage.getItem("token")]);
     return (
       <>
         <div className="market-body"></div>
-        <Navbar user={user}/>
+        <Navbar user={user} check={check}
+        setCheck={(val) => {
+          setCheck(val);
+        }}/>
         <div className="all market-page-title">
         </div>
         <div className="market">

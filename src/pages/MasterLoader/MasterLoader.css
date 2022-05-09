@@ -1,0 +1,116 @@
+/* PRELOADER CODE */
+.masterloader__preloader__whole {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100vh;
+    max-height: 100vh;
+    background-color: #0c1b2b
+  }
+  
+  .masterloader__preloader {
+    margin: auto;
+    height: 90%;
+    width: 90%;
+    margin: auto auto;
+    border-radius: 50%;
+    border-right: 9px solid rgba(255, 255, 255, 0.8);
+    animation: spinning 3s linear infinite;
+  }
+  
+  .masterloader__preloader__container {
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+  }
+  
+  @keyframes spinning {
+    0% {
+      transform: rotate(0deg);
+      border-right: 9px solid rgba(255, 255, 255, 0.6);
+    }
+  
+    5% {
+      border-right-color: rgba(255, 255, 255, 0.4)
+    }
+  
+    10% {
+      border-right-color: rgba(255, 255, 255, 0.6)
+    }
+  
+    15% {
+      border-right-color: rgba(255, 255, 255, 0.4)
+    }
+  
+    20% {
+      border-right-color: rgba(255, 255, 255, 0.6)
+    }
+  
+    25% {
+      border-right-color: rgba(255, 255, 255, 0.4)
+    }
+  
+    30% {
+      border-right-color: rgba(255, 255, 255, 0.6)
+    }
+  
+    35% {
+      border-right-color: rgba(255, 255, 255, 0.4)
+    }
+  
+    40% {
+      border-right-color: rgba(255, 255, 255, 0.6)
+    }
+  
+    45% {
+      border-right-color: rgba(255, 255, 255, 0.4)
+    }
+  
+    50% {
+      border-right-color: rgba(255, 255, 255, 0.6)
+    }
+  
+    55% {
+      border-right-color: rgba(255, 255, 255, 0.4)
+    }
+  
+    60% {
+      border-right-color: rgba(255, 255, 255, 0.6)
+    }
+  
+    65% {
+      border-right-color: rgba(255, 255, 255, 0.4)
+    }
+  
+    70% {
+      border-right-color: rgba(255, 255, 255, 0.6)
+    }
+  
+    75% {
+      border-right-color: rgba(255, 255, 255, 0.4)
+    }
+  
+    80% {
+      border-right-color: rgba(255, 255, 255, 0.6)
+    }
+  
+    85% {
+      border-right-color: rgba(255, 255, 255, 0.4)
+    }
+  
+    90% {
+      border-right-color: rgba(255, 255, 255, 0.6)
+    }
+  
+    95% {
+      border-right-color: rgba(255, 255, 255, 0.4)
+    }
+  
+    100% {
+      transform: rotate(360deg);
+      border-right: 9px solid rgba(255, 255, 255, 0.6);
+    }
+  }
+  /* ################################################################## */

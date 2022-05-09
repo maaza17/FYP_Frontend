@@ -15,28 +15,28 @@ import Footer from "../../components/Footer_FYP/FooterFYP";
 import { Link } from "react-router-dom";
 import { Pagination } from "antd";
 
-function Favourite() {
-  const [user, setUser] = React.useState({});
+function Favourite({user, check, setCheck}) {
+  // const [user, setUser] = React.useState({});
   const [error, setError] = React.useState(false);
   const [finalList, setFinalList] = useState(null);
   const [totalCards, setTotalCards] = useState(null);
-  React.useEffect(() => {
-    if (sessionStorage.getItem("token")) {
-      axios
-        .post("" + process.env.REACT_APP_BACKEND_URL + "api/user/getprofile", {
-          token: sessionStorage.getItem("token"),
-        })
-        .then((res) => {
-          console.log(res);
-          if (res.data.success === true) {
-            setUser(res.data.data);
-          }
-        });
-      console.log(user);
-    } else {
-      setUser(null);
-    }
-  }, [sessionStorage.getItem("token")]);
+  // React.useEffect(() => {
+  //   if (sessionStorage.getItem("token")) {
+  //     axios
+  //       .post("" + process.env.REACT_APP_BACKEND_URL + "api/user/getprofile", {
+  //         token: sessionStorage.getItem("token"),
+  //       })
+  //       .then((res) => {
+  //         console.log(res);
+  //         if (res.data.success === true) {
+  //           setUser(res.data.data);
+  //         }
+  //       });
+  //     console.log(user);
+  //   } else {
+  //     setUser(null);
+  //   }
+  // }, [sessionStorage.getItem("token")]);
 
   React.useEffect(() => {
     axios
@@ -106,7 +106,10 @@ function Favourite() {
   }
   return (
     <>
-      <Navbar user={user} />
+      <Navbar user={user} check={check}
+        setCheck={(val) => {
+          setCheck(val);
+        }}/>
       <div className="favourite">
         <div className="favourite_navspace"></div>
         <div className="favourite_header">

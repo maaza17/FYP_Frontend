@@ -31,7 +31,7 @@ export default function Login({ check, setCheck }) {
         if (res.data.success === true) {
           console.log("tokencreate");
           sessionStorage.setItem("token", res.data.token);
-          // setCheck(!check);
+          setCheck(!check);
           history.push("/");
         } else {
           alert(res.data.message);

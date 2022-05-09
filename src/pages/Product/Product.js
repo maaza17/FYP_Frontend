@@ -11,7 +11,7 @@ import Analysis from "../../components/Analysis/Analysis";
 import Navbar from "../../components/NavbarRest/NavbarRest";
 import Footer from "../../components/Footer_FYP/FooterFYP";
 
-export default function Product({ props, check, setCheck }) {
+export default function Product({ props, check, setCheck, user}) {
   const history = useHistory();
   const search = useLocation().search;
   const [error, setError] = React.useState(false);
@@ -28,27 +28,27 @@ export default function Product({ props, check, setCheck }) {
   const [lastSold, setLastSold] = React.useState(null);
   const [cardPopulation, setcardPopulation] = React.useState(undefined);
   const [allSales, setallSales] = React.useState([]);
-  const [user, setUser] = React.useState(null);
+  // const [user, setUser] = React.useState(null);
   const [isFavourite, setIsFavourite] = React.useState(null);
   const [FavouriteText, setFavouriteText] = useState("Add to Favorites");
   const token = null;
-  React.useEffect(() => {
-    if (sessionStorage.getItem("token")) {
-      axios
-        .post("" + process.env.REACT_APP_BACKEND_URL + "api/user/getprofile", {
-          token: sessionStorage.getItem("token"),
-        })
-        .then((res) => {
-          console.log(res);
-          if (res.data.success === true) {
-            setUser(res.data.data);
-          }
-        });
-      console.log(user);
-    } else {
-      setUser(null);
-    }
-  }, [sessionStorage.getItem("token")]);
+  // React.useEffect(() => {
+  //   if (sessionStorage.getItem("token")) {
+  //     axios
+  //       .post("" + process.env.REACT_APP_BACKEND_URL + "api/user/getprofile", {
+  //         token: sessionStorage.getItem("token"),
+  //       })
+  //       .then((res) => {
+  //         console.log(res);
+  //         if (res.data.success === true) {
+  //           setUser(res.data.data);
+  //         }
+  //       });
+  //     console.log(user);
+  //   } else {
+  //     setUser(null);
+  //   }
+  // }, [sessionStorage.getItem("token")]);
 
   const hasWindow = typeof window !== "undefined";
   const [windowDimensions, setWindowDimensions] = React.useState(
@@ -59,7 +59,7 @@ export default function Product({ props, check, setCheck }) {
     const width = hasWindow ? window.innerWidth : null;
     return {
       width,
-    };
+    }; 
   }
 
   React.useEffect(() => {
@@ -345,7 +345,10 @@ export default function Product({ props, check, setCheck }) {
     console.log(error);
     return (
       <>
-        <Navbar user={user} />
+        <Navbar user={user} check={check}
+        setCheck={(val) => {
+          setCheck(val);
+        }}/>
         <div className="product__preloader__whole">
           <div className="product__error__message">
             ERROR Loading Page
@@ -359,7 +362,10 @@ export default function Product({ props, check, setCheck }) {
   } else if (card) {
     return (
       <>
-        <Navbar user={user} />
+        <Navbar user={user} check={check}
+        setCheck={(val) => {
+          setCheck(val);
+        }}/>
 
         <div className="product">
           <div className="product__info">
@@ -776,7 +782,10 @@ export default function Product({ props, check, setCheck }) {
   } else {
     return (
       <>
-        <Navbar user={user} />
+        <Navbar user={user} check={check}
+        setCheck={(val) => {
+          setCheck(val);
+        }}/>
         <div className="product__preloader__whole">
           <div className="product__preloader__container">
             <div className="product__preloader">

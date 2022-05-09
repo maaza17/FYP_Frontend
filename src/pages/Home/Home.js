@@ -12,29 +12,33 @@ import NavButtons from "../../components/NavButtons/NavButtons";
 import axios from "axios";
 import Footer from "../../components/Footer_FYP/FooterFYP";
 
-function Home() {
-  const [user, setUser] = React.useState({});
-  React.useEffect(() => {
-    if (sessionStorage.getItem("token")) {
-      axios
-        .post("" + process.env.REACT_APP_BACKEND_URL + "api/user/getprofile", {
-          token: sessionStorage.getItem("token"),
-        })
-        .then((res) => {
-          console.log(res);
-          if (res.data.success === true) {
-            setUser(res.data.data);
-          }
-        });
-      console.log(user);
-    } else {
-      setUser(null);
-    }
-  }, [sessionStorage.getItem("token")]);
+function Home({user, check, setCheck}) {
+  // const [user, setUser] = React.useState({});
+  // React.useEffect(() => {
+  //   // console.log("getprofile");
+  //   if (sessionStorage.getItem("token")) {
+  //     axios
+  //       .post("" + process.env.REACT_APP_BACKEND_URL + "api/user/getprofile", {
+  //         token: sessionStorage.getItem("token"),
+  //       })
+  //       .then((res) => {
+  //         console.log(res);
+  //         if (res.data.success === true) {
+  //           setUser(res.data.data);
+  //         }
+  //       });
+  //     console.log(user);
+  //   } else {
+  //     setUser(null);
+  //   }
+  // }, [sessionStorage.getItem("token")]);
   return (
     <div className="home">
       <Navbar
-        user={user}
+        user={user} check={check}
+        setCheck={(val) => {
+          setCheck(val);
+        }}
         
       />
       <div className="navbar__space"></div>

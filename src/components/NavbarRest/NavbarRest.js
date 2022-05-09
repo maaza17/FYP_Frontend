@@ -8,7 +8,7 @@ import logo from "../../assets/images/tcglogo.png";
 import close from "../../assets/images/close.png";
 import icon from "../../assets/images/profile.jpg";
 
-function Navbar({ user }) {
+function Navbar({ user, check, setCheck}) {
   const history = useHistory();
   const [pressed, setPressed] = React.useState(false);
   const wrapperRef = useRef(null);
@@ -136,6 +136,7 @@ function Navbar({ user }) {
                     sessionStorage.clear();
                     history.push("/");
                     console.log(sessionStorage);
+                    setCheck(!check);
                   }}
                 >
                   Logout

@@ -8,7 +8,7 @@ import CheckBoxSet from "../../components/CheckBox/CheckBoxSet";
 import Navbar from "../../components/NavbarRest/NavbarRest";
 import Footer from "../../components/Footer_FYP/FooterFYP";
 
-function Shop({props}) {
+function Shop({props, user, check, setCheck}) {
   //Variables XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   const history = useHistory();
   const search = useLocation().search;
@@ -29,24 +29,24 @@ function Shop({props}) {
   const [totalCards, settotalCards] = React.useState(null);
   const [first, setFirst] = React.useState(true);
 
-  const [user, setUser] = React.useState({});
-  React.useEffect(() => {
-    if (sessionStorage.getItem("token")) {
-      axios
-        .post("" + process.env.REACT_APP_BACKEND_URL + "api/user/getprofile", {
-          token: sessionStorage.getItem("token"),
-        })
-        .then((res) => {
-          console.log(res);
-          if (res.data.success === true) {
-            setUser(res.data.data);
-          }
-        });
-      console.log(user);
-    } else {
-      setUser(null);
-    }
-  }, [sessionStorage.getItem("token")]);
+  // const [user, setUser] = React.useState({});
+  // React.useEffect(() => {
+  //   if (sessionStorage.getItem("token")) {
+  //     axios
+  //       .post("" + process.env.REACT_APP_BACKEND_URL + "api/user/getprofile", {
+  //         token: sessionStorage.getItem("token"),
+  //       })
+  //       .then((res) => {
+  //         console.log(res);
+  //         if (res.data.success === true) {
+  //           setUser(res.data.data);
+  //         }
+  //       });
+  //     console.log(user);
+  //   } else {
+  //     setUser(null);
+  //   }
+  // }, [sessionStorage.getItem("token")]);
 
   //Get From Link XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   React.useEffect(() => {
@@ -248,7 +248,10 @@ function Shop({props}) {
   //Return Page
   return (
     <div className="shop">
-      <Navbar user={user}/>
+      <Navbar user={user} check={check}
+        setCheck={(val) => {
+          setCheck(val);
+        }}/>
       <div className="shop__shop">
         <div className="shop__search-main">
           <input

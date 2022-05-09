@@ -8,7 +8,7 @@ import MarketSetValueTopCards from "../../components/MarketSetValueTopCards/Mark
 import { useLocation, useHistory } from "react-router-dom";
 import Footer from "../../components/Footer_FYP/FooterFYP";
 
-export default function MasterSetValue() {
+export default function MasterSetValue({user, check, setCheck}) {
   const history = useHistory();
   const search = useLocation().search;
   const [error, setError] = React.useState(false);
@@ -20,24 +20,24 @@ export default function MasterSetValue() {
   const [allsets, setallsets] = React.useState(null);
   const [showsets, setshowsets] = React.useState(false);
   const [refresh, setrefresh] = React.useState(false);
-  const [user, setUser] = React.useState({});
-  React.useEffect(() => {
-    if (sessionStorage.getItem("token")) {
-      axios
-        .post("" + process.env.REACT_APP_BACKEND_URL + "api/user/getprofile", {
-          token: sessionStorage.getItem("token"),
-        })
-        .then((res) => {
-          console.log(res);
-          if (res.data.success === true) {
-            setUser(res.data.data);
-          }
-        });
-      console.log(user);
-    } else {
-      setUser(null);
-    }
-  }, [sessionStorage.getItem("token")]);
+  // const [user, setUser] = React.useState({});
+  // React.useEffect(() => {
+  //   if (sessionStorage.getItem("token")) {
+  //     axios
+  //       .post("" + process.env.REACT_APP_BACKEND_URL + "api/user/getprofile", {
+  //         token: sessionStorage.getItem("token"),
+  //       })
+  //       .then((res) => {
+  //         console.log(res);
+  //         if (res.data.success === true) {
+  //           setUser(res.data.data);
+  //         }
+  //       });
+  //     console.log(user);
+  //   } else {
+  //     setUser(null);
+  //   }
+  // }, [sessionStorage.getItem("token")]);
 
   React.useEffect(() => {
     setsetFilters(
@@ -77,7 +77,10 @@ export default function MasterSetValue() {
   if (error)
     return (
       <div className="MasterSetValue">
-        <Navbar user={user} />
+        <Navbar user={user} check={check}
+        setCheck={(val) => {
+          setCheck(val);
+        }} />
         <div className="MasterSetValue_NavSpace"></div>
         <div className="MasterSetValue_Container">
           <div className="MasterSetValue_Error_Message">
@@ -91,7 +94,10 @@ export default function MasterSetValue() {
     );
   return (
     <div className="MasterSetValue">
-      <Navbar user={user} />
+      <Navbar user={user} check={check}
+        setCheck={(val) => {
+          setCheck(val);
+        }}/>
       <div className="MasterSetValue_NavSpace"></div>
       <div className="MasterSetValue_Container">
         <div className="MasterSetValue_Head">

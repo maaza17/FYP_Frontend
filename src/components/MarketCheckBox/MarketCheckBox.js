@@ -22,7 +22,7 @@ function MarketCheckBox(props) {
   ];
   const [SuperChecked, setSuperChecked] = useState(0);
   const [Checked, setChecked] = useState(0);
-  // const [hide, sethide] = useState(false);
+  const [hide, sethide] = useState(false);
 
 
 
@@ -34,14 +34,15 @@ function MarketCheckBox(props) {
     };
   };
 
-  // function checkHide() {
-  //   if (document.documentElement.scrollTop > document.documentElement.scrollHeight - 300) {
-  //     sethide(true);
-  //   }
-  //   else if (document.documentElement.scrollTop < document.documentElement.scrollHeight - 300) {
-  //     sethide(false);
-  //   }
-  // }
+  function checkHide() {
+    // console.log(document.documentElement.scrollHeight)
+    if (document.documentElement.scrollTop > document.documentElement.scrollHeight -  1200) {
+      sethide(true);
+    }
+    else if (document.documentElement.scrollTop < document.documentElement.scrollHeight - 1200) {
+      sethide(false);
+    }
+  }
 
   var scrollStopper = delayedExec(40, function () {
     onScrollProgress();
@@ -51,11 +52,11 @@ function MarketCheckBox(props) {
     // console.log()
     if (window.location.pathname === "/market") {
       window.addEventListener('scroll', scrollStopper);
-      // window.addEventListener('scroll', checkHide);
+      window.addEventListener('scroll', checkHide);
       window.scrollTo(0, 0);
       return () => {
         window.removeEventListener("scroll", scrollStopper);
-        //  window.removeEventListener("scroll", checkHide);
+         window.removeEventListener("scroll", checkHide);
       }
     }
   }, [window.location.pathname]);
@@ -70,7 +71,7 @@ function MarketCheckBox(props) {
 
 
   function onScrollProgress() {
-    // if (!hide) {
+    if (!hide) {
     if (document.documentElement.scrollTop === 0) {
       select(0, 0);
     }
@@ -90,7 +91,7 @@ function MarketCheckBox(props) {
         }
       }
     }
-    // }
+    }
   };
 
   const renderSuperCheckList = () =>
@@ -201,8 +202,8 @@ function MarketCheckBox(props) {
     setChecked(sub);
     setSuperChecked(sup);
   };
-  // if (hide) return null;
-  // else 
+  if (hide) return null;
+  else 
   return <>
     <div className="market-page-title">Market Research Tool</div>
     <div className="market__OneBigBox">{renderSuperCheckList()}</div>
